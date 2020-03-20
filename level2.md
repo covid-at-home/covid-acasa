@@ -1,76 +1,76 @@
-## Level 2 -- Emerging Symptoms
+## Nivelul 2 - Simptome emergente
 
-![](/images/sneezing-emoji.png)
+! [] (/ Images / strănut-emoji.png)
 
-Notice if you suffer from any of the following first symptoms:
+Observați dacă suferiți de oricare dintre următoarele simptome:
 
-* Fever
-* Fatigue
-* Sore throat
-* Dry (unproductive) cough
-* Coughing up slime
-* Joint / muscle pain
-* Shortness of breath
-* Lack of hunger
+* Febra
+* Oboseala
+* Durere de gât
+* Tuse uscată (neproductivă)
+* Tuse de slime
+* Dureri articulare / musculare
+* Scurtă de respirație
+* Lipsa foamei
 
-Initial symptoms may also include headache, chills, dizziness, nasal congestion, abdominal pain, diarrhea, nausea, and vomiting. Later in the infection, symptoms may include loss of smell and taste lasting for several days. 
+Simptomele inițiale pot include, de asemenea, dureri de cap, frisoane, amețeli, congestie nazală, dureri abdominale, diaree, greață și vărsături. Mai târziu în infecție, simptomele pot include pierderea mirosului și a gustului care durează câteva zile.
 
-Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
+Este răspândit COVID-19 în comunitatea în care trăiți? Sau ai fost într-o zonă afectată sau ai fost în preajma cuiva care se afla într-o zonă afectată? Atunci simptomele tale ar putea fi foarte bine COVID-19. Dar amintiți-vă: în multe domenii, șansele că este altceva vor fi în continuare mai mari.
 
-> Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature internally (i.e., in the bottom / rectum), it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after each use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7 degrees Celsius is often added to oral temperatures.) Here are some good instructions for [how to take an oral temperature](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
+> Notă: Febra nu este subiectivă. Veți avea nevoie de un termometru (sau doi) și de a ține evidența într-un jurnal de temperatură cel puțin zilnic. Dacă alegeți să luați temperatura în interior (adică în partea de jos / rect), va fi mai precis. Asigurați-vă că aveți suficiente șervețele și alcool pentru a curăța termometrul după fiecare utilizare. Dacă luați temperatura oral, nu mâncați și nu beți timp de 20 de minute înainte. În orice caz, notați metoda din jurnalul dvs., astfel încât personalul medical să știe care este. (În jurul valorii de .7 grade Celsius este adesea adăugat la temperaturi orale.) Iată câteva instrucțiuni bune pentru [cum se face o temperatură orală] (https://www.drugs.com/cg/how-to-take-an-oral -temperature.html).
 
-### Diagnosis
+### Diagnosticul
 
-There will be different policies surrounding testing for COVID-19 based on where you are and what stage of the pandemic your area is in. Check online, call official hotline numbers, follow official guidelines, and consider driving to a drive-through testing center if your area has one and the patient qualifies for testing. **You should not just show up at a doctor's office or a hospital unannounced if you just experience the first symptoms.**
+Vor fi diferite politici în legătură cu testarea COVID-19, în funcție de locul în care vă aflați și în ce etapă a pandemiei se află zona dvs. zona dvs. are unul și pacientul se califică pentru testare. ** Nu trebuie să vă prezentați doar la cabinetul medicului sau la un spital neanunțat doar dacă întâmpinați primele simptome. **
 
-> Remember: Hospitals are bad places to be until you absolutely have to be there: You and / or the patient run the risk of getting additional infections that, when bacterial or fungal, are much more likely to be resistant to standard treatments due to the nature of the hospital environment. Also: Many hospitals are going to be overloaded.
+> Amintiți-vă: spitalele sunt locuri proaste până când trebuie să fiți absolut acolo: Dvs. și / sau pacientul riscați să apară infecții suplimentare care, atunci când sunt bacteriene sau fungice, sunt mult mai susceptibile să fie rezistente la tratamentele standard din cauza natura mediului spitalicesc. De asemenea: multe spitale vor fi supraîncărcate.
 
-### Don't Panic - The Worried Well
+### Nu vă panicați - bine îngrijorați
 
-For most people, this will be as bad as it gets. You'll be a little sick, and then you'll get better. Done. At the same time, some people will not be so lucky. Even if only a relatively small percentage of those affected need medical care, this will put a serious strain on doctors, nurses and available medical resources. We can all help. The "Worried Well" are people who visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are not a good time for that. This website aims to give you more confidence and preparedness in caring for yourself, friends, and loved ones until you / they actually need professional help.
+Pentru majoritatea oamenilor, acest lucru va fi la fel de rău pe cât îl va primi. Vei fi un pic bolnav, și atunci vei fi mai bine. Terminat. În același timp, unii oameni nu vor fi atât de norocoși. Chiar dacă doar un procent relativ mic dintre cei afectați au nevoie de îngrijiri medicale, acest lucru va pune un efort grav asupra medicilor, asistenților medicali și a resurselor medicale disponibile. Cu toții putem ajuta. „Păcatul îngrijorat” sunt oameni care vizitează medicul atunci când nu sunt cu adevărat (tot atâta) bolnavi, pentru că au nevoie de liniște. Săptămânile și lunile următoare nu sunt un moment bun pentru asta. Acest site web își propune să vă ofere mai multă încredere și pregătire în grija dvs., a prietenilor și a celor dragi până când aveți nevoie de ajutor profesional.
 
-### Self-quarantine
+### Auto-carantină
 
-Until tested and depending on where you are and where you have been, it may be prudent to assume the patient (you? a family member?) has COVID-19. That means self-quarantine at home. No more visitors, a sign on the door, and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. If possible, you will want to err on the side of safety and try to get everything delivered for 2 weeks. Things may change, as in some areas the virus will become so common (endemic) that many people will have had it. There is no telling at what point various authorities will stop testing every potential infection, and it will differ from region to region.
+Până la testare și în funcție de locul în care vă aflați și de unde ați fost, poate fi prudent să presupuneți că pacientul (dumneavoastră? Un membru al familiei?) Are COVID-19. Asta înseamnă auto-carantină acasă. Nu mai sunt vizitatori, un semn pe ușă și pacientul nu trebuie să iasă decât dacă nu există șanse de întâlnire cu cineva. Zonele diferite au standarde diferite pentru ceea ce înseamnă auto-carantină atunci când există alte persoane în gospodărie. Dacă este posibil, veți dori să greșiți din partea siguranței și să încercați să vă livrați totul timp de 2 săptămâni. Lucrurile se pot schimba, deoarece în unele zone virusul va deveni atât de comun (endemic) încât mulți oameni vor fi avut. Nu se spune la ce punct diferite autorități vor înceta testarea fiecărei potențiale infecții și va diferi de la o regiune la alta.
 
-### Family, flatmates, etc.
+### Familia, colegii de apartament etc.
 
-Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine too, while keeping the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. 
+Membrii gospodariilor oamenilor cunoscuți sau suspectați de a fi infectați trebuie să se considere ca și potențial infectați și auto-carantina, păstrând totodată distanța maximă posibilă față de pacient, atâta timp cât pacientul poate avea grijă de el. Aceasta înseamnă să fii în camere diferite, să dormi în paturi diferite, să mănânci separat, să folosești diferite feluri de mâncare și prosoape și, atunci când este posibil, să folosești băi diferite.
 
-Regularly clean all frequently touched surfaces with household bleach diluted with water: 10 ml / 2 tsp bleach with half a liter / 2 cups of water (carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. You should give the spray a minute to work on surfaces before wiping it dry.
+Curățați regulat toate suprafețele atinse frecvent cu înălbitor casnic diluat cu apă: 10 ml / 2 linguri de înălbitor cu o jumătate de litru / 2 căni de apă (spălați cu atenție instrumentele de măsurare înainte de refolosire). Puteți pune această soluție într-un pulverizator pentru uzină sau într-o sticlă de curățare curat. Ar trebui să oferiți spray-ului un minut pentru a lucra pe suprafețe înainte de a-l șterge la uscat.
 
-Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks, wear one. Disposable gloves, long-sleeve protective gowns, and eye protection may also be appropriate. The [shopping page](/shopping) on this website contains some ideas for personal protection items, as well as important information on when and how to use them.
+Cel mai târziu este momentul să ne gândim la echipamentele de protecție personală (PPE). Dacă puteți obține măști, purtați una. Mănuși de unică folosință, halate de protecție cu mânecă lungă și protecție pentru ochi pot fi de asemenea adecvate. [Pagina de cumpărături] (/ cumpărături) de pe acest site web conține câteva idei pentru articole de protecție personală, precum și informații importante despre momentul și cum să le folosești.
 
-In most places, there will probably come a time when the number of cases skyrockets, many people have already had COVID-19, and authorities will no longer keep records of who has had it and who hasn't. The basis then remain the same: Try to protect older people and people with existing illnesses as much as possible, and try to minimize spread whenever you can, as best you can. Remember: The more we can slow down or altogether lessen the disease's spread, the better it is for everyone. Because by helping to slow or stop the spread, you can help lessen how overwhelmed the healthcare system is going to become. That in turn increases the proportion and number of people who need medical care, who are able to access it. This helps doctors and nurses save more lives. 
+În cele mai multe locuri, probabil că va veni un moment în care numărul de cazuri se abate, mulți oameni au avut deja COVID-19, iar autoritățile nu vor mai ține înregistrări despre cine l-a avut și cine nu. Baza apoi rămâne aceeași: Încercați să protejați cât mai mult posibil persoanele în vârstă și persoanele cu boli existente și încercați să minimizați răspândirea ori de câte ori puteți, cât mai bine puteți. Amintiți-vă: cu cât putem încetini sau reduce mai mult răspândirea bolii, cu atât este mai bine pentru toată lumea. Pentru că, ajutând la încetinirea sau oprirea răspândirii, puteți ajuta la reducerea cât de copleșit va deveni sistemul de asistență medicală. Acest lucru, la rândul său, crește proporția și numărul de persoane care au nevoie de îngrijiri medicale, care sunt în măsură să îl acceseze. Acest lucru ajută medicii și asistentele să salveze mai multe vieți.
 
-### Diary
+### Jurnal
 
-When symptoms first start is the right time to start an illness diary. 
+Când simptomele încep prima dată, este momentul potrivit pentru a începe un jurnal al bolii.
 
-A few times a day, preferably at somewhat regular hours or points in your normal routines or rhythms (e.g., every morning before making coffee or tea), measure temperature, even if you don't feel like you have a fever (yet). Weigh once a day if possible. Also note respiratory and heart rates in breaths and beats per minute. It will get you used to doing these things, give you practise, and (if you start early) give you some idea what (more or less) healthy values for you look like. Not necessary, but extra points for blood pressure and oxygenation (Devices to measure those are cheap, see the [shopping page](/shopping)). 
+De câteva ori pe zi, de preferință la ore sau puncte oarecum obișnuite în rutinele sau ritmurile normale (de exemplu, în fiecare dimineață înainte de a face cafea sau ceai), măsurați temperatura, chiar dacă nu simțiți că aveți febră (încă). Cântărește o dată pe zi, dacă este posibil. De asemenea, notați frecvențele respiratorii și cardiace în respirații și bătăi pe minut. Te va obișnui să faci aceste lucruri, să îți ofere practică și (dacă începi devreme) îți va oferi o idee care sunt (mai mult sau mai puțin) valori sănătoase pentru tine. Nu este necesar, dar puncte suplimentare pentru tensiunea arterială și oxigenare (dispozitivele de măsurare sunt ieftine, vezi [pagina cumpărături] (/ cumpărături)).
 
-Then write down any symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? Be sure to note what medication, if any, the patient takes. 
+Apoi scrieți orice simptome pe care le are pacientul. Dacă el sau ea are durere, unde și când este durerea și cât de rău pe o scară de la 0 (fără durere) la 10 (cea mai gravă durere imaginabilă)? Cât de rău este tusea? Ce culoare dacă se produce mucus? Asigurați-vă că observați ce medicamente, dacă există, pacientul ia.
 
-Paracetamol (also known as acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period.
+Paracetamolul (cunoscut și sub denumirea de acetaminofen) este o alegere bună pentru suprimarea febrei și a durerii. Păstrarea unui jurnal de boală vă va ajuta, de asemenea, să urmăriți cât de mult ați luat, când, pentru a vă asigura că tratați în mod adecvat febra fără a lua mai mult decât cantitatea recomandată într-o perioadă de 24 de ore.
 
-[![](/images/diary-small-slanted.png)](/diary)
+[! [] (/ Images / jurnal-mici-slanted.png)] (/ jurnal)
 
-#### Printable illness diary
+#### Jurnal de boli tiparite
 
-We made a **[printable illness diary](/diary)** that you can use to write down all the information you collect when you take temperature, breathing rate, etc. Please check out the form and our webpage about it via the link above.
+Am făcut un ** [jurnal de boli tipărit] (/ jurnal) ** pe care îl puteți folosi pentru a nota toate informațiile pe care le colectați atunci când luați temperatura, ritmul de respirație, etc. Vă rugăm să consultați formularul și pagina noastră web despre asta prin intermediul linkul de mai sus.
 
-### Get healthy again
+### Deveniți sănătoși din nou
 
-Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol (also known as acetaminophen) if you can. Questions are emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. An additional safe way to treat fever is to take a bath or shower. The water temperature should be comfortable, not cold, because shivering can raise your core body temperature - and the idea is to lower it. When you get out of the bath or shower, the leftover water evaporating like sweat from your skin can help lower your temperature. 
+Tratați durerea și febra cu medicamente fără rețea la dozele sigure recomandate. Folosiți paracetamol (cunoscut și sub numele de acetaminofen) dacă puteți. Apar întrebări în legătură cu siguranța ibuprofenului / medicamentelor antiinflamatoare nesteroidiene, precum și a corticosteroizilor / medicamentelor antiinflamatorii steroidiene, în cazul coronavirusului. Dacă este posibil, evitați utilizarea lor dacă aveți simptome. O modalitate suplimentară de siguranță de a trata febra este să faci baie sau duș. Temperatura apei ar trebui să fie confortabilă, nu rece, deoarece tremurarea îți poate ridica temperatura de bază a corpului - iar ideea este să o cobori. Când ieșiți din baie sau duș, apa rămasă care se evaporă ca transpirația de pe piele vă poate ajuta să vă scădea temperatura.
 
-Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc). Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and teas are better choices then. 
+Încercați să continuați să mâncați alimente hrănitoare. Nimic prea greu, nici prea mult în același timp. O mulțime de vitamine și produse proaspete. Carbohidrați adecvați (cartofi, orez, paste etc.). Inhalează aburul de 3 ori pe zi. Mergeți la o plimbare zilnică atunci când este posibil, păstrând distanța față de alte persoane. Dacă gâtul vă este iritat, evitați băuturile acide (cum ar fi sodă și suc), deoarece acestea pot fi mai iritante; apa și ceaiurile sunt alegeri mai bune atunci.
 
-Notice the color and amount of your urine. If it is dark (more colored than clear), or there is not a lot, drink more water. It is very important to avoid and treat dehydration by drinking enough, even though it can be hard to drink enough when you have a fever / are sweating a lot, and are suffering from fatigue and discomfort due to illness. If you are struggling to drink enough and beginning to show signs of dehydration like darker urine, you might also try eating foods containing more water (e.g., cucumber, oranges, apples), sipping on boullion or soup, or setting a small goal for yourself (e.g., every time you get up, drink a glass of water). 
+Observați culoarea și cantitatea de urină. Dacă este întunecat (mai colorat decât limpede), sau nu este mult, bea mai multă apă. Este foarte important să evitați și să tratați deshidratarea consumând suficient, chiar dacă poate fi greu să beți suficient când aveți febră / transpirați foarte mult și suferiți de oboseală și disconfort din cauza bolilor. Dacă vă luptați să beți suficient și începeți să prezentați semne de deshidratare, cum ar fi urina mai închisă, puteți încerca, de asemenea, să mâncați alimente care conțin mai multă apă (de exemplu, castraveți, portocale, mere), să sorbiți pe bumbac sau supă sau să vă setați un obiectiv mic pentru dvs. (de exemplu, de fiecare dată când te ridici, bei un pahar cu apă).
 
-Coughing can be an important, healthy effort on the part of the body to clear the lungs of fluid so you can breathe easier. Do not suppress a productive cough all the time / just because you don't want to be coughing. However, if you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, then over-the-counter cough medications, herbal teas such as anise / chamomile, cocoa, and lozenges can help. Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, generally considered safe mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
+Tusea poate fi un efort important și sănătos din partea corpului pentru a curăța plămânii de lichid, astfel încât să puteți respira mai ușor. Nu suprimați tot timpul o tuse productivă / doar pentru că nu doriți să tusezi. Cu toate acestea, dacă doriți să încercați să vă suprimați tuse suficient pentru a obține o noapte bună de somn, astfel încât corpul dvs. să se vindece mai bine, atunci medicamentele pentru tuse fără rețea, ceaiurile din plante, cum ar fi anasonul / mușețelul, cacao și pastile. Unele medicamente contra tusei fără rețea conțin ingrediente precum guaifenesină sau NAC, considerate în general mucolitice sigure care ameliorează tusea ajutând corpul să scape de mucus (de obicei, făcându-l mai subțire și mai ușor să tuseze); farmacistul dvs. vă poate ajuta să găsiți unul potrivit pentru dvs.
 
-### Feeling better?
+### Mă simt mai bine?
 
-Before you break your quarantine, health authorities may want to (re)test you to see you are really not contagious anymore. But maybe the number of cases is already so high that people will have to make their own decisions. Err on the side of safety and try to stay home for a little longer than officially indicated. The [World Health Organization recommendation](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) is to continue isolation for at least two weeks after symptoms disappear, even if you are no longer feeling sick. 
+Înainte de a vă sparge carantina, autoritățile medicale ar putea dori să vă (re) testeze pentru a vedea că nu mai sunteți contagioși. Dar poate că numărul de cazuri este deja atât de mare încât oamenii vor trebui să ia propriile decizii. Efectuați siguranța și încercați să rămâneți acasă un timp mai mult decât a fost indicat oficial. [Recomandarea Organizației Mondiale a Sănătății] (https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19- --16-mars-2020) trebuie să continue izolarea timp de cel puțin două săptămâni după dispariția simptomelor, chiar dacă nu vă mai simțiți rău.
 
-If you managed to get tested, yay! You now know that your body (presumably, keep watching the latest science on this) has built immunity. Which means that this thing is over for you, and also that you are a more logical choice to help your family and friends when they get sick. Depending on what state the world is in, you may want to inform your employer and others that might depend on you that you've had it, so they know you're immune.
+Dacă ai reușit să te testezi, da! Știți acum că corpul dvs. (probabil, continuați să urmăriți cele mai recente științe în acest sens) a creat imunitate. Ceea ce înseamnă că acest lucru s-a terminat pentru dvs. și, de asemenea, că sunteți o alegere mai logică pentru a vă ajuta familia și prietenii atunci când se îmbolnăvesc. În funcție de starea în care se află lumea, este posibil să doriți să informați angajatorul și alte persoane care ar putea depinde de dvs. că l-ați avut, astfel încât să știe că sunteți imun.

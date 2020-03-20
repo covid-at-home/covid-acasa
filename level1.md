@@ -1,66 +1,66 @@
-## Level 1 -- Healthy
+## Nivelul 1 - sănătos
 
-### Don't Get Infected
+### Nu te infecta
 
-*(Or infect others should you happen to be asymptomatic / feel fine, but actually have COVID-19... Asymptomatic cases are still infectious.)* 
+* (Sau infectați-i pe alții dacă ar trebui să fiți asimptomatici / să vă simțiți bine, dar aveți de fapt COVID-19 ... Cazurile asimptomatice sunt încă infecțioase.) *
 
-Where possible, follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
+Dacă este posibil, urmați instrucțiunile autorităților. Aceasta include câteva dintre liniile directoare de acum cunoscute pentru distanțarea socială:
 
-* Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance.
-* Your eyes, nose, and mouth are possible ways for the virus to enter your body. Wash your hands before touching your face. Don't touch your face while outside.
-* Wash your hands vigorously with soap and water as often as possible, including as soon as you come home and before eating. Use soap and water, not hand sanitizer, when possible: It is more [reliable](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html). 
-* Change your clothes when you get home as well. 
-* Regularly sterilize doorknobs, table surfaces, keyboards, and other places people frequently touch.
-* Cough and sneeze into your elbow, not into your hand or unprotected. 
-* Work from home when possible.
-* Use alternatives to in-person meetings (e.g., video or voice calls) when possible. 
-* Avoid crowds and unnecessary travel. If you must go shopping, do it when stores are less likely to be busy. If you must be in a crowd, try to keep your personal distance from others and move away from anyone who seems to be ill (e.g., is coughing or sneezing). 
-* Instead of taking public transit, walk or bike wherever you can. If you must take public transit, again keep your personal distance from others and move away from anyone who is ill. 
-* Instead of going to restaurants, cook and eat at home. 
-* Instead of having food or groceries delivered or delivering them to another person at home with direct contact, arrange to have them left or to leave them outside the door. 
-* Instead of meeting friends for a coffee or a drink, have a video-chat or coordinate a walk to the grocery store while keeping your [safe distance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) of at least 1.5 meters, or around five feet apart. 
-* Instead of exercising inside (e.g., at the gym), go outside for a walk or run if weather permits, while keeping your distance from other people. 
-* Follow any additional government / public health authority advice, including the eventual advice to stay indoors when that becomes applicable for where you are.
+* Schimbă-ți salutul. În loc de o strângere de mână, îmbrățișare sau sărutare, încercați să fluturați sau să vă înclinați de la distanță.
+* Ochii, nasul și gura sunt modalități posibile pentru ca virusul să intre în corp. Spălați-vă mâinile înainte de a vă atinge fața. Nu-ți atinge fața când ești afară.
+* Spălați-vă puternic pe mâini cu apă și săpun cât mai des posibil, inclusiv imediat ce vii acasă și înainte de a mânca. Folosiți săpun și apă, nu dezinfectant pentru mâini, atunci când este posibil: este mai [de încredere] (https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html).
+* Schimbă-ți hainele când ajungi și tu acasă.
+* Sterilizați regulat butoanele, suprafețele mesei, tastaturile și alte locuri pe care oamenii le ating frecvent.
+* Tuse și strecoară-te în cot, nu în mână sau neprotejat.
+* Lucrați de acasă când este posibil.
+* Utilizați alternative la întâlniri în persoană (de exemplu, apeluri video sau vocale) atunci când este posibil.
+* Evitați aglomerația și călătoriile inutile. Dacă trebuie să mergi la cumpărături, fă-o atunci când magazinele sunt mai puțin probabil să fie ocupate. Dacă trebuie să vă aflați într-o mulțime, încercați să vă păstrați distanța personală față de ceilalți și să vă îndepărtați de oricine pare să fie bolnav (de exemplu, tuse sau strănut).
+* În loc să luați transportul public, mergeți pe bicicletă oriunde puteți. Dacă trebuie să luați transportul în comun, păstrați-vă din nou distanța personală față de ceilalți și îndepărtați-vă de oricine este bolnav.
+* În loc să mergi la restaurante, gătește și mănâncă acasă.
+* În loc să livreze alimente sau alimente sau să le livreze unei alte persoane acasă cu contact direct, aranjați-le să le lase sau să le lase în afara ușii.
+* În loc să întâlniți prieteni pentru o cafea sau o băutură, faceți un video-chat sau coordonați-vă o plimbare până la magazinul alimentar, păstrându-vă [distanța sigură] (https://www.who.int/emergencies/diseases/novel-conavirus -2019 / sfaturi pentru public) de cel puțin 1,5 metri sau la o distanță de aproximativ cinci metri.
+* În loc să faceți exerciții fizice în interior (de exemplu, la sală), ieșiți la plimbare sau alergați dacă vremea o permite, păstrându-vă distanța de alte persoane.
+* Urmați orice aviz suplimentar al autorității guvernamentale / sănătății publice, inclusiv sfatul eventual pentru a rămâne în interior atunci când acest lucru devine aplicabil pentru locul în care vă aflați.
 
 
-### Stay Healthy
+### Fii sănătos
 
-![](/images/situps.png)
+! [] (/ Images / situps.png)
 
-On top of this, you can do things to stay as healthy as possible:
+În plus, puteți face lucruri pentru a rămâne cât mai sănătos posibil:
 
-* Ventilate your rooms frequently.
-* Eat appropriate amounts of nutrient-rich, healthy food. Include at least some carbohydrates (e.g., bread, potatoes, pasta, rice, etc). Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. 
-* Drink enough fluids, mostly water.
-* Get regular exercise. If it is recommended or required to stay indoors, find ways to get moving at home: Dance to favorite songs with friends over video-chat, join online yoga or other exercise classes, or try simple core bodyweight exercises like push-ups, sit-ups, and squats combined with simple stationary aerobic exercises like jumping jacks, hula hooping, and skipping. 
-* If you smoke, stop smoking.
-* Avoid heavy drinking and other drug use, as alcohol and other drugs tend to suppress immune function.
-* If you want to do more after first covering these essentials, then consider [complementary medicine options](/complementary) to improve immunity, prevent and treat upper respiratory and / or viral infections, and the like. There are a number of possibly useful options, but keep in mind that the evidence so far is specific to different contexts. A lot of snake-oil salesmen are going to make a lot of money off of panic here without offering actual help. Don't fall for them. 
+* Ventilați-vă frecvent camerele.
+* Mâncați cantități adecvate de alimente sănătoase bogate în nutrienți. Includeți cel puțin niște carbohidrați (de exemplu, pâine, cartofi, paste, orez, etc). Vitaminele D („vitamina solară”) și C pot fi utile în special în prevenirea sau atenuarea efectelor infecțiilor respiratorii.
+* Bea suficient lichide, mai ales apă.
+* Fă exerciții fizice regulate. Dacă este recomandat sau este necesar să rămâneți în interior, găsiți modalități de a vă deplasa acasă: dansați la cântece preferate cu prietenii prin videochat, participați la yoga online sau alte clase de exerciții fizice sau încercați exerciții simple de greutate corporală, precum push-up-uri, ședințe încărcături și ghemuțe combinate cu exerciții aerobice simple staționare, cum ar fi salturile, hula hooping și saltul.
+* Dacă fumați, nu mai fumați.
+* Evitați consumul de băuturi și alte consumuri de droguri, deoarece alcoolul și alte medicamente tind să suprime funcția imunitară.
+* Dacă doriți să faceți mai multe după prima acoperire a acestor elemente esențiale, atunci luați în considerare [opțiuni de medicamente complementare] (/ complementare) pentru a îmbunătăți imunitatea, a preveni și a trata infecțiile respiratorii și / sau virale superioare și altele asemenea. Există o serie de opțiuni posibile utile, dar rețineți că dovezile de până acum sunt specifice diferitelor contexte. O mulțime de vânzători de ulei de șarpe vor face mulți bani din panică aici, fără a oferi ajutor real. Nu cădea pentru ei.
 
-#### Psychological well-being
+#### Bunăstarea psihologică
 
-This is going to be rough on all of us at times, and it is going to affect each and every one of us differently. refer to the page with [recommandations, hints and tips for psychological well-being](/psychological).
+Acest lucru va fi dur pentru noi toți uneori, și va afecta pe fiecare dintre noi în mod diferit. consultați pagina cu [recomandări, sfaturi și sfaturi pentru bunăstarea psihologică] (/ psihologice).
 
-### Prepare
+### A pregati
 
-And on top of that, you can prepare so that you are familiar with the things that you will need to do when disease comes knocking. Read the rest of this guide. It is statistically unlikely anyone in your household will develop life-threatening complications, and hopefully there will be plenty of medical care for everyone. It doesn't hurt to be a tiny bit more ready for the worst-case scenario. But remember at the same time that there is no reason to panic. Take a deep breath and continue your regular life as much as possible.
+Și pe deasupra, vă puteți pregăti astfel încât să vă familiarizați cu lucrurile pe care va trebui să le faceți atunci când boala va bate. Citiți restul acestui ghid. Din punct de vedere statistic, este puțin probabil ca cineva din gospodăria ta să dezvolte complicații care să pună viață în viață și, sperăm, că va exista o mulțime de îngrijiri medicale pentru toată lumea. Nu doare să fii un pic mai pregătit pentru scenariul cel mai rău. Dar amintiți-vă în același timp că nu există niciun motiv să vă panicați. Respirați adânc și continuați-vă viața regulată cât mai mult posibil.
 
-#### Get the things you need
+#### Obțineți lucrurile de care aveți nevoie
 
-We made a [shopping page](/shopping) that lists handy things that may help you care for yourself and others.
+Am realizat o [pagină de cumpărături] (/ cumpărături) care listează lucruri la îndemână care te pot ajuta să te îngrijești de tine și de ceilalți.
 
-### Existing Medical Conditions
+### Condiții medicale existente
 
-If you or your loved ones have existing medical conditions, now is the time to read up on how these conditions could be made worse by COVID-19 / pneumonia. You / they should make extra sure they have plenty of all of your / their necessary medications. Make sure you have all the information relevant for treatment (contact info of doctors, recent lab results, how much of which drugs the patient is taking). Assume for a moment that your regular doctor isn't there and you have to explain it all to a new doctor who has very little time. A recent timeline of visits, results, etc would be nice. What should you not forget? Write it down now!
+Dacă dumneavoastră sau cei dragi aveți afecțiuni medicale existente, acum este timpul să consultați modul în care aceste afecțiuni ar putea fi înrăutățite prin COVID-19 / pneumonie. Tu / ei trebuie să se asigure în plus că au o mulțime de medicamente necesare. Asigurați-vă că aveți toate informațiile relevante pentru tratament (informații de contact ale medicilor, rezultatele recente ale laboratorului, cât de multe dintre medicamente ia pacientul). Presupuneți pentru o clipă că medicul dvs. obișnuit nu este acolo și trebuie să explicați totul unui medic nou care are foarte puțin timp. O cronologie recentă a vizitelor, a rezultatelor etc. ar fi drăguță. Ce să nu uiți? Scrie-o acum!
 
-What sorts of existing medical conditions are especially likely to make you / your loved ones vulnerable to more severe COVID-19 problems?
-- Conditions that involve lungs / breathing problems (e.g., asthma, COPD, lung cancer).
-- Heart conditions, particularly chronic cardiovascular disease (e.g., hypertension, congestive heart failure, atrial fibrillation).
-- Conditions that involve compromised immune function, or that require taking immunosuppressant medications (e.g., lupus, arthritis, organ transplantation, some forms of cancer).
-- Other chronic hematologic, hepatic, metabolic, neurologic, neuromuscular, renal, or disorders (e.g., sickle cell anemia, diabetes, muscular dystrophy, kidney disease). 
+Ce fel de afecțiuni medicale existente sunt deosebit de susceptibile să vă facă pe dumneavoastră / cei dragi vulnerabili la probleme mai grave de COVID-19?
+- Afecțiuni care implică plămâni / probleme de respirație (de exemplu, astm, BPOC, cancer pulmonar).
+- Afecțiuni cardiace, în special boli cardiovasculare cronice (de exemplu, hipertensiune arterială, insuficiență cardiacă congestivă, fibrilație atrială).
+- Condiții care implică o funcție imunitară compromisă sau care necesită luarea de medicamente imunosupresive (de exemplu, lupus, artrită, transplant de organe, unele forme de cancer).
+- Alte afecțiuni hematologice cronice, hepatice, metabolice, neurologice, neuromusculare, renale sau tulburări (de exemplu, anemie cu celule secera, diabet, distrofie musculară, boli de rinichi).
 
-### Preventive Care
+### Grijă preventivă
 
-If the situation is still somewhat normal where you are, this may be good moment to briefly ask your doctor what (if anything) she/he thinks you should do now, and what you should do if you fall ill. If you have not yet been vaccinated for the seasonal flu, pneumococcal pneumonia, or meningococcal meningitis, now may also be a good time to ask your doctor if you are a candidate for those vaccines. Getting these vaccinations now if your doctor advises it could help prevent another infection from compounding problems that may be caused by COVID-19, should be you be infected later. 
+Dacă situația este încă oarecum normală în locul în care vă aflați, acesta poate fi un moment bun pentru a întreba pe scurt medicul dumneavoastră (dacă este ceva) crede că ar trebui să faceți acum și ce ar trebui să faceți dacă vă îmbolnăviți. Dacă nu ați fost încă vaccinat pentru gripa sezonieră, pneumonie pneumococică sau meningită meningococică, acum poate fi, de asemenea, un moment bun pentru a întreba medicul dumneavoastră dacă sunteți candidat pentru aceste vaccinuri. Obținerea acestor vaccinări acum, dacă medicul dumneavoastră vă recomandă, ar putea ajuta la prevenirea unei alte infecții de la compunerea problemelor care pot fi cauzate de COVID-19, în cazul în care veți fi infectat ulterior.
 
-During pandemics, it is typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to get cancelled or delayed because doctors, nurses, hospitals, and the rest of the healthcare system may be overloaded, and because people may be afraid to go in to doctors' offices or hospitals for fear (sometimes rational) of being exposed to disease. In case your area is not yet greatly affected by COVID-19: Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? What about other conditions that are common ailments for you or your loved ones? Anything you can do to prepare to care for yourselves without normal medical care access in the coming months, in case it becomes harder to get time with doctors and nurses because they are overwhelmed? Do it now. 
+În timpul pandemiilor, este tipic ca imunizările la copii, asistența medicală maternă și asistența medicală pentru ca afecțiunile cronice de sănătate să fie anulate sau întârziate, deoarece medicii, asistentele medicale, spitalele și restul sistemului de asistență medicală pot fi supraîncărcate și pentru că oamenii pot fi frici să nu meargă. în cabinetele medicilor sau spitale de frica (uneori rațională) de a fi expuși bolilor. În cazul în care zona dvs. nu este încă afectată de COVID-19: Există vreo vaccinare obișnuită în copilărie pe care doriți să o asigurați că copilul dvs. va primi în timp ce poate sau nu? Orice îngrijire prenatală sau îngrijire de rutină pentru o afecțiune cronică de sănătate puteți obține acum în loc de o lună? Dar despre alte afecțiuni care sunt afectiuni comune pentru tine sau cei dragi? Ceea ce puteți face pentru a vă pregăti pentru a vă îngriji singuri fără acces normal la îngrijiri medicale în următoarele luni, în cazul în care va fi mai greu să obțineți timp cu medicii și asistenții medicali, deoarece sunt copleșiți? Fa-o acum.

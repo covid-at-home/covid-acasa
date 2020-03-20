@@ -1,19 +1,19 @@
-## COVID-19 diary
+## COVID-19 jurnal
 
-We have created an example of what a diary page in your COVID diary could look like. It looks a lot like the information they keep about patients in hospitals. It may seem a bit overengineered, but it allows you to keep track of how someone is doing and then (if you need to see a doctor or go to hospital) hand over whatever data you have kept in a format that doctors like to read. Simply print one of these these for every day that the patient is sick. Since you don't want to find out you're out of printer paper in the middle of this, maybe print out 20-30 of these as part of your preparation. Don't worry if you don't have equipment to do all these measurements. (Although it is pretty cheap to get and it really doesn't hurt to have, see the [shopping page](/shopping).)
+Am creat un exemplu despre cum ar putea arăta o pagină de jurnal din jurnalul dvs. COVID. Seamănă foarte mult cu informațiile pe care le păstrează despre pacienții din spitale. Poate părea un pic supraevaluat, dar vă permite să urmăriți cum face cineva și apoi (dacă trebuie să vedeți un medic sau să mergeți la spital) să transmiteți toate datele pe care le-ați păstrat într-un format pe care medicii le place să le citească. Pur și simplu imprimați una dintre acestea pentru fiecare zi în care pacientul este bolnav. Din moment ce nu doriți să aflați că nu aveți hârtie imprimantă la mijlocul acesteia, poate imprimați 20-30 din acestea ca parte a pregătirii voastre. Nu vă faceți griji dacă nu aveți echipament pentru a face toate aceste măsurători. (Deși este destul de ieftin de obținut și chiar nu doare să ai, vezi [pagina cumpărături] (/ cumpărături).)
 
-<a href="/images/covid-diary.pdf"><img style="border: 2px solid black; drop-shadow(16px 16px 10px black)" src="/images/covid-diary.png"></a>
+<a href="/images/covid-diary.pdf"> <img style = "border: 2px negru solid; drop-shadow (16px 16px 10px negru)" src = "/ images / covid-diary.png"> < / a>
 
-(click the image to get the PDF to print)
+(faceți clic pe imagine pentru a imprima PDF-ul)
 
-### Starting the diary
+### Începerea jurnalului
 
-You probably want to take a look at this and keep the data in this format even if the patient is just developing symptoms. It doesn't matter if you don'f fill in most of the data or don't fill it in often, but this is actually a good time to get a feel for what - more or less - normal values look like. When the patient is in bed and possibly has other people taking care of him or her, you can take measurements a bit more often.
+Probabil doriți să aruncați o privire la acest aspect și să păstrați datele în acest format, chiar dacă pacientul doar dezvoltă simptome. Nu contează dacă nu completați majoritatea datelor sau nu le completați des, dar acesta este de fapt un moment bun pentru a înțelege cum arată mai mult sau mai puțin - valorile normale. Atunci când pacientul este în pat și are alte persoane care au grijă de el sau ea, puteți lua măsurători un pic mai des.
 
-### Diary procedure
+### Procedura de jurnal
 
-At the beginning of each day you fill in the information on the right. Name, date of birth, sex, and whether or not the patient was tested positive for SARS-CoV-2, the virus that causes COVID-19. First thing in the morning the patient is weighed if possible, so you can see over time if the patient is losing a lot of weight. Then every time you take measurements you note the time in the top row, and then fill in measurements in the column underneath. Anything else is noted on the right side under notes. 
+La începutul fiecărei zile completați informațiile din dreapta. Numele, data nașterii, sexul și dacă pacientul a fost sau nu testat pentru SARS-CoV-2, virusul care cauzează COVID-19. În primul rând, dimineața, pacientul este cântărit, dacă este posibil, astfel încât puteți vedea în timp dacă pacientul pierde multă greutate. Apoi de fiecare dată când efectuați măsurători observați timpul din rândul de sus, apoi completați măsurătorile din coloana de dedesubt. Orice altceva se notează în partea dreaptă sub note.
 
-### When things get serious
+### Când lucrurile devin serioase
 
-If the patients gets sicker and sicker, you will want to refer to the ["Level 4" chapter](/#level-4--professionals-take-over) in the main text for some basic guidance as to when to call a doctor or go to hospital. This basic guidance is just that, a guide to help you get a very very basic sense of what is "just sick" vs. "too sick to be at home". You are not a doctor. If you feel insecure, call for help.
+Dacă bolnavii se îmbolnăvesc și se îmbolnăvesc, veți dori să vă referiți la capitolul [„Nivelul 4”] (/ # nivel-4 - profesioniști-preluare) din textul principal pentru câteva îndrumări de bază pentru a apela la un medic sau mergeți la spital. Acest ghid de bază este doar acela, un ghid care să vă ajute să înțelegeți foarte bine ceea ce este „doar bolnav” vs. „prea bolnav pentru a fi acasă”. Nu ești medic. Dacă vă simțiți nesiguri, solicitați ajutor.

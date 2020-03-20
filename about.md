@@ -1,19 +1,18 @@
-  
-## About covid-at-home.info
+## Despre covid-at-home.info
 
-This site started as a private initiative of Rop Gonggrijp and Vera Wilde who did much of the initial research and writing. Very soon, some of their friends started helping by proofreading, translating and providing helpful correction and additions. Let's crowdsource this guide. A German translation is almost done and other translations are being planned as we write this.
+Acest site a început ca o inițiativă privată a lui Rop Gonggrijp și Vera Wilde, care au făcut o mare parte din cercetarea și scrierea inițială. Foarte curând, unii dintre prietenii lor au început să ajute prin corectarea, traducerea și oferirea de corecții și completări utile. Să prezentăm acest ghid pentru mulțime. O traducere germană este aproape finalizată și alte traduceri sunt planificate pe măsură ce scriem acest lucru.
 
-The goal of covid-at-home is to share (in still somehat concise form) what we have learned and provide no-nonsense practical information in dealing with the COVID-19 pandemic on an open and non-commercial basis. The main assumption is that at least in some places COVID-19 will at least temporarily swamp the healthcare system, so the more people feel some confidence in dealing with sick people at home, the fewer people will show up at doctor's offices and hospitals unnecessarily. At the same time, people still need to know when patients need medical attention. 
+Scopul covid-at-home este să împărtășim (într-o formă încă concisă) ceea ce am învățat și să oferim informații practice fără sens în tratarea pandemiei COVID-19 în mod deschis și non-comercial. Principala presupunere este că, cel puțin în unele locuri, COVID-19 va bălăni cel puțin temporar sistemul de asistență medicală, astfel încât cu cât mai mulți oameni simt o anumită încredere în relația cu bolnavii acasă, cu atât mai puține persoane vor apărea inutil la cabinetele de medic și la spitale. În același timp, oamenii mai trebuie să știe când pacienții au nevoie de îngrijiri medicale.
 
-Want to help? Yay! We have a [whole section](/help) dedicated to that.
+Vreau sa ajut? Ura! Avem o [secțiune întreagă] (/ ajutor) dedicată.
 
-### License
+### Licență
 
-This site is published under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) and no money is being made here in any way. There are no sponsors, and there is no opportunity to donate anything here except your time and energy.
+Acest site este publicat sub [Licență internațională Creative Creative Attribution-NonCommercial-ShareAlike 4.0] (http://creativecommons.org/licenses/by-nc-sa/4.0/) și nu se face bani în niciun fel aici. Nu există sponsori și nu există posibilitatea de a dona nimic aici, decât timpul și energia dvs.
 
-### Thank you
+### Mulțumesc
 
-This site is better because we got help from (in alphabetical order):
+Acest site este mai bun pentru că am primit ajutor de la (în ordine alfabetică):
 
 {% for person in site.data.thankyou.people %}
 * {{ person.name }}
@@ -21,11 +20,11 @@ This site is better because we got help from (in alphabetical order):
 
 ### Impressum
 
-(German law requires websites to list a publisher.)
+(Legea germană impune ca site-urile să enumere un editor.)
 
-Rop Gonggrijp & Vera Wilde<br>
-Linienstraße 127<br>
-10115 Berlin<br>
-Germany
+Rop Gonggrijp & Vera Wilde <br>
+Linienstraße 127 <br>
+10115 Berlin <br>
+Germania
 
-e-mail: [team@covid-at-home.info](mailto:team@covid-at-home.info)
+e-mail: [team@covid-at-home.info] (mailto: team@covid-at-home.info)

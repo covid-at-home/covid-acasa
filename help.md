@@ -1,27 +1,27 @@
-### We really NEED HELP
+### Chiar avem nevoie de ajutor
 
-If this seems like a slick and streamlined operation to you, you're wrong. We're a small group of volunteers, mostly without medical training, winging it because we feel this information is not in one place and needs to be really soon. As we write this we haven't done much else for a week now, and we could really use help in the following areas:
+Dacă vi se pare o operație simplă și simplificată, vă înșelați. Suntem un grup mic de voluntari, în mare parte fără pregătire medicală, care îl consideră, deoarece considerăm că aceste informații nu sunt într-un singur loc și trebuie să fie cu adevărat curând. Pe măsură ce scriem acest lucru, nu am mai făcut mult timp de o săptămână și am putea folosi cu adevărat ajutor în următoarele domenii:
 
-#### Get the word out !
+#### Scoate cuvântul!
 
-This is now one of the most important things you can do to help. Tweet about this website and mention it on Facebook, Instagram and wherever else you can think. If you are a journalist, could you maybe mention this website in print or broadcast media? If you are a YouTube influencer, could you maybe talk about this site? If you have any online marketing experience, could you maybe help us be found?
+Acesta este acum unul dintre cele mai importante lucruri pe care le puteți face pentru a vă ajuta. Tweet despre acest site și menționează-l pe Facebook, Instagram și oriunde altundeva poți gândi. Dacă sunteți jurnalist, ați putea menționa acest site în presa scrisă sau difuzată? Dacă ești influencer YouTube, poți vorbi despre acest site? Dacă aveți vreo experiență de marketing online, ne puteți ajuta să ne găsim?
 
-#### Translate
+#### Traduceți
 
-We can set up a site with a domain in your language in no time, and link it from the main english website. All you need to do is translate text in the editing interface of Github, which we can talk you through. We think the entire website as it is now (March 15, 2020) can be translated in two to three person-days. You don't need to be a professional translator (but yay if you are). If your language is Spanish, German, French, Portugese, Italian, Dutch, Polish or Russian, we can set up your site preloaded with computer-transleted text that "only" needs to be fixed. (We use [DeepL translator](https://www.deepl.com/translator) for this, which is quite a bit better than Google Translate; the texts will still need quite a bit of manual work, but it does save time versus doing it all by hand. If your language has formal and informal addressing (Sie/du, U/jij, ...), we try to use the informal one, also to signify that this is a collaborative effort and that we are all in this together. 
+Putem configura în cel mai scurt timp un site cu un domeniu în limba dvs. și să îl conectăm de la site-ul principal englez. Tot ce trebuie să faceți este să traduceți textul în interfața de editare a Github, despre care vă putem vorbi. Credem că întregul site web așa cum este acum (15 martie 2020) poate fi tradus în două-trei zile-persoană. Nu trebuie să fii traducător profesionist (dar da, dacă ești). Dacă limba dvs. este spaniolă, germană, franceză, portugheză, italiană, olandeză, poloneză sau rusă, putem configura site-ul dvs. preîncărcat cu text tradus de computer, care trebuie „fixat” doar. (Folosim [traducător DeepL] (https://www.deepl.com/translator) pentru aceasta, care este destul de bine decât Google Translate; textele vor avea totuși nevoie de o muncă manuală, dar economisește timp versus a face totul de mână. Dacă limba dvs. are o adresare formală și informală (Sie / du, U / jij, ...), încercăm să o utilizăm pe cea informală, de asemenea, pentru a semnifica că acesta este un efort de colaborare și că suntem toate acestea împreună.
 
-Wanna help? Yeah! Prevent double work: don't start without talking to us. Please contact us right now by mailing [team@covid-at-home.info](mailto:team@covid-at-home.info) or by directly joining the [team video-conference](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome). (We try to be there when we work on the site. If we're not there, please be polite to whoever else joins.)
+Vrei ajutor? Da! Împiedicați munca dublă: nu începeți fără să ne vorbiți. Vă rugăm să ne contactați chiar pe mail [team@covid-at-home.info] (mailto: team@covid-at-home.info) sau prin înscrierea directă la [conferința video a echipei] (https: //meet.jit .si / OngoingTeamMeetingForCovidAtHome). (Încercăm să fim acolo când lucrăm pe site. Dacă nu suntem acolo, vă rugăm să fiți politicoși cu cine se alătură.)
 
-(If you can provide a number of useful local links in your region with the translation, even better.)
+(Dacă puteți furniza o serie de legături locale utile din regiunea dvs. cu traducerea, chiar mai bine.)
 
-#### Content help
+#### Ajutor pentru conținut
 
-Blessed be if you are a doctor, a nurse, or a public health official. We hope to make your job easier in the months to come. Please read through the site and tell us if you have any remarks. But this goes for anyone else that has things to add as well. Please either [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail us](mailto:team@covid-at-home.info) or join the [team video-conference](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome) if you want to talk to us.
+Binecuvântat dacă ești medic, asistent medical sau funcționar de sănătate publică. Sperăm să vă facilităm munca în lunile următoare. Vă rugăm să citiți site-ul și să ne spuneți dacă aveți observații. Dar acest lucru este valabil pentru oricine altcineva are și lucruri de adăugat. Vă rugăm să [depuneți o problemă] (https://github.com/covid-at-home/covid-at-home.github.io/issues/new), [mail us] (mailto: team @ covid-at- acasă.info) sau alăturați-vă [conferinței video a echipei] (https://meet.jit.si/OnagingTeamMeetingForCovidAtHome) dacă doriți să discutați cu noi.
 
-#### Proofread
+#### Programe de citire
 
-We guarantee there will be plenty of typos, failed sentences and worse. Please briefly [file an issue](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) and we'll fix it.
+Vă garantăm că va fi o mulțime de dactilografii, propoziții eșuate și mai rău. Vă rugăm să scurtați [depuneți o problemă] (https://github.com/covid-at-home/covid-at-home.github.io/issues/new) și o vom repara.
 
-#### Alternative medicine
+#### Medicină alternativă
 
-If you would like to help us with hints and tips for medicine that is not proven according to peer-reviewed publications and/or not proven to be very very safe, then thank you but no thank you. Please don't take offense but covid-at-home stands proudly with science on this one. 
+Dacă doriți să ne ajutați cu sfaturi și sfaturi pentru medicamente care nu sunt dovedite în conformitate cu publicațiile revizuite de la egal la egal și / sau nu sunt dovedite a fi foarte sigure, atunci vă mulțumesc, dar nu vă mulțumesc. Vă rugăm să nu vă jigniți, dar covid-at-acasă se mândrește cu știința asta.
