@@ -1,13 +1,13 @@
 items:
 
-- title: Main Page
+- title: Pagina principală
   url: /
   
-- title: Shopping
+- title: Cumpărături
   url: /shopping
 
-- title: I can help!
+- title: Pot sa ajut!
   url: /help
             
-- title: About
+- title: Despre noi
   url: /about
