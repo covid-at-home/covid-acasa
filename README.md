@@ -1,8 +1,8 @@
-### The website that this github repository is the editing back-end to is live at
+### Site-ul web pe care acest depozit github este versiunea de redactare la care este redat
 
-# [covid-at-home.info](https://www.covid-at-home.info)
+# [covid-acasa.info] (https://www.covid-acasa.info)
 
 
-### Team meeting
+### Intalnire de echipa
 
-An ongoing audio / video team meeting for writing/translation efforts wrt to this website is [here](https://meet.jit.si/OngoingTeamMeetingForCovidAtHome) or by [dialing in](+15124022718) to +1 512 402 2718 - PIN: 3558 5897 26# . Just visit and see if anyone is there.
+O întâlnire în curs de echipă audio / video în curs de desfășurare a eforturilor de scriere / traducere la acest site este [aici] (https://meet.jit.si/OnosingTeamMeetingForCovidAtHome) sau prin [apelare în] (+ 15124022718) la +1 512 402 2718 - PIN: 3558 5897 26 #. Vizitați și vedeți dacă există cineva.

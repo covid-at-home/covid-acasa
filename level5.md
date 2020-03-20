@@ -1,14 +1,14 @@
-## Level 5 -- System Overload
+## Nivelul 5 - Suprasarcina sistemului
 
-### What if the official channels are overloaded?
+### Ce se întâmplă dacă canalele oficiale sunt supraîncărcate?
 
-What we're unfortunately seeing in some areas is that the system becomes stressed to a breaking point if too many people become sick at the same time. Either you cannot get through, you are told the ambulance is going to take a while, hospitals are not taking new patients at all, or some hospitals prioritize treatment of certain groups of patients (such as the relatively young and healthy) over other groups (such as the elderly and / or people with existing illnesses).
+Ceea ce vedem din păcate în unele domenii este că sistemul devine stresat până la un punct de rupere dacă prea mulți oameni se îmbolnăvesc în același timp. Fie că nu puteți trece, i se spune că ambulanța va dura ceva timp, spitalele nu iau deloc noi pacienți sau unele spitale prioritizează tratamentul anumitor grupuri de pacienți (cum ar fi cei relativ tineri și sănătoși) față de alte grupuri ( cum ar fi persoanele în vârstă și / sau persoanele cu boli existente).
 
-In the event that official means of getting medical help are unavailable, you might want to try to get hold of that doctor you know, the nurse down the street, anyone with medical training and / or experience. If that doesn't work, depending on the urgency, you might want to mobilize your and the patient's wider circle know you have a patient who is not doing well and that you cannot get help. Ask around for doctors or nurses. Use Facebook? If you have any spare time after that, organize your diary pages, making sure any doctor who has time for the patient can immediately see temperature records, etc. Try not to seem too worried around the patient, because at this point there likely isn't anything he or she is going to be able to do.
+În cazul în care mijloacele oficiale de a obține ajutor medical nu sunt disponibile, este posibil să doriți să încercați să puneți mâna pe medicul pe care îl cunoașteți, pe asistenta pe stradă, pe oricine are pregătire medicală și / sau experiență. Dacă acest lucru nu funcționează, în funcție de urgență, poate doriți să vă mobilizați și cercul mai larg al pacientului știți că aveți un pacient care nu merge bine și că nu puteți primi ajutor. Solicitați medici sau asistente. Folosiți Facebook? Dacă aveți timp liber după aceea, organizați-vă paginile de jurnal, asigurându-vă că orice medic care are timp pentru pacient poate vedea imediat înregistrările de temperatură etc. Încercați să nu pară prea îngrijorat în jurul pacientului, deoarece în acest moment nu există probabil orice va fi în stare să facă.
 
-If you do get through (by phone?) try to stay calm and help the doctor / hospital assess the situation quickly. 
+Dacă treceți prin telefon (încercați telefonul?) Încercați să rămâneți liniștiți și să ajutați medicul / spitalul să evalueze rapid situația.
 
-In cases where ambulances are the bottleneck and you feel you need one, you will have to make your own judgement whether you want to try and drive to the emergency room or wait and hope to get through. Plan which hospital you go to first and maybe have someone who is not driving with access to the internet, either in the car or on the speakerphone. Please drive safely in any case, the last thing you want is a sick patient in a car accident.
+În cazurile în care ambulanțele sunt gâtul de blocaj și simțiți că aveți nevoie de una, va trebui să vă faceți propria hotărâre dacă doriți să încercați să conduceți la camera de urgență sau să așteptați și să sperați să treceți. Planificați-vă la ce spital mergeți mai întâi și poate aveți pe cineva care nu conduce cu acces la internet, fie în mașină, fie pe difuzor. Vă rugăm să conduceți în siguranță în orice caz, ultimul lucru pe care îl doriți este un pacient bolnav în accident de mașină.
 
 &nbsp;
 
@@ -16,4 +16,4 @@ In cases where ambulances are the bottleneck and you feel you need one, you will
 
 &nbsp;
 
-For now let's all hope our medical professionals can cope with the case load that is coming to them. Do your part in slowing the disease down as much as possible. Let's try to all still be there at the other end of this.
+Deocamdată, cu toții sperăm că specialiștii noștri din domeniul medical pot face față sarcinii carcasei care le vine. Faceți-vă partea dvs. în încetinirea cât mai mult posibil a bolii. Haideți să încercăm să rămânem acolo la celălalt capăt al acestui lucru.

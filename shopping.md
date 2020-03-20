@@ -1,89 +1,89 @@
-## Shopping list
+## Lista de cumparaturi
 
-In addition to having approximately 2-4 weeks of essentials like groceries and other household supplies, here are some necessary and handy things to have if you are going to be taking care of someone with COVID-19. None of this is very expensive or requires special training to use. 
+Pe lângă faptul că aveți aproximativ 2-4 săptămâni de produse esențiale, cum ar fi alimente și alte materiale de uz casnic, iată câteva lucruri necesare și la îndemână, dacă aveți de gând să aveți grijă de cineva cu COVID-19. Nimic din toate acestea nu este foarte scump sau nu necesită instruire specială pentru a fi folosit.
 
-If we included examples (generally on the German version of Amazon), this is not a buying recommendation and we are not making any money if you click that precise one (or any other). By showing you the example, we mean nothing more than *"something like this."* Use whatever online or retail channel you like to get something similar. 
-
-&nbsp;
-
-### Must have
-
-* **Fever thermometer** (2-10 EUR/USD) ([example](https://www.amazon.de/gp/product/B001NYHXYS))
-
-   > ![](/images/thermometer.png)
-   > 
-   > So important that you should probably check yours if it's been in the bathroom cabinet for ages. Is the battery still OK? It really doesn't hurt to have two, just in case. At 2-10 bucks, they make great gifts (and as they may be inserted anally to get a more precise measurement, they may not be items you want to loan to someone.)
-
-* **Enough sheets, pillow casings, towels**
-   
-   > Stuff most everyone has in the home, but just to be sure: Once people get sick, you want to change the bed linens often, and you may use more towels also.
-   
-* **Cleaning supplies, bleach**
-
-* **Paracetamol (also known as acetaminophen, Tylenol or Panadol)**
-
-  > The fever supressant and painkiller of choice. Make sure you follow the packaging instructions and do not exceed the maximum recommended daily dose.
+Dacă am inclus exemple (în general pe versiunea germană a Amazonului), aceasta nu este o recomandare de cumpărare și nu facem bani dacă faceți clic pe una exactă (sau pe oricare alta). Arătându-ți exemplul, nu ne referim la nimic altceva decât * „ceva de genul acesta.” * Utilizați orice canal online sau de retail doriți pentru a obține ceva similar.
 
 &nbsp;
 
-### Nice to have
+### Trebuie avut
 
-* **Pulse oxymeter** (20-25 EUR/USD) ([example](https://www.amazon.de/gp/product/B07P3ZS6L3))  **See note below!**
-   > ![](/images/pulse-oxi.png)
-   >
-   > Little gadget that clips on your finger and shows the heart rate (which is also easy to measure in other ways) and the oxygen saturation in the blood (which is hard to measure any other way).
+* ** Termometru febră ** (2-10 EUR / USD) ([exemplu] (https://www.amazon.de/gp/product/B001NYHXYS))
 
-* **Blood pressure meter** (20 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07KY867ZH))  **See note below!**
-   > ![](/images/blood-pressure.png)
-   > 
-   > There are simple tricks to see if someone's blood pressure is getting too low (see the main text on this site). However, it may be useful to be able to measure this more objectively, especially if you want to see/show a trend in the patient's blood pressure.<br>
-   > **However... What you should NOT do:** *You should not buy one of these, measure blood pressure, find something on the Internet that has a "normal range", and panic if your blood pressure is higher or lower. Lots of people have high or low blood pressure, and stress raises blood pressure (and heart rate). While an elevated blood pressure over a longer time may certainly be something you might want to mention to your doctor when you are there anyway, IT IS NOT A PROBLEM THAT YOU WANT TO BOTHER DOCTORS WITH IN THE MIDDLE OF A PANDEMIC."*
-   
-* **Incontinence / waterproof sheets** (20 EUR/USD or so) ([example](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) or [example](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
-   > ![](/images/sheet.png)
-   >
-   > Sick people sometimes have accidents. You'll thank us.
+    >! [] (/images/thermometer.png)
+    >
+    > Atât de important încât, probabil, ar trebui să-l verificați pe al vostru dacă a fost în vârstă în cabinetul de baie. Bateria este încă funcțională? Într-adevăr, nu este rău să ai doi, doar în caz. La 2-10 dolari, ei fac cadouri minunate (și, întrucât pot fi inserate în mod obișnuit pentru a obține o măsurare mai precisă, este posibil să nu fie obiecte pe care doriți să le împrumutați cuiva.)
 
-* **Steam inhaler** (25 EUR/USD or so) ([example](https://www.amazon.de/gp/product/B07SNQH6CZ))
-   > ![](/images/steam.png)
-   >
-   > Often sold as "face sauna" or whatever other names, they're just devices that output steam that is not too hot to breathe. Any other method that produces steam is also OK, just make sure you don't do damage with steam that's too hot. The device takes demineralized water ([example](https://www.amazon.de/gp/product/B07J5Y95MQ)), esp. in places where the tapwater is high in calcium. 
-   > **Warning:** Warm, wet devices are excellent means of spreading the virus around. Probably use for one sick person at a time or at least clean meticulously.
+* ** Foi suficiente, cutii de perne, prosoape **
+   
+    > Lucrurile pe care toată lumea le are în casă, dar doar pentru a fi siguri: odată ce oamenii se îmbolnăvesc, doriți să schimbați lenjeria de pat deseori și este posibil să folosiți și mai multe prosoape.
+   
+* ** Produse de curățare, înălbitor **
 
-* **Vitamins** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07S63PCZK))
-   > ![](/images/multi-vitamin.png)
-   >
-   > For when the patient doesn't eat (much) anymore but still drinks. Maybe take the big multi-vitamin pills that fizz into water, a couple of tubes of those. Try getting ones that contain roughly 1-2 times the daily recommended dose of all the vitamins and minerals they contain, no crazy 1000% megadoses.
+* ** Paracetamol (cunoscut și sub numele de acetaminofen, Tylenol sau Panadol) **
 
-#### Important Note
-
-A note on the first two items: some medical professionals we talk to feel the non-medically trained will do more harm or good when they start taking SpO2 or blood pressure measurements. We include the devices here because they are in common use and we feel that in some places, during some periods, the health system is not going to be able to cope with the numbers of people falling ill, and we tip the balance towards the advantages in being able to see/show trends.
-
-If you do decide you want to be able to measure blood pressure and SpO2, then at least properly familiarize yourself with the device. Practise! Also to get a good feel for what normal values in you and or your loved ones look like before anyone gets sick. Read our guidance on when **and when not** to seek help based on the information they provide.
+   > Suprimantul de febră și calmant la alegere. Asigurați-vă că urmați instrucțiunile de ambalare și nu depășiți doza maximă recomandată zilnic.
 
 &nbsp;
 
-### PPE (Personal Protective Equipment)
+### Este bine sa ai
 
-Shopping for PPE is more than a little tricky for several reasons.
+* ** Oximetru cu impulsuri (20-25 EUR / USD) ([exemplu] (https://www.amazon.de/gp/product/B07P3ZS6L3)) ** A se vedea nota de mai jos! **
+   >! [] (/images/pulse-oxi.png)
+   >
+   > Mic gadget care se clipește pe deget și prezintă frecvența cardiacă (care este ușor de măsurat și în alte moduri) și saturația de oxigen din sânge (care este greu de măsurat în orice alt mod).
 
-First, this may all be new. You may not be familiar with what kinds of protection are needed in what situations. The World Health Organization has very helpful instructions on [when to wear a mask and how to use masks](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). You should wear a mask only if you are ill with known or suspected COVID-19 (fever, cough, shortness of breath), and whenever you are in the same room with someone who is ill with known or suspected COVID-19. Keep your hands off your mask while you're wearing it and keep using good hand-washing practices. Make sure you read some advice and watch some videos on when and how to safely put on, use, and dispose of your PPE to make sure it really works to protect you and others. (This is especially true if you use a respirator rather than a mask: It is surprisingly hard to make sure your respirator has a proper fit.)
+* ** Contorul tensiunii arteriale ** (20 EUR / USD sau mai mult) ([exemplu] (https://www.amazon.de/gp/product/B07KY867ZH)) ** A se vedea nota de mai jos! **
+   >! [] (/images/blood-pressure.png)
+   >
+   > Există trucuri simple pentru a vedea dacă tensiunea arterială a cuiva scade prea mult (consultați textul principal de pe acest site). Cu toate acestea, poate fi util să puteți măsura acest lucru mai obiectiv, mai ales dacă doriți să vedeți / să prezentați o tendință a tensiunii arteriale a pacientului. <br>
+   > ** Cu toate acestea ... Ceea ce NU ar trebui să faci: ** * Nu ar trebui să cumperi unul dintre acestea, să măsoare presiunea arterială, să găsești ceva pe Internet care are un "interval normal" și să te panichezi dacă tensiunea arterială este mai mare sau inferior. Mulți oameni au tensiune arterială ridicată sau scăzută, iar stresul crește tensiunea arterială (și ritmul cardiac). Deși o tensiune arterială crescută pe o perioadă mai lungă de timp poate fi cu siguranță ceva pe care s-ar putea să doriți să-l menționați medicului dumneavoastră atunci când sunteți acolo, oricum, NU ESTE UN PROBLEM PE CARE VREȚI SĂ VEDEAȚI DOCTORI CU MEDIUL UNUI PANDEMIC. "*
+   
+* ** Inconvenență / foi impermeabile ** (20 EUR / USD sau mai mult) ([exemplu] (https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) sau [exemplu] (https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
+   >! [] (/images/sheet.png)
+   >
+   > Persoanele bolnave au uneori accidente. Ne vei mulțumi.
 
-And then there's the fact that some people have been panic-buying and some companies have been price-gouging, making essential equipment like masks unavailable in some places even to doctors and nurses who really need them. If it's still early in the pandemic, your government may be providing masks to people who live with and/or care for people with COVID-19. The section here describes things that you could try to get if you need to be caring for other people. 
+* ** Inhalator cu abur ** (25 EUR / USD sau mai mult) ([exemplu] (https://www.amazon.de/gp/product/B07SNQH6CZ))
+   >! [] (/images/steam.png)
+   >
+   > Adesea vândute sub formă de "saună pentru față" sau orice alt nume, sunt doar dispozitive care produc aburi care nu sunt prea fierbinți pentru a respira. Orice altă metodă care produce abur este de asemenea OK, asigurați-vă că nu faceți daune cu aburul prea cald. Dispozitivul ia apă demineralizată ([exemplu] (https://www.amazon.de/gp/product/B07J5Y95MQ)), în special. în locurile în care apa de la robinet este bogată în calciu.
+   > ** Avertisment: ** Dispozitivele calde, umede sunt mijloace excelente de răspândire a virusului. Utilizați probabil pentru o persoană bolnavă la un moment dat sau cel puțin curățați meticulos.
 
-So first and foremost, and we mean this: **Listen to official advice on what *not* to buy** so as to not make things unavailable to the doctors and nurses who need them the most. Policies and general practice with regard to masks are going to vary wildly accross the world for a while to come. Going outside with a mask or wearing one in regular daily life if you are healthy is not supported by the scientific evidence on staying well. If you have access to a mask, it probably makes sense to wear one if you feel a little ill or are coughing but _absolutely_have_to_ go out. It also makes sense if you are taking care of someone who is sick. It is even mandatory in the COVID quarantine home care protocols in some countries. Check under what circumstances authorities will provide you with masks. See the main text about further things to think about when it comes to containing the spread of the virus as much as possible.
+* ** Vitamine ** (câțiva EUR / USD) ([exemplu] (https://www.amazon.de/dp/B07S63PCZK))
+   >! [] (/images/multi-vitamin.png)
+   >
+   > Pentru când pacientul nu mai mănâncă (mult), dar încă bea. Poate luați pilulele multi-vitamine care se scurg în apă, câteva tuburi din acestea. Încercați să obțineți cele care conțin aproximativ de 1-2 ori mai mult de doza recomandată zilnic de toate vitaminele și mineralele pe care le conțin, fără 1000% megadozi.
 
-* **Medical mask, preferably N95** (a few EUR/USD)
-   > ![](/images/mask.png)
-   > 
-   > FFP2 or FFP3 respirators are also recommended. A regular face mask (surgical or procedural) is better than nothing if you cannot get a respirator. Note that the respirators come in version with and without a valve. The valve (often a round plastic thingy) lets out the exhaled air unfiltered. This is fine if you're spraypainting, and it may be fine if you are protecting a known healthy person from a known sick person, but under no circumstances should the sick wear a version with a valve. 
+#### Notă importantă
 
-* **Gown / raincoat** (a few EUR/USD) ([example](https://www.amazon.de/dp/B07DFDFFRX))
+O notă cu privire la primele două articole: unii profesioniști din domeniul medical cu care vorbim pentru a simți cei care nu sunt pregătiți medical vor face mai mult rău sau bine atunci când vor începe să ia măsurători de SpO2 sau tensiunea arterială. Aici includem dispozitivele, deoarece acestea sunt în uz comun și considerăm că în unele locuri, în anumite perioade, sistemul de sănătate nu va putea face față numărului de persoane care se îmbolnăvesc și vom propune echilibrul către avantaje. în a putea vedea / arăta tendințele.
 
-   > Best is if you can find a long-sleeved, water-resistant gown. 
+Dacă decideți să doriți să puteți măsura tensiunea arterială și SpO2, atunci măcar familiarizați-vă corect cu dispozitivul. Practică! De asemenea, pentru a simți bine cum arată valorile normale din tine și cei dragi înainte ca cineva să se îmbolnăvească. Citiți îndrumările noastre despre când ** și când nu ** pentru a solicita ajutor pe baza informațiilor pe care le furnizează.
 
-* **Gloves** (less than a EUR/USD) ([example](https://www.amazon.de/dp/B01LWJ80C7))
-   > ![](/images/gloves.png)
+&nbsp;
 
-* **Eye protection, goggles or face shield** (a few EUR/USD) ([example](https://www.amazon.de/dp/B002THV25Y))
-   > ![](/images/glasses.png)
+### PPE (Echipament de protecție personală)
+
+Cumpărături pentru PPE este mai mult decât puțin complicat din mai multe motive.
+
+În primul rând, este posibil să fie totul nou. Este posibil să nu vă familiarizați cu ce tipuri de protecție sunt necesare în ce situații. Organizația Mondială a Sănătății are instrucțiuni foarte utile despre [când trebuie să porți o mască și cum să folosești măști] (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when- și-how-to-utilizare-mască). Ar trebui să purtați o mască numai dacă sunteți bolnav de COVID-19 cunoscut sau suspectat (febră, tuse, dificultăți de respirație) și oricând vă aflați în aceeași cameră cu cineva bolnav de COVID-19 cunoscut sau suspectat. Ține-ți mâinile de pe mască în timp ce o porți și folosește bune practici de spălare a mâinilor. Asigurați-vă că citiți câteva sfaturi și urmăriți câteva videoclipuri despre cum și cum să folosiți, folosiți și eliminați în siguranță PPE pentru a vă asigura că funcționează cu adevărat pentru a vă proteja și pe alții. (Acest lucru este valabil mai ales dacă utilizați un aparat respirator și nu o mască: este surprinzător de greu să vă asigurați că respiratorul are o potrivire adecvată.)
+
+Și atunci există faptul că unii oameni au cumpărat panică, iar unele companii au scăzut prețurile, ceea ce face ca echipamentele esențiale precum măștile să nu fie disponibile în unele locuri chiar și pentru medicii și asistenții care au cu adevărat nevoie de ele. Dacă este încă devreme în pandemie, guvernul dvs. poate oferi măști persoanelor care trăiesc și / sau au grijă de persoanele cu COVID-19. Secțiunea de aici descrie lucruri pe care ați putea încerca să le obțineți dacă trebuie să aveți grijă de alte persoane.
+
+Deci, în primul rând și ne referim la acest lucru: ** Ascultați sfaturi oficiale despre ceea ce * nu * să cumpărați ** pentru a nu face lucrurile indisponibile medicilor și asistenților medicali care au cel mai mult nevoie de ele. Politicile și practicile generale cu privire la măști vor varia în mod sălbatic în întreaga lume pentru o perioadă următoare. A ieși afară cu o mască sau a purta una în viața de zi cu zi obișnuită, dacă ești sănătos, nu este susținut de dovezile științifice care stau bine. Dacă aveți acces la o mască, probabil că are sens să purtați una dacă vă simțiți puțin bolnav sau tuseți, dar _absolut_have_to_ să iasă. De asemenea, are sens dacă aveți grijă de cineva care este bolnav. Este chiar obligatoriu în protocoalele de îngrijire la carantină COVID în unele țări. Verificați în ce circumstanțe autoritățile vă vor oferi măști. Vedeți textul principal despre alte lucruri la care să vă gândiți când vine vorba de conținerea răspândirii virusului cât mai mult posibil.
+
+* ** Mască medicală, de preferință N95 ** (câțiva EUR / USD)
+   >! [] (/images/mask.png)
+   >
+   > Este recomandat, de asemenea, respiratorii FFP2 sau FFP3. O mască obișnuită a feței (chirurgicală sau procedurală) este mai bună decât nimic dacă nu puteți obține un respirator. Rețineți că respirațiile vin în versiune cu sau fără supapă. Supapa (adesea o chestie de plastic rotundă) lasă aerul expirat să nu fie filtrat. Acest lucru este în regulă dacă picturați spray-uri și poate fi bine dacă protejați o persoană sănătoasă cunoscută de o persoană bolnavă cunoscută, dar în niciun caz bolnavul nu trebuie să poarte o versiune cu o supapă.
+
+* ** Rochie / pelerină de ploaie ** (câțiva EUR / USD) ([exemplu] (https://www.amazon.de/dp/B07DFDFFRX))
+
+   > Cel mai bun este dacă găsești o rochie cu mâneci lungi, rezistentă la apă.
+
+* ** Mănuși ** (mai puțin de un EUR / USD) ([exemplu] (https://www.amazon.de/dp/B01LWJ80C7))
+   >! [] (/images/gloves.png)
+
+* ** Protecția ochilor, ochelarii sau protecția feței ** (câțiva EUR / USD) ([exemplu] (https://www.amazon.de/dp/B002THV25Y))
+   >! [] (/images/ochelari.png)

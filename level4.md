@@ -1,57 +1,57 @@
-## Level 4 -- Professionals Take Over
+## Nivelul 4 - Profesioniștii preiau
 
-As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should go up. At this point, your log should contain temperature, respiration, and heart rate every few hours.
+Pe măsură ce simptomele se agravează și pacientul se deteriorează, frecvența cu care se fac măsurătorile trebuie să crească. În acest moment, jurnalul trebuie să conțină temperatura, respirația și ritmul cardiac la fiecare câteva ore.
 
-You should interpret any of the following as a medical emergency:
+Ar trebui să interpretați oricare dintre următoarele ca o urgență medicală:
 
-### Loss of consciousness
+### Pierderea conștienței
 
-There's different levels. When patient loses consciousness, make a note of whether the patient responds when you call their name (Voice), when you pinch the shoulder forcefully (Pain) or whether he/she does not respond at all (Unresponsive)
+Există niveluri diferite. Când pacientul își pierde cunoștința, notați dacă pacientul răspunde atunci când îi strigați numele (voce), când atingeți puternic umărul (Durere) sau dacă acesta nu răspunde deloc (nu răspunde)
 
-If loss of consciousness is brief, you might (if patient quickly recovers and is fully awake again!) encourage the patient to eat and drink a bit, and freshly ventilating the room. But loss of consciousness is serious, get help.
+Dacă pierderea cunoștinței este scurtă, s-ar putea (dacă pacientul se recuperează rapid și este din nou complet treaz!) Încurajați pacientul să mănânce și să bea puțin și să aerisească încăperea. Dar pierderea cunoștinței este gravă, obțineți ajutor.
 
-### Cognitive problems / confusion
+### Probleme cognitive / confuzie
 
-You probably know the patient, so you should be able to tell without any fancy tests if and when he/she is not with it anymore. Sudden onset of confusion is trouble. Seek medical help.
+Probabil cunoașteți pacientul, așa că ar trebui să puteți spune, fără niciun fel de teste fanteziste, dacă și când nu mai este cu acesta. Debutul brusc este confuz. Caută ajutor medical.
 
-### Too high or too low respiration rate
+### Viteza de respirație prea mare sau prea mică
 
-Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and / or watching his or her abdomen, while holding a clock with a second hand or a digital watch / phone stopwatch. Respiration rate (RR) should be between 12 and 20 breaths per minute. 
+Numărați respirațiile pe minut ținând mâna suficient de aproape pentru a simți respirația pacientului, urmărind pieptul său și / sau urmărind abdomenul său, în timp ce țineți un ceas cu mâna a doua sau un cronometru digital / telefon. Rata de respirație (RR) trebuie să fie cuprinsă între 12 și 20 de respirații pe minut.
 
-Immediate home care for respiratory problems may include ventilating the patient's room and propping him or her up so that he or she can be in an upright but comfortably resting position. It is also a good idea to elevate the head of the bed for sleeping if possible, and there are some sleeping positions that can make breathing easier, too (see Level 3, Care work).
+Îngrijirea imediată la domiciliu pentru probleme respiratorii poate include ventilația camerei pacientului și propulsarea acestuia, astfel încât acesta să poată fi într-o poziție verticală, dar confortabilă. Este, de asemenea, o idee bună să ridicați capul patului pentru a dormi, dacă este posibil, și există unele poziții de dormit care pot ușura respirația și mai ușoară (vezi Nivelul 3, Lucrări de îngrijire).
 
-![](/images/dyspnoe.png)
+! [] (/Images/dyspnoe.png)
 
-If you or the patient are experiencing shortness of breath / labored breathing, seek medical advice. 
+Dacă dumneavoastră sau pacientul întâmpinați dificultăți de respirație / respirație obosită, solicitați sfaturi medicale.
 
-### Low oxygen saturation
+### Saturație scăzută de oxigen
 
-If you have an oxymeter (see [shopping page](/shopping)), any oxygen saturation lower than 95%  may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue) (called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
+Dacă aveți un oximetru (a se vedea [pagina cumpărăturilor] (/ cumpărături)), orice saturație de oxigen mai mică de 95% poate indica o problemă respiratorie. Dacă în orice stadiu, ** buzele sau vârfurile degetului devin albastre ** (sau chiar ușor albastre) (numite cianoză), apelați o ambulanță! Orice mai puțin de 96%, introduceți aer curat în camera pacientului și încălziți-l.
 
-![](/images/cyanosis.png)
+! [] (/ Images/cyanosis.png)
 
-(Also call a doctor if the fingers, toes or lips turn less blue than this...)
+(De asemenea, sunați un medic dacă degetele, degetele de la picioare sau buzele devin mai puțin albastre decât acesta ...)
 
-If the patient's skin gets a lacy purple overlay (also called livedo reticularis) like below (and that's not normal for the patient), that is also a reason to call for help.
+Dacă pielea pacientului primește o suprapunere de culoare dantelă (denumită și liveo reticularis) ca mai jos (și nu este normal pentru pacient), acesta este și un motiv pentru a solicita ajutor.
 
-![](/images/livedo-reticularis.png)
+! [] (/ Images/livedo-reticularis.png)
 
-### Very low blood pressure
+### Tensiunea arterială foarte scăzută
 
-Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) is cause for concern. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](/images/covid-diary.pdf).
+Presiunea arterială mai mică decât partea inferioară a intervalului normal (90 mmHg sistolică, 60 mmHg diastolică) este un motiv de îngrijorare. Rețineți că tensiunea arterială vine ca două numere, presiunea sistolică și diastolică. Dacă aveți un dispozitiv automat ieftin, ar trebui să vă spună ambele numere. Dacă aveți un dispozitiv, observați presiunea sistolică pe [forma jurnalului] (/ images / covid-diary.pdf).
 
-If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should lose color. Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate low blood pressure. It could also be a symptom of dehydration. 
+Dacă nu aveți un dispozitiv pentru măsurarea tensiunii arteriale sau aveți probleme pentru a citi, atunci încercați să testați în schimb timpul de reîncărcare capilară al pacientului. Verificați așezând degetele plate pe o suprafață dură. Folosiți degetul pentru a apăsa în jos pe una sau cu unghiile de sus. Unghia ar trebui să își piardă culoarea. Verificați cât timp durează unghia pentru a-și transforma din nou culoarea normală. Ar trebui să dureze 1-2 secunde. Mai lung decât asta poate indica tensiunea arterială scăzută. Ar putea fi, de asemenea, un simptom al deshidratării.
 
-Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); fainting may occur. But really, once again, if things do not look right somehow - if blood pressure is very low, or if the patient normally has high blood pressure and it's looking much lower than their normal - again, get help.
+Deshidratarea este o cauză frecventă a tensiunii arteriale scăzute, astfel încât îngrijirea imediată la domiciliu poate include încurajarea pacientului să mănânce și să bea, în special alimente sau băuturi care conțin electroliți esențiali precum potasiu și sodiu. Amețirea este un simptom obișnuit al tensiunii arteriale scăzute, astfel încât pacientul amețit va dori să fie atent în timp ce schimbă pozițiile (așezarea, stând în picioare); poate apărea leșin. Dar, într-adevăr, încă o dată, dacă lucrurile nu arată cumva bine - dacă tensiunea arterială este foarte scăzută sau dacă pacientul are, în mod normal, hipertensiune arterială și pare mult mai scăzut decât normalul lor - din nou, primiți ajutor.
 
-### Too high or too low heart rate
+### Frecvența cardiacă prea mare sau prea mică
 
-Heart rate is easier to measure than blood pressure, and usually high heart rate (above 100-110 beats per minute for an adult) goes with low blood pressure. Smaller people and children often have normally higher heart rates. High heart rate alone may not be cause for alarm, as it may indicate anxiety or dehydration. Relaxation techniques and drinking / eating something might be appropriate. But once again, values outside the normal range here should cue you to seek medical help immediately. This is especially true if you see rapid breathing along with low blood pressure or high heart rate and / or confusion. 
+Frecvența cardiacă este mai ușor de măsurat decât tensiunea arterială și, de obicei, ritmul cardiac ridicat (peste 100-110 bătăi pe minut pentru un adult) merge cu tensiunea arterială scăzută. Oamenii mai mici și copiii au frecvent frecvențe cardiace în mod normal. Frecvența cardiacă mare poate să nu fie cauza pentru alarmă, deoarece poate indica anxietate sau deshidratare. Tehnicile de relaxare și de băut / mâncat ceva ar putea fi potrivite. Dar, încă o dată, valorile în afara domeniului normal de aici ar trebui să vă ceară să solicitați imediat ajutor medical. Acest lucru este valabil mai ales dacă observați o respirație rapidă împreună cu tensiune arterială scăzută sau ritm cardiac ridicat și / sau confuzie.
 
-### Very high fever that comes (back) suddenly
+### Febra foarte mare care vine (înapoi) brusc
 
-If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (> 39° Celsius) is a cue to seek medical help. So is a fever that goes away and then comes back suddenly. 
+Dacă verificați în mod regulat temperaturile, veți dori să fiți conștienți că tendința se poate inversa brusc, chiar și atunci când pacientul părea să se îmbunătățească mai devreme. Măsurătorile periodice sunt importante. Febra care este foarte mare (> 39 ° Celsius) este un indiciu pentru a solicita ajutor medical. La fel și o febră care dispare și apoi se întoarce brusc.
 
-### Call for help
+### Suna pentru ajutor
 
-When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse. Call a doctor, or call the emergency number and get the patient in an ambulance pronto. Stay calm and report the situation as it is. Your job is done: You have kept a patient out of the medical system while he or she was just sick. Now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, ambulance people, and doctors that you are not merely panicking for no reason and will likely help get the patient the care he or she needs sooner.
+Când apar oricare dintre simptomele de mai sus, lucrurile sunt grave! Dacă este posibil, acesta este punctul în care nu ar trebui să mai luați nicio decizie pe baza unui ghid de pe internet. Nu așteptați ca lucrurile să se înrăutățească. Apelați un medic sau apelați numărul de urgență și primiți pacientul într-o pronto ambulanță. Stai calm și raportează situația așa cum este. Treaba ta este terminată: ai păstrat un pacient în afara sistemului medical în timp ce el sau ea erau doar bolnavi. Acum este timpul ca profesioniștii să se descurce. Datele pe care le-ați adunat ar trebui să vă ajute să convingeți operatorul, oamenii din ambulanță și medicii că nu sunteți doar în panică fără niciun motiv și că vor ajuta probabil pacientul să aibă grijă de care are nevoie mai devreme.

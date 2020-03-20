@@ -1,37 +1,37 @@
-The following recommendations were taken from the [Austrian Federal Ministry of Defense](http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (go figure!). All of it seems good advice in the present circumstances. 
+Următoarele recomandări au fost luate de la [Ministerul Federal al Apărării din Austria] (http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (vezi cifra!). Toate pare un sfat bun în circumstanțele actuale.
 
-## Psychological advice related to COVID-19
+## Sfaturi psihologice legate de COVID-19
 
-Isolation can take its toll. A suspicion of an infection, the fear of it, or the illness itself can also put a strain on the psyche. In order to lighten these loads, we recommend:
+Izolarea poate afecta. O suspiciune de infecție, frica de ea sau boala în sine pot, de asemenea, să pună efort asupra psihicului. Pentru a ușura aceste încărcături, vă recomandăm:
 
-**Establish security**: Regular information from reliable sources (e.g., the national broadcaster, websites of public health authorities) helps to prevent thoughts from taking on a life of their own. In this way, security can be established in a situation where fears and worries are completely normal and understandable.
+** Stabilirea securității **: Informații periodice din surse fiabile (de exemplu, radiodifuzorul național, site-urile web ale autorităților de sănătate publică) ajută la împiedicarea gândurilor să își ducă viața. În acest fel, securitatea poate fi stabilită într-o situație în care temerile și grijile sunt complet normale și de înțeles.
 
-**Accept feelings**: Rapidly changing emotions are normal in crisis situations: From helplessness and fear to anger, annoyance, or feelings of senselessness and emptiness, many emotions can come and go rapidly. In such an emotionally volatile state, you should wait to make any major decisions. 
+** Acceptați sentimentele **: emoțiile care se schimbă rapid sunt normale în situații de criză: de la neputință și frică până la furie, enervare sau sentimente de lipsă de sens și de gol, multe emoții pot veni și pleacă rapid. Într-o astfel de stare volatilă emoțional, ar trebui să aștepți să iei toate deciziile majore.
 
-**Set goals**: This gives you back a sense of control. Goals should be realistic and appropriate to the circumstances. They might include: Writing a diary, learning new skills, tidying up, or getting work done that would otherwise always be left undone.
+** Stabiliți obiective **: Acest lucru vă oferă înapoi un sentiment de control. Obiectivele ar trebui să fie realiste și adecvate circumstanțelor. Acestea pot include: scrierea unui jurnal, învățarea deprinderilor noi, redactarea sau realizarea unei lucrări care altfel ar fi întotdeauna lăsate neatinse.
 
-**Talk about it**: Sharing worries with friends, family, colleagues, and comrades helps in times of crisis.
+** Vorbesc despre asta **: Împărtășirea grijilor cu prietenii, familia, colegii și tovarășii ajută în perioadele de criză.
 
-**Stay in touch**: It is important to maintain regular social contact through phone, chat, and video calls. However, the coronavirus topic should not determine the whole conversation. It is important to pay attention to the other person in order to recognize when the topic becomes too much or too stressful.
+** Păstrați legătura **: este important să mențineți un contact social regulat prin telefon, chat și apeluri video. Cu toate acestea, subiectul coronavirus nu ar trebui să determine întreaga conversație. Este important să acordăm atenție celeilalte persoane pentru a recunoaște când subiectul devine prea stresant sau prea stresant.
 
-**Seek distraction**: Always consciously distract yourself from the predominant coronavirus topic. Have conversations on other topics too, like reading and pursuing hobbies.
+** Căutați distragerea **: Distrageți-vă întotdeauna conștient de subiectul predominant coronavirus. Aveți conversații și pe alte subiecte, cum ar fi cititul și urmărirea hobby-urilor.
 
-**Allow humor**: "Humor is allowed!" It is a strong remedy for hopelessness. Smiles and laughter often bring relief.
+** Permiteți umorul **: "Umorul este permis!" Este un remediu puternic pentru deznădejde. Zâmbetele și râsul aduc adesea alinare.
 
-**Stay active**: Do things you never have time for and consciously engage in positive activities such as needlework, handicrafts, crafts, cooking something good, and watching a good movie.
+** Rămâneți activ **: Faceți lucruri pentru care nu aveți niciodată timp și angajați-vă conștient în activități pozitive, cum ar fi lucrurile cu acul, meșteșugurile, meșteșugurile, gătitul ceva bun și vizionarea unui film bun.
 
-**Physical activity**: It is also important not to forget about physical balance. Being physically active helps to reduce stress and strain.
+** Activitate fizică **: De asemenea, este important să nu uitați de echilibrul fizic. A fi activ fizic ajută la reducerea stresului și a încordării.
 
-**Maintain an everyday rhythm**: Try to stay in your usual routine even in this exceptional situation. Get up at certain times, complete your tasks first, and then have free time. You should also eat and go to bed at normal times. This is especially important for children. 
+** Mențineți un ritm cotidian **: încercați să rămâneți în rutina dvs. obișnuită chiar și în această situație excepțională. Ridicați-vă în anumite momente, finalizați-vă mai întâi sarcinile și apoi aveți timp liber. De asemenea, ar trebui să mănânci și să mergi la culcare la ore normale. Acest lucru este deosebit de important pentru copii.
 
-**Activate resources**: Find things that encourage you. E.g., think up sentences that calm you and your family and give you security, such as: "We will be able to cope with the situation together!" Do not lose sight of your own strengths. In times of crisis, attention is automatically directed to fears and what doesn't work. In order to achieve a psychological balance, it is necessary to consciously focus on the good, the successful, and the strengths.
+** Activare resurse **: Găsiți lucruri care vă încurajează. De exemplu, gândiți-vă propoziții care vă liniștesc și familia și vă oferă securitate, cum ar fi: „Vom putea face față situației împreună!” Nu pierdeți din vedere propriile forțe. În timp de criză, atenția este direcționată automat către temeri și ceea ce nu funcționează. Pentru a realiza un echilibru psihologic, este necesar să vă concentrați în mod conștient asupra binelui, succesului și atuurilor.
 
-**Allay kids' fears**:
-- Be guided by kids’ questions, and then give honest and child-oriented answers.
-- Restrict or monitor media consumption around coronavirus. Do not forbid it, but dose it. Explain, be open to kids’ questions, and stick to it.
-- Provide security through structured, predictable everyday life.
-- Enable social contacts via phone and internet. 
-- Possibly give more attention when fears take over.
-- Stay calm yourself. Fear is contagious.
-- Enable play and distraction.
-- Play together and be creative.
+** Temeri ale lui Allay **:
+- Fiți ghidat de întrebările copiilor și apoi dați răspunsuri cinstite și orientate către copii.
+- Restrânge sau monitorizează consumul media în jurul coronavirusului. Nu-l interzice, ci dozați-l. Explicați, fiți deschiși la întrebările copiilor și rămâneți la el.
+- Oferiți securitate prin viața de zi cu zi structurată și previzibilă.
+- Activați contactele sociale prin telefon și internet.
+- Posibil să acordați mai multă atenție atunci când temerile sunt preluate.
+- Stai liniștit singur. Frica este contagioasă.
+- Activați jocul și distragerea.
+- Joacă împreună și fii creativ.
