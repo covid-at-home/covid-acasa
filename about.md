@@ -14,8 +14,7 @@ Acest site este publicat sub [Licență internațională Creative Creative Attri
 
 Acest site este mai bun pentru că am primit ajutor de la (în ordine alfabetică):
 
-{% for person in site.data.thankyou.people %}
-* {{ person.name }}
+{% for person in site.data.thankyou.people %}* {{ person.name }}
 {% endfor %}
 
 ### Impressum
