@@ -8,6 +8,8 @@ Pentru a fi clar: ** Ascultă AUTORITĂȚILE LOCALE DE SĂNĂTATE, DOCTORI ȘI P
 
 Acest ghid se bazează pe presupunerea că, în următoarele luni, mai multe persoane decât de obicei, fie se îmbolnăvesc, fie vor avea oameni bolnavi în viața lor. Să sperăm cu toții, dar vom presupune că medicii și spitalele vor fi foarte ocupate, dacă nu sunt supraîncărcate. Trebuie să ne confruntăm cu posibilitatea ca unele dintre persoanele care, în mod normal, să fie îngrijite sub supraveghere medicală, să poată fi îngrijite acasă. Sperăm că o parte din informațiile de aici vă vor oferi o anumită încredere în a face față acestei boli, care, de la sine și va reduce sarcina pe medicii și asistenții care, din aspectul acesteia, vor fi destul de ocupați în săptămânile și lunile următoare. În același timp, sperăm să vă oferim informații care vă ajută să spuneți când este timpul să primiți ajutor medical profesionist. Obținerea unor cantități mari de oameni pentru a obține acel echilibru corect poate face toată diferența în perioada următoare.
 
+[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+
 Acest ghid conține sfaturi generale care ar trebui să fie aplicabile în multe locuri. Este posibil să adăugăm informații specifice anumitor țări sau regiuni, dar ar trebui să vă mențineți ochii deschiși pentru informații mai specifice din alte surse credibile, care sunt mai locale decât în ​​cazul în care vă aflați.
 
 Unii dintre autorii acestui site nu sunt cunoscuți ca mari fani ai guvernului și ai autorității, dar în acest moment încrederea în autoritățile de sănătate publică este vitală. În cazul în care există discrepanțe, aveți încredere în surse de renume, precum:
