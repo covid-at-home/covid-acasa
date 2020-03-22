@@ -1,12 +1,12 @@
-## Nivelul 4 - Profesioniștii preiau
+## Nivelul 4 - Specialiștii preiau cazul
 
-Pe măsură ce simptomele se agravează și pacientul se deteriorează, frecvența cu care se fac măsurătorile trebuie să crească. În acest moment, jurnalul trebuie să conțină temperatura, respirația și ritmul cardiac la fiecare câteva ore.
+Pe măsură ce simptomele se agravează și starea pacientului se deteriorează, frecvența cu care se fac măsurătorile trebuie să crească. În acest moment, jurnalul trebuie să conțină temperatura, respirația și ritmul cardiac la fiecare câteva ore.
 
-Ar trebui să interpretați oricare dintre următoarele ca o urgență medicală:
+Oricare dintre următoarele instanțe trebuiesc interpretate ca o urgență medicală:
 
 ### Pierderea conștienței
 
-Există niveluri diferite. Când pacientul își pierde cunoștința, notați dacă pacientul răspunde atunci când îi strigați numele (voce), când atingeți puternic umărul (Durere) sau dacă acesta nu răspunde deloc (nu răspunde)
+Există diferite niveluri. Când pacientul își pierde cunoștința, notează dacă pacientul răspunde atunci când îi strigi numele (voce), când atingi puternic umărul (durere) sau dacă acesta nu răspunde deloc (nu răspunde).
 
 Dacă pierderea cunoștinței este scurtă, s-ar putea (dacă pacientul se recuperează rapid și este din nou complet treaz!) Încurajați pacientul să mănânce și să bea puțin și să aerisească încăperea. Dar pierderea cunoștinței este gravă, obțineți ajutor.
 
