@@ -1,6 +1,6 @@
 ### Site-ul web pe care acest depozit github este versiunea de redactare la care este redat
 
-# [covid-acasa.info] (https://www.covid-acasa.info)
+# [covid-acasa.info](https://www.covid-acasa.info)
 
 
 ### Intalnire de echipa
