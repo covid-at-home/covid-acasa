@@ -47,7 +47,7 @@ Dacă crezi că starea pacientului s-ar putea agrava, jurnalul de boală se poat
 - ritm cardiac
 - debutul unei noi confuzii
 
-Dacă starea pacientului se înrăutățește, treceți la secțiunea următoare.
+Dacă starea pacientului se înrăutățește, treci la secțiunea următoare.
 
 ### O zi obișnuită
 
