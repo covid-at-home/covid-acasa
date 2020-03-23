@@ -1,47 +1,47 @@
-## Nivelul 2 - Simptome emergente
+## Nivelul 2 - Simptome în curs de dezvoltare
 
 ! [] (/ Images / strănut-emoji.png)
 
 Observați dacă suferiți de oricare dintre următoarele simptome:
 
-* Febra
-* Oboseala
+* Febră
+* Oboseală
 * Durere de gât
 * Tuse uscată (neproductivă)
-* Tuse de slime
+* Tuse expectorantă
 * Dureri articulare / musculare
-* Scurtă de respirație
+* Dificultate în respirație
 * Lipsa foamei
 
 Simptomele inițiale pot include, de asemenea, dureri de cap, frisoane, amețeli, congestie nazală, dureri abdominale, diaree, greață și vărsături. Mai târziu în infecție, simptomele pot include pierderea mirosului și a gustului care durează câteva zile.
 
-Este răspândit COVID-19 în comunitatea în care trăiți? Sau ai fost într-o zonă afectată sau ai fost în preajma cuiva care se afla într-o zonă afectată? Atunci simptomele tale ar putea fi foarte bine COVID-19. Dar amintiți-vă: în multe domenii, șansele că este altceva vor fi în continuare mai mari.
+Este răspândit COVID-19 în comunitatea în care trăiești? Ai fost într-o zonă afectată sau ai fost în preajma cuiva care se afla într-o zonă afectată? Atunci simptomele tale ar putea fi legate de COVID-19. Dar amintiți-vă: în multe zone, șansele să fie altceva vor fi în continuare mari.
 
-> Notă: Febra nu este subiectivă. Veți avea nevoie de un termometru (sau doi) și de a ține evidența într-un jurnal de temperatură cel puțin zilnic. Dacă alegeți să luați temperatura în interior (adică în partea de jos / rect), va fi mai precis. Asigurați-vă că aveți suficiente șervețele și alcool pentru a curăța termometrul după fiecare utilizare. Dacă luați temperatura oral, nu mâncați și nu beți timp de 20 de minute înainte. În orice caz, notați metoda din jurnalul dvs., astfel încât personalul medical să știe care este. (În jurul valorii de .7 grade Celsius este adesea adăugat la temperaturi orale.) Iată câteva instrucțiuni bune pentru [cum se face o temperatură orală] (https://www.drugs.com/cg/how-to-take-an-oral -temperature.html).
+> Notă: Febra nu este subiectivă. Vei avea nevoie de un termometru (sau două) și de a ține evidența într-un jurnal de temperatură cel puțin zilnic. Dacă alegi să iei temperatura intern (adică în partea de jos / rect), va fi mai precisă. Asigură-te că ai suficiente șervețele și alcool pentru a curăța termometrul după fiecare utilizare. Dacă iei temperatura oral, nu mânca și nu bea nimic cu 20 de minute înainte. În orice caz, notează metoda din jurnalul tău, astfel încât personalul medical să știe care este. (În jur de .7 grade Celsius sunt adesea adăugate la temperatura orală.) Iată câteva instrucțiuni bune pentru [cum se ia o temperatură orală] (https://www.drugs.com/cg/how-to-take-an-oral -temperature.html).
 
 ### Diagnosticul
 
-Vor fi diferite politici în legătură cu testarea COVID-19, în funcție de locul în care vă aflați și în ce etapă a pandemiei se află zona dvs. zona dvs. are unul și pacientul se califică pentru testare. ** Nu trebuie să vă prezentați doar la cabinetul medicului sau la un spital neanunțat doar dacă întâmpinați primele simptome. **
+Vor fi diferite politici în legătură cu testarea COVID-19, în funcție de locul în care te afli și în ce etapă a pandemiei se află zona ta. Verifică online, sună la numerele oficiale destinate informării, urmărește ghidul oficial și consideră posibilitatea de a conduce păna la o zona de verificare special amenajată dacă zona ta beneficiază de așa ceva și dacă pacientul se califică pentru testare. ** Nu trebuie să te prezinți la cabinetul medicului sau la spital neanunțat dacă întâmpinați doar primele simptome. **
 
-> Amintiți-vă: spitalele sunt locuri proaste până când trebuie să fiți absolut acolo: Dvs. și / sau pacientul riscați să apară infecții suplimentare care, atunci când sunt bacteriene sau fungice, sunt mult mai susceptibile să fie rezistente la tratamentele standard din cauza natura mediului spitalicesc. De asemenea: multe spitale vor fi supraîncărcate.
+> Amintiți-vă: la spital mergi când este absolut necesar: Tu și / sau pacientul riscați să contactați infecții suplimentare care, atunci când sunt bacteriene sau fungice, sunt mult mai susceptibile să fie rezistente la tratamentele standard din cauza naturii mediului spitalicesc. De asemenea: multe spitale vor fi supraîncărcate.
 
-### Nu vă panicați - bine îngrijorați
+### Nu vă panicați - Fântâna Grijilor
 
-Pentru majoritatea oamenilor, acest lucru va fi la fel de rău pe cât îl va primi. Vei fi un pic bolnav, și atunci vei fi mai bine. Terminat. În același timp, unii oameni nu vor fi atât de norocoși. Chiar dacă doar un procent relativ mic dintre cei afectați au nevoie de îngrijiri medicale, acest lucru va pune un efort grav asupra medicilor, asistenților medicali și a resurselor medicale disponibile. Cu toții putem ajuta. „Păcatul îngrijorat” sunt oameni care vizitează medicul atunci când nu sunt cu adevărat (tot atâta) bolnavi, pentru că au nevoie de liniște. Săptămânile și lunile următoare nu sunt un moment bun pentru asta. Acest site web își propune să vă ofere mai multă încredere și pregătire în grija dvs., a prietenilor și a celor dragi până când aveți nevoie de ajutor profesional.
+Pentru majoritatea oamenilor, mai rău de atât nu se va putea. Vei fi un pic bolnav, dar mai apoi îți vei reveni. Gata. În același timp, unii oameni nu vor fi atât de norocoși. Chiar dacă doar un procent relativ mic dintre cei afectați au nevoie de îngrijiri medicale, acest lucru va pune un efort major pe umerii medicilor, asistenților medicali și a resurselor medicale disponibile. Cu toții putem ajuta. „Fântâna grijilor” sunt oameni care vizitează medicul atunci când nu sunt cu adevărat (sau poate prea puțin) bolnavi, pentru că au nevoie de liniște. Săptămânile și lunile următoare nu sunt un moment bun pentru asta. Acest site își propune să îți ofere mai multă încredere și pregătire în îngrijirea ta, a prietenilor și a celor dragi până când aveți cu adevărat nevoie de ajutor profesional.
 
 ### Auto-carantină
 
-Până la testare și în funcție de locul în care vă aflați și de unde ați fost, poate fi prudent să presupuneți că pacientul (dumneavoastră? Un membru al familiei?) Are COVID-19. Asta înseamnă auto-carantină acasă. Nu mai sunt vizitatori, un semn pe ușă și pacientul nu trebuie să iasă decât dacă nu există șanse de întâlnire cu cineva. Zonele diferite au standarde diferite pentru ceea ce înseamnă auto-carantină atunci când există alte persoane în gospodărie. Dacă este posibil, veți dori să greșiți din partea siguranței și să încercați să vă livrați totul timp de 2 săptămâni. Lucrurile se pot schimba, deoarece în unele zone virusul va deveni atât de comun (endemic) încât mulți oameni vor fi avut. Nu se spune la ce punct diferite autorități vor înceta testarea fiecărei potențiale infecții și va diferi de la o regiune la alta.
+Până la testare și în funcție de locul în care te afli și de unde ai fost, poate fi prudent să presupui că pacientul (Tu? Un membru al familiei?) are COVID-19. Asta înseamnă auto-carantină acasă. Fără vizitatori, un semn pe ușă și pacientul nu trebuie să iasă decât dacă nu există șanse să se întâlnească cu cineva. Zonele diferite au standarde diferite pentru ceea ce înseamnă auto-carantină atunci când există alte persoane în gospodărie. Dacă este posibil, vei dori să fii de partea siguranței și să încerci să fii aproviionat pentru două săptămâni sau să îți fie livrat totul. Lucrurile se pot schimba, deoarece în unele zone virusul va deveni atât de comun (endemic) încât mulți l-au avut dejat. Nu se știe din ce moment autoritățile vor înceta testarea fiecărei potențiale infecții,  acest lucru va fi diferit de la o regiune la alta.
 
 ### Familia, colegii de apartament etc.
 
-Membrii gospodariilor oamenilor cunoscuți sau suspectați de a fi infectați trebuie să se considere ca și potențial infectați și auto-carantina, păstrând totodată distanța maximă posibilă față de pacient, atâta timp cât pacientul poate avea grijă de el. Aceasta înseamnă să fii în camere diferite, să dormi în paturi diferite, să mănânci separat, să folosești diferite feluri de mâncare și prosoape și, atunci când este posibil, să folosești băi diferite.
+Membrii caselor cu oameni suspectați că ar fi infectați trebuie să se considere și ei potențial infectați și să intre în auto-carantina, păstrând totodată distanța maximă posibilă față de pacient, atâta timp cât pacientul poate avea grijă de el. Aceasta înseamnă să fiți în camere diferite, să dormiți în paturi diferite, să măncați separat, să folosiți diferite farfurii, tacâmuri și prosoape și, atunci când este posibil, să folosiți băi diferite.
 
-Curățați regulat toate suprafețele atinse frecvent cu înălbitor casnic diluat cu apă: 10 ml / 2 linguri de înălbitor cu o jumătate de litru / 2 căni de apă (spălați cu atenție instrumentele de măsurare înainte de refolosire). Puteți pune această soluție într-un pulverizator pentru uzină sau într-o sticlă de curățare curat. Ar trebui să oferiți spray-ului un minut pentru a lucra pe suprafețe înainte de a-l șterge la uscat.
+Curățați regulat toate suprafețele atinse frecvent cu înălbitor casnic diluat cu apă: 10 ml / 2 linguri de înălbitor cu o jumătate de litru / 2 căni de apă (spălați cu atenție instrumentele de măsurare înainte de refolosire). Puteți pune această soluție într-un pulverizator de duzină sau într-o sticlă de curățare curată. Ar trebui să oferiți spray-ului un minut pentru a lucra pe suprafețe înainte de a-l șterge.
 
-Cel mai târziu este momentul să ne gândim la echipamentele de protecție personală (PPE). Dacă puteți obține măști, purtați una. Mănuși de unică folosință, halate de protecție cu mânecă lungă și protecție pentru ochi pot fi de asemenea adecvate. [Pagina de cumpărături] (/ cumpărături) de pe acest site web conține câteva idei pentru articole de protecție personală, precum și informații importante despre momentul și cum să le folosești.
+Acum este momentul să ne gândim la echipamentele de protecție personală (PPE). Dacă poți obține o mască ȘI DACĂ NU EXISTA UN DEFICIT DE MĂȘTI PENTRU PERSONALUL MEDICAL ÎN ZONA ÎN CARE TE AFLI, poartă una. Mănuși de unică folosință, halate de protecție cu mânecă lungă și protecție pentru ochi pot fi de asemenea adecvate. [Pagina de cumpărături] (/ cumpărături) acest site conține câteva idei pentru articole de protecție personală, precum și informații importante despre momentul și cum să le folosești.
 
-În cele mai multe locuri, probabil că va veni un moment în care numărul de cazuri se abate, mulți oameni au avut deja COVID-19, iar autoritățile nu vor mai ține înregistrări despre cine l-a avut și cine nu. Baza apoi rămâne aceeași: Încercați să protejați cât mai mult posibil persoanele în vârstă și persoanele cu boli existente și încercați să minimizați răspândirea ori de câte ori puteți, cât mai bine puteți. Amintiți-vă: cu cât putem încetini sau reduce mai mult răspândirea bolii, cu atât este mai bine pentru toată lumea. Pentru că, ajutând la încetinirea sau oprirea răspândirii, puteți ajuta la reducerea cât de copleșit va deveni sistemul de asistență medicală. Acest lucru, la rândul său, crește proporția și numărul de persoane care au nevoie de îngrijiri medicale, care sunt în măsură să îl acceseze. Acest lucru ajută medicii și asistentele să salveze mai multe vieți.
+În cele mai multe locuri, probabil că va veni un moment în care numărul de cazuri atinge cote maxime, mulți oameni au avut deja COVID-19, iar autoritățile nu vor mai ține cont despre cine l-a avut și cine nu. Baza apoi rămâne aceeași: Încercați să protejați cât mai mult posibil persoanele în vârstă și persoanele cu boli existente și încercați să minimizați răspândirea ori de câte ori puteți, cât mai bine puteți. Amintiți-vă: cu cât putem încetini sau reduce mai mult răspândirea bolii, cu atât este mai bine pentru toată lumea. Pentru că, ajutând la încetinirea sau oprirea răspândirii, puteți ajuta la reducerea cât de copleșit va deveni sistemul de asistență medicală. Acest lucru, la rândul său, crește proporția și numărul de persoane care au nevoie de îngrijiri medicale, care sunt în măsură să îl acceseze. Acest lucru ajută medicii și asistentele să salveze mai multe vieți.
 
 ### Jurnal
 
