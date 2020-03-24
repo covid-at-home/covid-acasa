@@ -2,7 +2,7 @@
 
 În afară de faptul că trebuie să ai aproximativ 2-4 săptămâni de produse esențiale, cum ar fi alimente și alte materiale de uz casnic, iată câteva lucruri necesare și la îndemână, dacă vei avea grijă de cineva cu COVID-19. Nici unul din lucrurile de mai jos nu este foarte scump sau nu necesită instruire specială pentru a fi folosit.
 
-Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar asta nu înseamnă că este o recomandare de cumpărare și noi nu facem bani dacă faceți clic pe nici unul din produsele de mai jos. Când sugerăm un exemplu de produs, nu ne referim la nimic altceva decât * „ceva de genul acesta.” * Utilizați orice altă cale de a cumpăra ceva similar online sau în magazine.
+Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar asta nu înseamnă că este o recomandare de cumpărare și noi nu facem bani dacă dați clic pe nici unul din produsele de mai jos. Când sugerăm un produs, nu ne referim la nimic altceva decât * „ceva de genul acesta.” * Utilizați orice altă cale de a cumpăra ceva similar online sau în magazine.
 
 &nbsp;
 
