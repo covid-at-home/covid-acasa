@@ -25,7 +25,7 @@ Dacă este posibil, urmează instrucțiunile autorităților. Asta include câte
 
 ### Rămâi sănătos
 
-! [] (/ Images / situps.png)
+! [] (/images/situps.png)
 
 În plus, poți face lucruri pentru a rămâne cât mai sănătos posibil:
 
@@ -39,7 +39,7 @@ Dacă este posibil, urmează instrucțiunile autorităților. Asta include câte
 
 #### Bunăstarea psihologică
 
-Uneori, vor fi momente dificile pentru toți și fiecare dintre noi va fi afectat în mod diferit. Consultă pagina cu [recomandări, idei și sfaturi pentru bunăstarea psihologică].(/ psihologice)
+Uneori, vor fi momente dificile pentru toți și fiecare dintre noi va fi afectat în mod diferit. Consultă pagina cu [recomandări, idei și sfaturi pentru bunăstarea psihologică].(/psychological)
 
 ### Pregătește-te
 
@@ -47,7 +47,7 @@ Fii gata să te familiarizezi cu lucrurile pe care va trebui să le faci atunci 
 
 #### Obține lucrurile de care ai nevoie
 
-Am realizat o [pagină de cumpărături] (/ cumpărături) care listează lucruri la îndemână care te pot ajuta să te îngrijești pe tine și pe ceilalți.
+Am realizat o [pagină de cumpărături] (/shopping) care listează lucruri la îndemână care te pot ajuta să te îngrijești pe tine și pe ceilalți.
 
 ### Condiții medicale existente
 
