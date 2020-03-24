@@ -33,11 +33,11 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
    >
    > Aparat mic care se clipește pe deget și măsoară frecvența cardiacă (ușor de măsurat și în alte moduri) și saturația de oxigen din sânge (care este greu de măsurat în orice alt mod).
 
-* ** Tensionetru / aparat de măsurat tensiunea arteriale ** (20 EUR / USD sau mai mult) ([exemplu] (https://www.amazon.de/gp/product/B07KY867ZH)) ** A se vedea nota de mai jos! **
+* ** Tensiometru / aparat de măsurat tensiunea arteriale ** (20 EUR / USD sau mai mult) ([exemplu] (https://www.amazon.de/gp/product/B07KY867ZH)) ** A se vedea nota de mai jos! **
    >! [] (/images/blood-pressure.png)
    >
    > Există modalitați simple de a verifica dacă tensiunea arterială scade prea mult (consultă textul principal de pe acest site). Cu toate acestea, aparatul poate fi util să măsori acest lucru obiectiv, mai ales dacă dorești să vezi / să monitorizezi un trend a tensiunii arteriale a pacientului. <br>
-   > ** Cu toate astea ... Ceea ce NU trebuie să faci: ** * Să cumperi un astfel de dispozitiv, să măsoari presiunea arterială, să găsești pe Internet ce înseamnă un "interval normal" și să te panichezi dacă tensiunea arterială este mai mare sau inferioară. Mulți oameni au tensiune arterială ridicată sau scăzută, iar stresul crește tensiunea arterială (și ritmul cardiac). Deși o tensiune arterială crescută pe o perioadă mai lungă de timp poate fi cu siguranță ceva care să menționezi medicului atunci cănd vorbiți cu el/ea, NU ESTE O PROBLEMĂ PENTRU CARE SĂ MERGEȚI LA DOCTORI ÎN TIMPUL UNUI PANDEMIC. "*
+   > ** Cu toate astea ... Ceea ce NU trebuie să faci: ** * Să cumperi un astfel de dispozitiv, să măsoari presiunea arterială, să găsești pe Internet ce înseamnă un "interval normal" și să te panichezi dacă tensiunea arterială este mai mare sau inferioară. Mulți oameni au tensiune arterială ridicată sau scăzută, iar stresul crește tensiunea arterială (și ritmul cardiac). Deși o tensiune arterială crescută pe o perioadă mai lungă de timp poate fi cu siguranță ceva care să menționezi medicului atunci cănd vorbești cu el/ea, NU ESTE O PROBLEMĂ PENTRU CARE SĂ MERGEȚI LA DOCTORI ÎN TIMPUL UNUI PANDEMIC. "*
    
 * ** Incontinență / cearșafuri impermeabile ** (20 EUR / USD sau mai mult) ([exemplu] (https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) sau [exemplu] (https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
    >! [] (/images/sheet.png)
