@@ -6,7 +6,7 @@
 
 În situatia de fața începi să spui celorlalți din jurul tău că ești într-adevăr bolnav și trebuie sa stai în pat. Vorbește cu cineva în care ai încredere despre cum să aibă grijă de tine. Cere-i acestei persoane sau acestor persoane să citească acest document. Dacă ai persoane în mediul tau care au avut deja COVID-19 (un lucru care va fi din ce în ce mai frecvent pe măsură ce timpul trece), acești oameni sunt în mod natural cei mai buni îngrijitori, deoarece, foarte probabil, vor avea imunitate împotriva COVID-19. În caz contrar, încearcă să judeci ce este cel mai înțelept în circumstanțele tale. În orice caz, nu aștepta să iei măsuri până în ultimul moment, pentru că, dacă boala progresează, respirația grea îți va afecta, inevitabil, capacitatea de a vorbi și de a gândi clar.
 
-! [](/images/sick-in-bed.png)
+![](/images/sick-in-bed.png)
 
 ### In orice caz
 
