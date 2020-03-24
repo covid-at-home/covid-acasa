@@ -33,7 +33,7 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
    >
    > Aparat mic care se clipește pe deget și măsoară frecvența cardiacă (ușor de măsurat și în alte moduri) și saturația de oxigen din sânge (care este greu de măsurat în orice alt mod).
 
-* ** Aparat de măsurat tensiunea arteriale ** (20 EUR / USD sau mai mult) ([exemplu] (https://www.amazon.de/gp/product/B07KY867ZH)) ** A se vedea nota de mai jos! **
+* ** Tensionetru / aparat de măsurat tensiunea arteriale ** (20 EUR / USD sau mai mult) ([exemplu] (https://www.amazon.de/gp/product/B07KY867ZH)) ** A se vedea nota de mai jos! **
    >! [] (/images/blood-pressure.png)
    >
    > Există modalitați simple de a verifica dacă tensiunea arterială a cuiva scade prea mult (consultă textul principal de pe acest site). Cu toate acestea, aparatul poate fi util să măsori acest lucru obiectiv, mai ales dacă dorești să vezi / să monitorizezi un trend a tensiunii arteriale a pacientului. <br>
@@ -57,7 +57,7 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 
 #### Notă importantă
 
-O notă cu privire la primele două articole: unii specialiști din domeniul medical cu care vorbim pentru a simți cei care nu sunt pregătiți medical vor face mai mult rău sau bine atunci când vor începe să ia măsurători de SpO2 sau tensiunea arterială. Aici includem dispozitivele, deoarece acestea sunt în uz comun și considerăm că în unele locuri, în anumite perioade, sistemul de sănătate nu va putea face față numărului de persoane care se îmbolnăvesc și vom propune echilibrul către avantaje. în a putea vedea / arăta tendințele.
+O notă importantă cu privire la primele două obiecte de pe lista de mai sus: unii specialiști din domeniul medical cu care am vorbim avertizează că persoanele care nu pregătire medicală pot face mai mult rău sau bine atunci când iau măsurători de SpO2 (saturația de oxigen din sânge) sau tensiunea arterială. Totuşi includem dispozitivele, deoarece acestea sunt în uz comun și considerăm că în anumite situații, sistemul de sănătate nu va putea face față numărului de persoane care se îmbolnăvesc și e un avantaj să ai asemenea dispozitive la îndemână putea a înregistra trendurile.
 
 Dacă vrei să poți măsura tensiunea arterială și SpO2, atunci măcar familiarizează-te corect cu dispozitivul. Practică! De asemenea, pentru a putea învăța care sunt valorile normale pentru tine și cei dragi înainte ca cineva să se îmbolnăvească. Citește sfaturile noastre despre când ** și când nu ** să soliciți ajutor pe baza informațiilor pe care le furnizează.
 
