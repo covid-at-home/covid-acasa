@@ -31,7 +31,7 @@ Izolarea poate afecta. O suspiciune de infecție, frica de boală, sau boala în
 - Restrânge sau monitorizează consumul media în jurul coronavirusului. Nu-l interzice, ci dozează-l. Explică, fii deschis la întrebările copiilor și rămâneți pe poziție.
 - Oferă securitate printr-o viață de zi cu zi structurată și previzibilă.
 - Permite să păstreze contactele sociale prin telefon și internet.
-- Încercați să acordați atenție atunci când temerile preiau controlul.
+- Încercă să acordați atenție atunci când temerile preiau controlul.
 - În primul rând fii tu liniștit. Frica este contagioasă.
 - Îndeamnă la joacă și alte distracții.
 - Jucați-vă împreună.
