@@ -46,7 +46,7 @@ Deshidratarea este o cauză frecventă a tensiunii arteriale scăzute, astfel î
 
 ### Frecvența cardiacă prea mare sau prea mică
 
-Frecvența cardiacă este mai ușor de măsurat decât tensiunea arterială și, de obicei, ritmul cardiac ridicat (peste 100-110 bătăi pe minut pentru un adult) apare in paralel cu tensiunea arterială scăzută. Tinerii și copiii au deseori frecvențe cardiace normale. Frecvența cardiacă ridicată poate să nu fie motiv de alarmă, deoarece poate indica anxietate sau deshidratare. Tehnicile de relaxare și de băut / mâncat ceva ar putea fi potrivite. Dar, încă o dată, în cazul valorile în afara celor normale solicită imediat ajutor medical. Acest lucru este valabil mai ales dacă observi o respirație rapidă împreună cu tensiune arterială scăzută sau ritm cardiac ridicat și / sau confuzie.
+Frecvența cardiacă este mai ușor de măsurat decât tensiunea arterială și, de obicei, ritmul cardiac ridicat (peste 100-110 bătăi pe minut pentru un adult) apare in paralel cu tensiunea arterială scăzută. Tinerii și copiii au deseori frecvențe cardiace normale. Frecvența cardiacă ridicată poate să nu fie motiv de alarmă, deoarece poate indica anxietate sau deshidratare. Tehnicile de relaxare și de băut / mâncat ceva ar putea fi potrivite. Dar, încă o dată, în cazul valorilor în afara celor normale solicită imediat ajutor medical. Acest lucru este valabil mai ales dacă observi o respirație rapidă împreună cu tensiune arterială scăzută sau ritm cardiac ridicat și / sau confuzie.
 
 ### Febra foarte mare care (re)vine brusc
 
