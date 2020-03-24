@@ -47,7 +47,7 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 * ** Inhalator cu abur ** (25 EUR / USD sau mai mult) ([exemplu] (https://www.amazon.de/gp/product/B07SNQH6CZ))
    >! [] (/images/steam.png)
    >
-   > Adesea sunt vândute sub formă de "saună pentru față" sau denumiri asemănătoare, dar sunt doar dispozitive care produc aburi care nu e prea fierbinți pentru a respira. Orice altă metodă care produce abur este de asemenea OK, asigură-te că nu faci daune cu aburul prea cald. Dispozitivul folosește apă demineralizată ([exemplu] (https://www.amazon.de/gp/product/B07J5Y95MQ)), în special în locurile în care apa de la robinet este bogată în calciu.
+   > Adesea sunt vândute sub formă de "saună pentru față" sau denumiri asemănătoare, sunt doar dispozitive care produc aburi care nu sunt prea fierbinți pentru a respira. Orice altă metodă care produce abur se poate folosi atât timp cât aburul nu e prea cald. Folosește apă demineralizată ([exemplu] (https://www.amazon.de/gp/product/B07J5Y95MQ)), în special în locurile în care apa de la robinet este bogată în calciu.
    > ** Avertisment: ** Dispozitivele calde, umede sunt mijloace excelente de răspândire a virusului. Utilizează-l doar pentru o persoană bolnavă la un anumit moment sau cel puțin curăță-l meticulos.
 
 * ** Vitamine ** (câțiva EUR / USD) ([exemplu] (https://www.amazon.de/dp/B07S63PCZK))
