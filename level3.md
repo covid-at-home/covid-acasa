@@ -43,7 +43,7 @@ Așa cum am menționat în secțiunea anterioară, poate dorești să utilizezi 
 
 Dacă crezi că starea pacientului s-ar putea agrava, jurnalul de boală se poate extinde pentru a include următoarele:
 - citiri de temperatură mai frecvente
-- ritm de respirație (respirații pe minut)
+- ritm respirator (respirații pe minut)
 - ritm cardiac
 - debutul unei noi confuzii
 
@@ -59,7 +59,7 @@ Apoi, începe să bei lichide. Nu prea multă cofeină sau zahăr. Nu sunt restr
 
 Aerisește casa cât mai mult posibil, în timp ce apa pentru ceai sau cafeaua de dimineață fierbe. Dacă ai energie (și suficiente seturi), consideră să schimbi hainele de pat dacă au fost transpirate. Mai departe, fă un duș rapid dacă ești capabili. Curățenia proprie și din jur te pot ajuta să te simți mai bine mental și emoțional, precum și fizic.
 
-Mănâncă o mâncare mică și hrănitoare (felii de fructe proaspete, un pumn de nuci sărate) - ceva care vă place. Acum este un moment bun și pentru a lua paracetamol (cunoscut și sub numele de acetaminofen) pentru febră / dureri, dacă ai nevoie, și notează doza și timpul în jurnalul de boală.
+Ia o gustare mică și hrănitoare (felii de fructe proaspete, un pumn de nuci sărate) - ceva care vă place. Acum este un moment bun și pentru a lua paracetamol (cunoscut și sub numele de acetaminofen) pentru febră / dureri, dacă ai nevoie, și notează doza și timpul în jurnalul de boală.
 
 Dacă efortul a fost deja suficient, odihnește-te. Dormi de fiecare dată când poți - somnul este crucial pentru vindecare. Dacă nu ești somnoros, dar trebuie să te odihnești, atunci încearcă să te relaxezi stând în poziție verticală, pentru a oferi plămânilor posibilitatea să dreneze. Dacă ești încă în poziție verticală, acum este un moment potrivit să faci inhalații pentru a-ți ajuta sinusurile / căile respiratorii să se deschidă și mucusul să se scurgă.
 
