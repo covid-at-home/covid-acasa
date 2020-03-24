@@ -10,7 +10,7 @@
 
 ### In orice caz
 
-* Stai în pat. În acest moment odihna este foarte importantă. Pacientul trebuie să doarmă cât mai mult. Cel puțin la început, pacienții vor putea totuși să se ridice din pat pentru o perioadă limitată de timp. Toaletă, un duș de clătire rapidă, cântărirea o dată pe zi (notează în [jurnal] (/images/covid-diary.pdf)). Pune cearșafuri noi pe pat cât mai des și spală cearceafurile vechi la 60 de grade Celsius sau la o temperatură mai înaltă.
+* Stai în pat. În acest moment odihna este foarte importantă. Pacientul trebuie să doarmă cât mai mult. Cel puțin la început, pacienții vor putea totuși să se ridice din pat pentru o perioadă limitată de timp. Toaletă, un duș de clătire rapidă, cântărirea o dată pe zi (notează în [jurnal](/images/covid-diary.pdf)). Pune cearșafuri noi pe pat cât mai des și spală cearceafurile vechi la 60 de grade Celsius sau la o temperatură mai înaltă.
 * Ventilează camera cât mai des posibil.
 * Bea mai multă apă! (mai mult de 2 litri și mai puțin de 5 litri pe zi).
 * Încearcă să mânanci alimente bogate în vitamine, dar și suplimentele de vitamine sunt în regulă.
