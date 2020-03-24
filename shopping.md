@@ -8,11 +8,11 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 
 ### Absolut necesar
 
-* ** Termometru febră ** (2-10 EUR / USD) ([exemplu] (https://www.amazon.de/gp/product/B001NYHXYS))
+* ** Termometru pentru febră ** (2-10 EUR / USD) ([exemplu] (https://www.amazon.de/gp/product/B001NYHXYS))
 
     >! [] (/images/thermometer.png)
     >
-    > Atât de important încât, probabil, ar trebui să-l verificați pe al vostru dacă a fost în vârstă în cabinetul de baie. Bateria este încă funcțională? Într-adevăr, nu este rău să ai doi, doar în caz. La 2-10 dolari, ei fac cadouri minunate (și, întrucât pot fi inserate în mod obișnuit pentru a obține o măsurare mai precisă, este posibil să nu fie obiecte pe care doriți să le împrumutați cuiva.)
+    > Este foarte importantș asigură-te ca termomentrul tău incă funcționează. Verifică bateria dacă e nevoie. Nu este o idee rea sa ai două termometre, în caz de nevoie. La 2-10 dolari pe bucată, fac cadouri minunate (dar, întrucât pot fi inserate în mod obișnuit pentru a obține o măsurare mai precisă, este posibil să nu fie obiecte pe care doriți să le împrumutați cuiva.)
 
 * ** Haine de pat si cearșafuri suficiente, fețe de perne, prosoape **
    
