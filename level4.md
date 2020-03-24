@@ -8,7 +8,7 @@ Oricare dintre următoarele instanțe trebuiesc interpretate ca o urgență medi
 
 Există diferite niveluri. Când pacientul își pierde cunoștința, notează dacă pacientul răspunde atunci când îi strigi numele (voce), când atingi puternic umărul (durere) sau dacă acesta nu răspunde deloc (nu răspunde).
 
-Dacă pierderea cunoștinței este scurtă (dacă pacientul se recuperează rapid și este din nou complet lucid!), încurajeză pacientul să mănânce și să bea puțin și să aerisească încăperea. Dar pierderea cunoștinței este gravă, cere ajutor.
+Dacă pierderea cunoștiinței este scurtă (dacă pacientul se recuperează rapid și este din nou complet lucid!), încurajeză pacientul să mănânce și să bea puțin și să aerisească încăperea. Dar pierderea cunoștinței este gravă, cere ajutor.
 
 ### Probleme cognitive / confuzie
 
@@ -18,7 +18,7 @@ Probabil cunoaști pacientul, așa că ar trebui să poți evalua, fără niciun
 
 Numără respirațiile pe minut ținând mâna suficient de aproape pentru a simți respirația pacientului, urmărind pieptul său și / sau urmărind abdomenul său, în timp ce te uiți la un ceas sau un cronometru digital / telefon. Rata de respirație (RR) trebuie să fie cuprinsă între 12 și 20 de respirații pe minut.
 
-Îngrijirea imediată la domiciliu pentru probleme respiratorii poate include ventilația camerei pacientului și propulsarea acestuia, astfel încât să poată sta într-o poziție verticală, dar confortabilă. Este, de asemenea, o idee bună să ridici capul patului în timpul somnulul, dacă e posibil, și există unele poziții de dormit care pot ușura respirația (vezi Nivelul 3, Lucrări de îngrijire).
+Îngrijirea imediată la domiciliu pentru probleme respiratorii poate include ventilația camerei pacientului și ridicarea acestuia, astfel încât să poată sta într-o poziție verticală, dar confortabilă. Este, de asemenea, o idee bună să ridici capul patului în timpul somnulul, dacă e posibil, și există unele poziții de dormit care pot ușura respirația (vezi Nivelul 3, Lucrări de îngrijire).
 
 ![](/images/dyspnoe.png)
 
