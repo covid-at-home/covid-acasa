@@ -76,7 +76,7 @@ E foarte posibil că unii oameni fac cumpărături din panică, iar unele compan
 * ** Mască medicală, de preferință N95 ** (câțiva EUR / USD)
    >! [] (/images/mask.png)
    >
-   > Este recomandat, de asemenea, măști respiratorii FFP2 sau FFP3. O mască obișnuită a feței (chirurgicală sau procedurală) este mai bună decât nimic dacă nu poți obține una respiratorie. Ține minte că măștile respiratorii vin în variante cu sau fără supapă. Supapa (adesea un dispozitiv de plastic rotund) lasă aerul expirat să nu fie filtrat. Acest lucru nu este o problemă in situații în care încerci să te protejezi de ce inhalezi, de exemplu, spray-uri toxice, și poate fi utilă pentru o persoană sănătoasă să se protejeze de o persoană bolnavă cunoscută, dar în niciun caz bolnavul nu trebuie să poarte o versiune cu o supapă.
+   > Sunt, de asemenea, recomandate măștile respiratorii FFP2 sau FFP3. O mască obișnuită a feței (chirurgicală sau procedurală) este mai bună decât nimic dacă nu poți obține una respiratorie. Ține minte că măștile respiratorii vin în variante cu sau fără supapă. Supapa (adesea un dispozitiv de plastic rotund) lasă aerul expirat să nu fie filtrat. Acest lucru nu este o problemă in situații în care încerci să te protejezi de ce inhalezi, de exemplu, spray-uri toxice, și poate fi utilă pentru o persoană sănătoasă să se protejeze de o persoană bolnavă cunoscută, dar în niciun caz bolnavul nu trebuie să poarte o versiune cu o supapă.
 
 * ** Pelerină de ploaie ** (câțiva EUR / USD) ([exemplu] (https://www.amazon.de/dp/B07DFDFFRX))
 
