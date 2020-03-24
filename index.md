@@ -13,10 +13,10 @@ Acest ghid se bazează pe presupunerea că, în următoarele luni, mai multe per
 Acest ghid conține sfaturi generale care ar trebui să fie aplicabile oriunde în lume. Este posibil să adăugăm informații specifice anumitor țări sau regiuni, dar ar trebui să-ți menții ochii deschiși pentru informații mai specifice din alte surse credibile, apropiate de locul în care te afli.
 
 Unii dintre autorii acestui site nu sunt cunoscuți ca mari fani ai guvernului și ai autorității, dar în acest moment încrederea în autoritățile de sănătate publică este vitală. În cazul în care există discrepanțe, ai încredere în surse de renume, precum:
-* [Organizația Mondială a Sănătății] (https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
-* [Centre pentru controlul bolilor] (https://www.cdc.gov/coronavirus/2019-ncov/index.html) (SUA)
-* [Institutul Robert Koch] (https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germania)
-* [Centrul European pentru Prevenirea și Controlul Bolilor] (https://www.ecdc.europa.eu/ro) (UE)
+* [Organizația Mondială a Sănătății](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
+* [Centre pentru controlul bolilor](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (SUA)
+* [Institutul Robert Koch](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germania)
+* [Centrul European pentru Prevenirea și Controlul Bolilor](https://www.ecdc.europa.eu/ro) (UE)
 
 ### Cunoaște faptele:
 
@@ -31,7 +31,7 @@ Nu uita că nu există nicio diferență între potențialul infectării între 
 
 * În acest moment site-ul folosește unități metrice, deși uneori sunt oferite atât unități metrice cât și imperiale. Sperăm să oferim atât versiuni metrice, cât și imperiale - pentru fiecare caz în parte - în următoarele zile. *
 
-> ** POTI AJUTA PENTRU A FACE ACEST SITE MAI BUN. ** * Dacă vezi ceva care poate fi îmbunătățit, te rugăm [dă clic aici] (https://github.com/covid-at-home/covid-at-home.github .io / issues / new) pentru a semnala o problemă. După cum poți vedea, backend-ul acestui site este pe Github, așa că, dacă cunoaști acest mediu, probabil te poți gândi la alte modalități de a ajuta. Pentru ca această inițiativă să aibă succes, e nevoie de un efort colectiv. *
+> ** POTI AJUTA PENTRU A FACE ACEST SITE MAI BUN. ** * Dacă vezi ceva care poate fi îmbunătățit, te rugăm [dă clic aici](https://github.com/covid-at-home/covid-at-home.github .io/issues/new) pentru a semnala o problemă. După cum poți vedea, backend-ul acestui site este pe Github, așa că, dacă cunoaști acest mediu, probabil te poți gândi la alte modalități de a ajuta. Pentru ca această inițiativă să aibă succes, e nevoie de un efort colectiv. *
 
 &nbsp; 
 
