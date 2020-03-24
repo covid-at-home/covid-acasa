@@ -6,11 +6,11 @@
 
 În situatia de fața începi să spui celorlalți din jurul tău că ești într-adevăr bolnav și trebuie sa stai în pat. Vorbește cu cineva în care ai încredere despre cum să aibă grijă de tine. Cere-i acestei persoane sau acestor persoane să citească acest document. Dacă ai persoane în mediul tau care au avut deja COVID-19 (un lucru care va fi din ce în ce mai frecvent pe măsură ce timpul trece), acești oameni sunt în mod natural cei mai buni îngrijitori, deoarece, foarte probabil, vor avea imunitate împotriva COVID-19. În caz contrar, încearcă să judeci ce este cel mai înțelept în circumstanțele tale. În orice caz, nu aștepta să iei măsuri până în ultimul moment, pentru că, dacă boala progresează, respirația grea îți va afecta, inevitabil, capacitatea de a vorbi și de a gândi clar.
 
-! [] (/ Images / bolnav-in-bed.png)
+! [](/images/sick-in-bed.png)
 
 ### In orice caz
 
-* Stai în pat. În acest moment odihna este foarte importantă. Pacientul trebuie să doarmă cât mai mult. Cel puțin la început, pacienții vor putea totuși să se ridice din pat pentru o perioadă limitată de timp. Toaletă, un duș de clătire rapidă, cântărirea o dată pe zi (notează în [jurnal] (/ images / covid-diary.pdf)). Pune cearșafuri noi pe pat cât mai des și spală cearceafurile vechi la 60 de grade Celsius sau la o temperatură mai înaltă.
+* Stai în pat. În acest moment odihna este foarte importantă. Pacientul trebuie să doarmă cât mai mult. Cel puțin la început, pacienții vor putea totuși să se ridice din pat pentru o perioadă limitată de timp. Toaletă, un duș de clătire rapidă, cântărirea o dată pe zi (notează în [jurnal] (/images/covid-diary.pdf)). Pune cearșafuri noi pe pat cât mai des și spală cearceafurile vechi la 60 de grade Celsius sau la o temperatură mai înaltă.
 * Ventilează camera cât mai des posibil.
 * Bea mai multă apă! (mai mult de 2 litri și mai puțin de 5 litri pe zi).
 * Încearcă să mânanci alimente bogate în vitamine, dar și suplimentele de vitamine sunt în regulă.
@@ -37,7 +37,7 @@ Câteva măsuri folositoare includ:
 
 ### Jurnal de boală
 
-Așa cum am menționat în secțiunea anterioară, poate dorești să utilizezi acest [formular printabil] (/ images / covid-diary.pdf) sau să îți faci propriul jurnal. Urmatoarele măsuri trebuie luate (de tine sau de pacient).
+Așa cum am menționat în secțiunea anterioară, poate dorești să utilizezi acest [formular printabil](/images/covid-diary.pdf) sau să îți faci propriul jurnal. Urmatoarele măsuri trebuie luate (de tine sau de pacient).
 
 În acest stadiu, observă și ai grijă în special la simptomele care ar putea sugera agravarea condiției. Citește următoarea secțiune pentru mai multe detalii. De exmplu, aceste simptome includ amețelile sau ritmul cardiac rapid (bea mai mult și mănâncă ceva dacă poți), respirația rapidă (ține capul ridicat în timp ce stai culcat sau coboară-l pe masă în timp ce stai în picioare pentru a respira mai ușor) și o nuanță albastră la vârfurile degetelor sau buze (cianoză - obțineți aer curat, încălzește-te și verifică oxigenarea sângelui, dacă este posibil). De asemenea, ia în considerare utilizarea tehnicilor de relaxare pentru a încetini o respirație rapidă sau o frecvență cardiacă care poate fi parțial datorată anxietății: Ascultă muzică liniștitoare, ia legătura cu un prieten pe cale digitală sau vezi dacă puți încetini respirația și reduce ritmul cardiac numărând pentru expirarea forțată, în timp ce inhalarea e blândă. (Unii oameni folosesc 4-7-8, iar alții preferă 5-2-5 pentru a încerca să încetinească modelele lor de inhalează-ține-exhalează.)
 
