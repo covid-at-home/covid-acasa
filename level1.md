@@ -25,7 +25,7 @@ Dacă este posibil, urmează instrucțiunile autorităților. Asta include câte
 
 ### Rămâi sănătos
 
-! [] (/images/situps.png)
+![](/images/situps.png)
 
 În plus, poți face lucruri pentru a rămâne cât mai sănătos posibil:
 
