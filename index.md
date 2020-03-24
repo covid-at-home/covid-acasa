@@ -1,6 +1,6 @@
 Acest site a fost creat ca urmare a pandemiei COVID-19, dar o mare parte din sfaturi pot fi aplicabile și în alte situații. O mare parte din ceea ce este discutat aici poate fi de bun simț pentru unii, dar am considerat că ar fi o idee bună să avem câteva liste și sfaturi pentru diferitele stadii ale bolii, acumulate într-un singur loc. În timp ce ne-am consultat cu asistenți medicali și medici cu privire la o mare parte din aceste sfaturi, cea mai mare parte a acestui text a fost scrisă de către persoane care nu au o instruire medicală, încercând să pună cap la cap ceea ce are sens în această nouă situație.
 
-Să clarificăm: ** Ascultă AUTORITĂȚILE LOCALE DE SĂNĂTATE, PE DOCTORI ȘI ASISTENȚI ** atunci când ai de ales între asta și ceva ce ai găsit pe internet.
+Să clarificăm: **Ascultă AUTORITĂȚILE LOCALE DE SĂNĂTATE, PE DOCTORI ȘI ASISTENȚI** atunci când ai de ales între asta și ceva ce ai găsit pe internet.
 
 În timp ce am început să scriem pentru acest site din Berlin, Germania, în a doua săptămână a lunii martie 2020, multe informații despre virus erau încă neclare, dar numărul de infectați și morți a crescut constant, cel mai recent în Italia. Deși nu este acum - și nu este niciodată - un moment bun pentru a intra în panică, credem că acum este timpul să gândim și să ne pregătim.
 
