@@ -20,7 +20,7 @@ Numără respirațiile pe minut ținând mâna suficient de aproape pentru a sim
 
 Îngrijirea imediată la domiciliu pentru probleme respiratorii poate include ventilația camerei pacientului și propulsarea acestuia, astfel încât să poată sta într-o poziție verticală, dar confortabilă. Este, de asemenea, o idee bună să ridici capul patului în timpul somnulul, dacă e posibil, și există unele poziții de dormit care pot ușura respirația (vezi Nivelul 3, Lucrări de îngrijire).
 
-! [] (/images/dyspnoe.png)
+![](/images/dyspnoe.png)
 
 Dacă tu sau pacientul întâmpinați dificultăți de respirație / respirație obosită, solicitați sfaturi medicale.
 
@@ -28,13 +28,13 @@ Dacă tu sau pacientul întâmpinați dificultăți de respirație / respirație
 
 Dacă ai un oximetru (a se vedea [pagina cumpărăturilor](/shopping)), orice saturație de oxigen mai mică de 95% poate indica o problemă respiratorie. Dacă în orice moment, ** buzele sau vârfurile degetelor devin albastre ** (sau chiar ușor albastre) (numite cianoză), cheamă o ambulanță! Dacă nivelul e sub 95%, aerisește camera pacientului și încălzește-l.
 
-! [] (/images/cyanosis.png)
+![](/images/cyanosis.png)
 
 (De asemenea, sună un medic dacă degetele de la mână sau de la picioare sau buzele devin mai puțin albastre decât în imagine ...)
 
 Dacă pielea pacientului primește o aparență dantelată de culoare violetă (denumită și liveo reticularis) ca mai jos (și nu este normal pentru pacient), și acesta este un motiv pentru a solicita ajutor.
 
-! [] (/images/livedo-reticularis.png)
+![](/images/livedo-reticularis.png)
 
 ### Tensiunea arterială foarte scăzută
 
