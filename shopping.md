@@ -59,7 +59,7 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 
 O notă importantă cu privire la primele două obiecte de pe lista de mai sus: unii specialiști din domeniul medical cu care am vorbim avertizează că persoanele care nu au pregătire medicală pot face mai mult rău decât bine atunci când iau măsurători de SpO2 (saturația de oxigen din sânge) sau tensiunea arterială. Totuşi includem dispozitivele, deoarece acestea sunt în uz comun și considerăm că în anumite situații, sistemul de sănătate nu va putea face față numărului de persoane care se îmbolnăvesc și e un avantaj să ai asemenea dispozitive la îndemână putea a înregistra trendurile.
 
-Dacă vrei să poți măsura tensiunea arterială și SpO2, atunci măcar familiarizează-te corect cu dispozitivul. Practică! De asemenea, pentru a putea învăța care sunt valorile normale pentru tine și cei dragi înainte ca cineva să se îmbolnăvească. Citește sfaturile noastre despre când ** și când nu ** să soliciți ajutor pe baza informațiilor pe care le furnizează.
+Dacă vrei să poți măsura tensiunea arterială și SpO2, atunci măcar familiarizează-te corect cu dispozitivul. Practică pentru a învăța care sunt valorile normale pentru tine și cei dragi înainte ca cineva să se îmbolnăvească. Citește sfaturile noastre despre când ** și când nu ** să soliciți ajutor pe baza informațiilor pe care le furnizează.
 
 &nbsp;
 
