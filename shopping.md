@@ -53,11 +53,11 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 * ** Vitamine ** (câțiva EUR / USD) ([exemplu] (https://www.amazon.de/dp/B07S63PCZK))
    >! [] (/images/multi-vitamin.png)
    >
-   > Când pacientul nu prea mai mănâncă, dar încă bea, poți cumpăra tablete multi-vitamine care se dizolvă în apă, câteva cutii. Încercă să obții cele care conțin aproximativ de 1-2 ori mai mult decât doza recomandată zilnic de toate vitaminele și mineralele pe care le conțin, fără 1000% megadoze.
+   > Când pacientul nu prea mai mănâncă, dar încă bea, poți cumpăra tablete multi-vitamine care se dizolvă în apă, câteva cutii. Încearcă să le obții pe cele care conțin aproximativ de 1-2 ori mai mult doza recomandată zilnic de toate vitaminele și mineralele pe care le conțin, fără 1000% megadoze.
 
 #### Notă importantă
 
-O notă importantă cu privire la primele două obiecte de pe lista de mai sus: unii specialiști din domeniul medical cu care am vorbim avertizează că persoanele care nu pregătire medicală pot face mai mult rău sau bine atunci când iau măsurători de SpO2 (saturația de oxigen din sânge) sau tensiunea arterială. Totuşi includem dispozitivele, deoarece acestea sunt în uz comun și considerăm că în anumite situații, sistemul de sănătate nu va putea face față numărului de persoane care se îmbolnăvesc și e un avantaj să ai asemenea dispozitive la îndemână putea a înregistra trendurile.
+O notă importantă cu privire la primele două obiecte de pe lista de mai sus: unii specialiști din domeniul medical cu care am vorbim avertizează că persoanele care nu au pregătire medicală pot face mai mult rău decât bine atunci când iau măsurători de SpO2 (saturația de oxigen din sânge) sau tensiunea arterială. Totuşi includem dispozitivele, deoarece acestea sunt în uz comun și considerăm că în anumite situații, sistemul de sănătate nu va putea face față numărului de persoane care se îmbolnăvesc și e un avantaj să ai asemenea dispozitive la îndemână putea a înregistra trendurile.
 
 Dacă vrei să poți măsura tensiunea arterială și SpO2, atunci măcar familiarizează-te corect cu dispozitivul. Practică! De asemenea, pentru a putea învăța care sunt valorile normale pentru tine și cei dragi înainte ca cineva să se îmbolnăvească. Citește sfaturile noastre despre când ** și când nu ** să soliciți ajutor pe baza informațiilor pe care le furnizează.
 
