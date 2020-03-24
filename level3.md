@@ -16,7 +16,7 @@
 * Încearcă să mânanci alimente bogate în vitamine, dar și suplimentele de vitamine sunt în regulă.
 * Inspiră mai des.
 
-În acest moment, citește mai departe care sunt simptomele care indică nivelul 4. Unul din scopul îngrijirii la nivelul 3 este să monitorizeze îndeaproape pacientul, astfel încât să surprindă din timp orice indicii că pacientul se îndreaptă spre nivelul 4. De exemplu : Dacă pacientul nu este în măsură să bea cel puțin 2 litri de lichide pe zi, trebuie insistat. Deshidratarea este o afecțiune medicală și, fără minimul zilnic de lichide, ești rapid la nivelul 4.
+În acest moment, citește mai departe care sunt simptomele care indică nivelul 4. Unul din scopul îngrijirii la nivelul 3 este să se monitorizeze îndeaproape pacientul, astfel încât să se surprindă din timp orice indicii că pacientul se îndreaptă spre nivelul 4. De exemplu : Dacă pacientul nu este în măsură să bea cel puțin 2 litri de lichide pe zi, trebuie insistat. Deshidratarea este o afecțiune medicală și, fără minimul zilnic de lichide, ești rapid la nivelul 4.
 
 În majoritatea cazurilor, însă, pacientul se va îmbunătăți după câteva zile sau cel mult o săptămână. Stai cu ea/el. Odată ce pacientul se îmbunătățește puțin, el/ea se va putea îngriji din nou. Asigură-te că jurnalul de boală și carantina sunt păstrate până când pacientul a fost complet refăcut pentru o perioadă. Dacă ai avut grijă de pacient, acum începe perioada de auto-carantină de două săptămâni.
 
