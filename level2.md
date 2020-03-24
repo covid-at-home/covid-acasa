@@ -1,6 +1,6 @@
 ## Nivelul 2 - Simptome
 
-! [] (/ Images / strănut-emoji.png)
+! [] (/images/sneezing-emoji.png)
 
 Vezi dacă suferi de oricare dintre următoarele simptome:
 
@@ -39,7 +39,7 @@ Membrii caselor cu oameni suspectați că ar fi infectați trebuie să se consid
 
 Curăță regulat toate suprafețele atinse frecvent cu înălbitor casnic diluat cu apă: 10 ml / 2 linguri de înălbitor cu o jumătate de litru / 2 căni de apă (spală cu atenție instrumentele de măsurare înainte de refolosire). Poți pune această soluție într-un pulverizator de plante sau într-un recipient spray curat. Ar trebui să lași spray-ul pulverizat timp de un minut pentru a acționa pe suprafețe înainte de a-l șterge.
 
-Acum este momentul să ne gândim la echipamentele de protecție personală (PPE). Dacă poți obține o mască ȘI DACĂ NU EXISTĂ UN DEFICIT DE MĂȘTI PENTRU PERSONALUL MEDICAL ÎN ZONA ÎN CARE TE AFLI, poartă una. Mănuși de unică folosință, halate de protecție cu mânecă lungă și protecție pentru ochi pot fi de asemenea adecvate. [Pagina de cumpărături] (/ cumpărături) acest site conține câteva idei pentru articole de protecție personală, precum și informații importante despre momentul și felul în care să le folosești.
+Acum este momentul să ne gândim la echipamentele de protecție personală (PPE). Dacă poți obține o mască ȘI DACĂ NU EXISTĂ UN DEFICIT DE MĂȘTI PENTRU PERSONALUL MEDICAL ÎN ZONA ÎN CARE TE AFLI, poartă una. Mănuși de unică folosință, halate de protecție cu mânecă lungă și protecție pentru ochi pot fi de asemenea adecvate. [Pagina de cumpărături] (/shopping) acest site conține câteva idei pentru articole de protecție personală, precum și informații importante despre momentul și felul în care să le folosești.
 
 În cele mai multe locuri, probabil că va veni un moment în care numărul de cazuri atinge cote maxime, mulți oameni au avut deja COVID-19, iar autoritățile nu vor mai ține cont de cine l-a avut și cine nu. Baza apoi rămâne aceeași: încearcă să protejezi cât mai mult posibil persoanele în vârstă și persoanele cu boli existente și încearcă să minimizezi răspândirea ori de câte ori poți și cât poți de bine. Amintește-ți: cu cât putem încetini sau reduce mai mult răspândirea bolii, cu atât este mai bine pentru toată lumea. Pentru că, ajutând la încetinirea sau oprirea răspândirii infectării, poți ajuta un sistem de asistență medicală copleșit. Acest lucru, la rândul său, va ajuta ca oamenii care au într-adevăr nevoie de îngrigrijire medicală, să poată accesa sistemul medical. Acest lucru ajută medicii și asistentele să salveze mai multe vieți.
 
@@ -47,17 +47,17 @@ Acum este momentul să ne gândim la echipamentele de protecție personală (PPE
 
 Începe să ții un jurnal de la apariția primelor simptome ale bolii. 
 
-De câteva ori pe zi, de preferință la aceleași ore, ca să devină o rutină normală (de exemplu, în fiecare dimineață înainte de a-ți face cafeaua sau ceaiul), măsoară-ți temperatura, chiar dacă nu simți că ai febră (încă). Cântărește-te o dată pe zi, dacă este posibil. De asemenea, notează frecvențele respiratorii și cardiace în respirații și bătăile pe minut ale inimii. Te vei obișnui să faci aceste lucruri dacă începi devreme. Vei avea o idee (mai mult sau mai puțin) în legătură cu valori tale sănătoase. Nu este tocmai necesar, dar poți suplimentar să îți măsori tensiunea arterială și oxigenarea (dispozitivele de măsurare sunt ieftine, vezi [pagina cumpărături] (/ cumpărături)).
+De câteva ori pe zi, de preferință la aceleași ore, ca să devină o rutină normală (de exemplu, în fiecare dimineață înainte de a-ți face cafeaua sau ceaiul), măsoară-ți temperatura, chiar dacă nu simți că ai febră (încă). Cântărește-te o dată pe zi, dacă este posibil. De asemenea, notează frecvențele respiratorii și cardiace în respirații și bătăile pe minut ale inimii. Te vei obișnui să faci aceste lucruri dacă începi devreme. Vei avea o idee (mai mult sau mai puțin) în legătură cu valori tale sănătoase. Nu este tocmai necesar, dar poți suplimentar să îți măsori tensiunea arterială și oxigenarea (dispozitivele de măsurare sunt ieftine, vezi [pagina cumpărături] (/shopping)).
 
 Apoi scrie orice simptome pe care le are pacientul. Dacă el sau ea are durere, unde, când și cât de rău se simte durerea pe o scară de la 0 (fără durere) la 10 (cea mai gravă durere imaginabilă)? Cât de rea este tusea? Ce culoare are, dacă se produce mucus? Asigură-te că observi ce medicamente ia pacientul, dacă ia.
 
 Paracetamolul (cunoscut și sub denumirea de acetaminofen) este o alegere bună pentru suprimarea febrei și a durerii. Păstrarea unui jurnal de boală te va ajuta, de asemenea, să urmărești cât de mult ai luat, când, pentru a te asigura că tratezi în mod adecvat febra fără a lua mai mult decât cantitatea recomandată într-o perioadă de 24 de ore.
 
-[! [] (/ Images / jurnal-mici-slanted.png)] (/ jurnal)
+[! [] (/images/diary-small-slanted.png)](/diary)
 
 #### Jurnal printabil
 
-Am făcut un ** [jurnal de boli printabil] (/ jurnal) ** pe care îl poți folosi pentru a nota toate informațiile pe care le colectezi atunci când măsori temperatura, ritmul de respirație, etc. Te rugăm să consulți formularul și pagina noastră web prin intermediul linkul de mai sus.
+Am făcut un ** [jurnal de boli printabil](/diary) ** pe care îl poți folosi pentru a nota toate informațiile pe care le colectezi atunci când măsori temperatura, ritmul de respirație, etc. Te rugăm să consulți formularul și pagina noastră web prin intermediul linkul de mai sus.
 
 ### Recapătă-ți sănătatea
 
