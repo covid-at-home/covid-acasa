@@ -4,7 +4,7 @@ Să clarificăm: ** Ascultă AUTORITĂȚILE LOCALE DE SĂNĂTATE, PE DOCTORI ȘI
 
 În timp ce am început să scriem pentru acest site din Berlin, Germania, în a doua săptămână a lunii martie 2020, multe informații despre virus erau încă neclare, dar numărul de infectați și morți a crescut constant, cel mai recent în Italia. Deși nu este acum - și nu este niciodată - un moment bun pentru a intra în panică, credem că acum este timpul să gândim și să ne pregătim.
 
-! [] (/ Images / virus.png)
+![](/images/virus.png)
 
 Acest ghid se bazează pe presupunerea că, în următoarele luni, mai multe persoane decât de obicei, fie se îmbolnăvesc, fie vor avea oameni bolnavi în viața lor. Vom presupune că medicii și spitalele vor fi foarte ocupate, dacă nu chiar supraîncărcate. Trebuie să ne confruntăm cu posibilitatea ca unele dintre persoanele care, în mod normal, ar avea nevoie de îngrijire medicală, vor fi îngrijite acasă. Sperăm că o parte din informațiile de aici îți vor oferi încredere în a face față acestei boli. Astfel îi vei ajuta pe medicii și asistenții care presupunem că vor fi destul de ocupați în săptămânile și lunile următoare. În același timp, sperăm să-ți oferim informații care te vor ajuta să realizezi când este timpul să primești ajutor medical profesionist. Ajutând un număr cât mai mare  de oameni să obțină acest echilibru poate face toată diferența în perioada următoare.
 
