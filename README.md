@@ -3,6 +3,6 @@
 # [covid-acasa.info](https://www.covid-acasa.info)
 
 
-### Intalnire de echipa
+### Întâlnirile echipei
 
-Se țin zilnic întalniri audio / video între membrii care ajută la redactarea/traducerea textului pe acest site [click aici](https://meet.rawmushroom.com/covid). Intrați și este posibil să dați de cineva.
+Se țin zilnic întalniri audio / video între membrii care ajută la redactarea/traducerea textului pe acest site [click aici](https://meet.rawmushroom.com/covid). Intră și este posibil să găsești pe cineva.
