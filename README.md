@@ -1,8 +1,8 @@
-### Site-ul web pe care acest depozit github este versiunea de redactare la care este redat
+### Site-ul acesta a fost creat pe github 
 
 # [covid-acasa.info](https://www.covid-acasa.info)
 
 
 ### Intalnire de echipa
 
-O întâlnire în curs de echipă audio / video în curs de desfășurare a eforturilor de scriere / traducere la acest site este [aici](https://meet.rawmushroom.com/covid). Vizitați și vedeți dacă există cineva.
+Se țin zilnic întalniri audio / video între membrii care ajută la redactarea/traducerea textului pe acest site [click aici](https://meet.rawmushroom.com/covid). Intrați și este posibil să dați de cineva.
