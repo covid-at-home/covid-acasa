@@ -27,7 +27,7 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 
 ### Este bine să ai
 
-* **Oximetru cu impulsuri (20-25 EUR / USD) ([exemplu](https://www.amazon.de/gp/product/B07P3ZS6L3) **A se vedea nota de mai jos!**
+* **Oximetru cu impulsuri** (20-25 EUR / USD) ([exemplu](https://www.amazon.de/gp/product/B07P3ZS6L3) **A se vedea nota de mai jos!**
    > ![](/images/pulse-oxi.png)
    >
    > Aparat mic care se atașează de deget și măsoară frecvența cardiacă (ușor de măsurat și în alte moduri) și saturația de oxigen din sânge (care este greu de măsurat în orice alt mod).
@@ -84,4 +84,4 @@ E foarte posibil că unii oameni să facă cumpărături din panică, iar unele 
    > ![](/images/gloves.png)
 
 * **Protecția ochilor, ochelarii sau protecția feței** (câțiva EUR / USD) ([exemplu](https://www.amazon.de/dp/B002THV25Y))
-   > ![](/images/ochelari.png)
+   > ![](/images/glasses.png)
