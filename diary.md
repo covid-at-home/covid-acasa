@@ -1,19 +1,19 @@
 ## COVID-19 jurnal
 
-Am creat un exemplu despre cum ar putea arăta o pagină din jurnalul tău COVID. Seamănă foarte mult cu informațiile pe care le păstrează despre pacienții din spitale. Poate părea un pic supraevaluat, dar vă permite să urmăriți cum face cineva și apoi (dacă trebuie să vedeți un medic sau să mergeți la spital) să transmiteți toate datele pe care le-ați păstrat într-un format pe care medicii le place să le citească. Pur și simplu imprimați una dintre acestea pentru fiecare zi în care pacientul este bolnav. Din moment ce nu doriți să aflați că nu aveți hârtie imprimantă la mijlocul acesteia, poate imprimați 20-30 din acestea ca parte a pregătirii voastre. Nu vă faceți griji dacă nu aveți echipament pentru a face toate aceste măsurători. (Deși este destul de ieftin de obținut și chiar nu doare să ai, vezi [pagina cumpărături](/cumpărături).
+Am creat un exemplu despre cum ar putea arăta o pagină din jurnalul tău COVID. Seamănă foarte mult cu informațiile medicale înregistrate în spital pentru pacienții internați. Poate părea un pic complicat, dar îți permite să urmărești starea de sănătate a pacientului și apoi (dacă trebuie să vezi un medic sau să mergi la spital) să transmiți toate aceste date într-un format cu care medicii sunt familiarizați. Pur și simplu printează câte o pagină pentru fiecare zi în care pacientul este bolnav. Pentru că nu vrei să ai surpriza că ai rămas fără hârtie sau tuș pentru imprimantă, printează în avans 20-30 de exemplare. Nu te panica dacă nu ai tot echipamentul pentru a face toate aceste măsurători. (deși este destul de ieftin și e o idee bună să-l ai oricum în casă, vezi [pagina cumpărături](/cumpărături).
 
 <a href="/images/covid-diary.pdf"> <img style = "border: 2px negru solid; drop-shadow (16px 16px 10px negru)" src = "/ images / covid-diary.png"> < / a>
 
-(faceți clic pe imagine pentru a imprima PDF-ul)
+(fă clic pe imagine pentru a imprima PDF-ul)
 
 ### Începerea jurnalului
 
-Probabil doriți să aruncați o privire la acest aspect și să păstrați datele în acest format, chiar dacă pacientul doar dezvoltă simptome. Nu contează dacă nu completați majoritatea datelor sau nu le completați des, dar acesta este de fapt un moment bun pentru a înțelege cum arată mai mult sau mai puțin - valorile normale. Atunci când pacientul este în pat și are alte persoane care au grijă de el sau ea, puteți lua măsurători un pic mai des.
+Aruncă o privire la acest format și păstrează datele în felul acesta, chiar din momentul în care pacientul prezintă primele simptome. Nu contează dacă nu completezi majoritatea datelor sau nu le completezi des, dar, pentru început, este un moment bun să înțelegi cum arată mai mult sau mai puțin valorile normale ale pacientului. Atunci când pacientul este în pat și are alte persoane care au grijă de el sau ea, poți lua măsurători un pic mai des.
 
 ### Procedura de jurnal
 
-La începutul fiecărei zile completați informațiile din dreapta. Numele, data nașterii, sexul și dacă pacientul a fost sau nu testat pentru SARS-CoV-2, virusul care cauzează COVID-19. În primul rând, dimineața, pacientul este cântărit, dacă este posibil, astfel încât puteți vedea în timp dacă pacientul pierde multă greutate. Apoi de fiecare dată când efectuați măsurători observați timpul din rândul de sus, apoi completați măsurătorile din coloana de dedesubt. Orice altceva se notează în partea dreaptă sub note.
+La începutul fiecărei zile completează informațiile din dreapta. Numele, data nașterii, sexul și dacă pacientul a fost sau nu testat pentru SARS-CoV-2, virusul care cauzează COVID-19. În primul rând, dimineața, pacientul este cântărit, dacă este posibil, astfel încât poți vedea din timp dacă pacientul pierde multă greutate. Apoi, de fiecare dată când efectuezi măsurători, notează ora exactă pe rândul de sus, apoi completează măsurătorile pe coloana de dedesubt. Orice altceva se notează în partea dreaptă, sub note.
 
 ### Când lucrurile devin serioase
 
-Dacă bolnavii se îmbolnăvesc și se îmbolnăvesc, veți dori să vă referiți la capitolul [„Nivelul 4”] (/ # nivel-4 - profesioniști-preluare) din textul principal pentru câteva îndrumări de bază pentru a apela la un medic sau mergeți la spital. Acest ghid de bază este doar acela, un ghid care să vă ajute să înțelegeți foarte bine ceea ce este „doar bolnav” vs. „prea bolnav pentru a fi acasă”. Nu ești medic. Dacă vă simțiți nesiguri, solicitați ajutor.
+Dacă boala evoluează din ce în ce mai mult, consultă capitolul [„Nivelul 4”](/ # nivel-4 - profesioniști-preluare) din textul principal, pentru câteva îndrumări de bază în privința apelării unui medic sau deplasării la spital. Acesta este doar un ghid de bază care să te ajute să înțelegi foarte bine diferența dintre „puțin bolnav” vs. „mult prea bolnav pentru a fi acasă”. Nu ești medic. Dacă te simți nesigur, solicită ajutor.
