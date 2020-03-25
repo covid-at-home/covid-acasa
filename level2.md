@@ -21,7 +21,7 @@ COVID-19 e deja răspândită în comunitatea în care trăiești? Ai fost într
 
 ### Diagnosticul
 
-Vor fi diferite politici în legătură cu testarea COVID-19, în funcție de locul în care te afli și de etapa în care se află pandemia în zona ta. Verifică online, sună la numerele oficiale destinate informării, urmărește ghidul oficial și ia în calcul posibilitatea de a conduce până la o zonă de verificare special amenajată (dacă zona ta beneficiază de așa ceva și dacă pacientul se califică pentru testare). ** Nu trebuie să te prezinți la cabinetul medicului sau la spital neanunțat, dacă întâmpini doar primele simptome. **
+Vor fi diferite politici în legătură cu testarea COVID-19, în funcție de locul în care te afli și de etapa în care se află pandemia în zona ta. Verifică online, sună la numerele oficiale destinate informării, urmărește ghidul oficial și ia în calcul posibilitatea de a conduce până la o zonă de verificare special amenajată (dacă zona ta beneficiază de așa ceva și dacă pacientul se califică pentru testare). **Nu trebuie să te prezinți la cabinetul medicului sau la spital neanunțat, dacă întâmpini doar primele simptome.**
 
 > Amintește-ți: la spital mergi când este absolut necesar: Tu și / sau pacientul riscați să contactați infecții suplimentare - bacteriene sau fungice - care sunt mult mai susceptibile să fie rezistente la tratamentele standard din cauza naturii mediului spitalicesc. De asemenea: multe spitale vor fi supraîncărcate.
 
@@ -57,7 +57,7 @@ Paracetamolul (cunoscut și sub denumirea de acetaminofen) este o alegere bună 
 
 #### Jurnal printabil
 
-Am făcut un ** [jurnal de boli printabil](/diary) ** pe care îl poți folosi pentru a nota toate informațiile pe care le colectezi atunci când măsori temperatura, ritmul de respirație, etc. Te rugăm să consulți formularul și pagina noastră web prin intermediul linkului de mai sus.
+Am făcut un **[jurnal de boli printabil](/diary)** pe care îl poți folosi pentru a nota toate informațiile pe care le colectezi atunci când măsori temperatura, ritmul de respirație, etc. Te rugăm să consulți formularul și pagina noastră web prin intermediul linkului de mai sus.
 
 ### Recapătă-ți sănătatea
 
@@ -71,6 +71,6 @@ Tusea poate fi un efort important și sănătos pe care corpul îl face pentru a
 
 ### Mă simt mai bine?
 
-Înainte de a ieși din carantină, autoritățile medicale ar putea să te (re)testeze pentru a verifica dacă nu mai ești contagios. Dar poate că numărul de cazuri va fi deja atât de mare încât oamenii vor fi nevoiți să ia propriile decizii. Fii de partea siguranței și încearcă să rămâi acasă mai mult timp decât a fost oficial indicat. [Recomandarea Organizației Mondiale a Sănătății] (https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19- --16-mars-2020) este să se continue izolarea timp de cel puțin două săptămâni după dispariția simptomelor, chiar dacă nu te mai simți rău.
+Înainte de a ieși din carantină, autoritățile medicale ar putea să te (re)testeze pentru a verifica dacă nu mai ești contagios. Dar poate că numărul de cazuri va fi deja atât de mare încât oamenii vor fi nevoiți să ia propriile decizii. Fii de partea siguranței și încearcă să rămâi acasă mai mult timp decât a fost oficial indicat. [Recomandarea Organizației Mondiale a Sănătății](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19- --16-mars-2020) este să se continue izolarea timp de cel puțin două săptămâni după dispariția simptomelor, chiar dacă nu te mai simți rău.
 
 Dacă ai reușit să te testezi, ura! Corpul tău și-a creat imunitate (continuă totuși să urmărești cele mai recent date științifice în acest sens). Înseamnă că ai înfrânt boala și, de asemenea, că ești alegerea mai logică când vine vorba de ajutarea familiei și a prietenilor atunci când se îmbolnăvesc. În funcție de starea lucrurilor, este posibil să dorești să-ți informezi angajatorul și alte persoane care ar putea depinde de tine că ai avut deja COVID-19, astfel încât să știe că ești imun.
