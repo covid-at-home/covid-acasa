@@ -8,7 +8,7 @@ Vreau să ajut? Ura! Avem o [secțiune întreagă] (/ ajutor) dedicată.
 
 ### Licență
 
-Acest site este publicat sub [Licență internațională Creative Creative Attribution-NonCommercial-ShareAlike 4.0] (http://creativecommons.org/licenses/by-nc-sa/4.0/) și nu face în niciun fel profit. Nu există sponsori și nu există posibilitatea de a dona nimic aici, decât timpul și energia ta.
+Acest site este publicat sub [Licență internațională Creative Attribution-NonCommercial-ShareAlike 4.0] (http://creativecommons.org/licenses/by-nc-sa/4.0/) și nu face în niciun fel profit. Nu există sponsori și nu există posibilitatea de a dona nimic aici, decât timpul și energia ta.
 
 ### Mulțumesc
 
