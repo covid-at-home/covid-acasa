@@ -1,4 +1,4 @@
-Următoarele recomandări au fost luate de pe site-ul [Ministerului Federal al Apărării din Austria] (http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (ca să vezi!). Toate par sfaturi bune în circumstanțele actuale.
+Următoarele recomandări au fost luate de pe site-ul [Ministerului Federal al Apărării din Austria](http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494) (ca să vezi!). Toate par sfaturi bune în circumstanțele actuale.
 
 ## Sfaturi psihologice legate de COVID-19
 
@@ -30,7 +30,7 @@ Izolarea poate afecta. O suspiciune de infecție, frica de boală, sau boala în
 - Lasă-te ghidat de întrebările copiilor și apoi dă răspunsuri cinstite și orientate către copii.
 - Restrânge sau monitorizează consumul media în jurul coronavirusului. Nu-l interzice, ci dozează-l. Explică, fii deschis la întrebările copiilor și rămâneți pe poziție.
 - Oferă securitate printr-o viață de zi cu zi structurată și previzibilă.
-- Permite să păstreze contactele sociale prin telefon și internet.
+- Permite-i să păstreze contactele sociale prin telefon și internet.
 - Încercă să acordați atenție atunci când temerile preiau controlul.
 - În primul rând fii tu liniștit. Frica este contagioasă.
 - Îndeamnă la joacă și alte distracții.
