@@ -8,7 +8,7 @@ Dacă este posibil, urmează instrucțiunile autorităților. Asta include câte
 
 * Schimbă-ți salutul. În loc de o strângere de mână, îmbrățișare sau sărutare, încercați să vă faceți cu mâna sau să vă zâmbiți de la distanță.
 * Ochii, nasul și gura sunt căi de acces posibile pentru ca virusul să intre în corp. Spală-te pe mâini înainte de a-ți atinge fața. Nu-ți atinge fața când ești afară.
-* Spală-te puternic pe mâini cu apă și săpun cât mai des posibil, inclusiv imediat ce vii acasă și înainte de a mânca. Folosește săpun și apă, nu dezinfectant pentru mâini, atunci când este posibil: este mai [de încredere] (https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html).
+* Spală-te puternic pe mâini cu apă și săpun cât mai des posibil, inclusiv imediat ce vii acasă și înainte de a mânca. Folosește săpun și apă, nu dezinfectant pentru mâini, atunci când este posibil: este mai [de încredere](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html).
 * Schimbă-ți hainele când ajungi acasă.
 * Sterilizează regulat butoanele, suprafețele mesei, tastaturile și alte locuri pe care oamenii le ating frecvent.
 * Folosește cotul în caz de tuse, nu tuși în mână și în niciun caz fără să-ți protejezi gura.
@@ -39,7 +39,7 @@ Dacă este posibil, urmează instrucțiunile autorităților. Asta include câte
 
 #### Bunăstarea psihologică
 
-Uneori, vor fi momente dificile pentru toți și fiecare dintre noi va fi afectat în mod diferit. Consultă pagina cu [recomandări, idei și sfaturi pentru bunăstarea psihologică].(/psychological)
+Uneori, vor fi momente dificile pentru toți și fiecare dintre noi va fi afectat în mod diferit. Consultă pagina cu [recomandări, idei și sfaturi pentru bunăstarea psihologică](/psychological).
 
 ### Pregătește-te
 
@@ -47,7 +47,7 @@ Fii gata să te familiarizezi cu lucrurile pe care va trebui să le faci atunci 
 
 #### Obține lucrurile de care ai nevoie
 
-Am realizat o [pagină de cumpărături] (/shopping) care listează lucruri la îndemână care te pot ajuta să te îngrijești pe tine și pe ceilalți.
+Am realizat o [pagină de cumpărături](/shopping) care listează lucruri la îndemână care te pot ajuta să te îngrijești pe tine și pe ceilalți.
 
 ### Condiții medicale existente
 
