@@ -31,7 +31,7 @@ Nu uita că nu există nicio diferență între potențialul infectării între 
 
 * În acest moment site-ul folosește unități metrice, deși uneori sunt oferite atât unități metrice cât și imperiale. Sperăm să oferim atât versiuni metrice, cât și imperiale - pentru fiecare caz în parte - în următoarele zile. *
 
-> ** POTI AJUTA PENTRU A FACE ACEST SITE MAI BUN. ** * Dacă vezi ceva care poate fi îmbunătățit, te rugăm [dă clic aici](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) pentru a semnala o problemă. După cum poți vedea, backend-ul acestui site este pe Github, așa că, dacă cunoaști acest mediu, probabil te poți gândi la alte modalități de a ajuta. Pentru ca această inițiativă să aibă succes, e nevoie de un efort colectiv.*
+> **POTI AJUTA PENTRU A FACE ACEST SITE MAI BUN.** *Dacă vezi ceva care poate fi îmbunătățit, te rugăm [dă clic aici](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) pentru a semnala o problemă. După cum poți vedea, backend-ul acestui site este pe Github, așa că, dacă cunoaști acest mediu, probabil te poți gândi la alte modalități de a ajuta. Pentru ca această inițiativă să aibă succes, e nevoie de un efort colectiv.*
 
 &nbsp; 
 
