@@ -28,12 +28,12 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 
 ### Este bine să ai
 
-* **Oximetru cu impulsuri (20-25 EUR / USD) ([exemplu](https://www.amazon.de/gp/product/B07P3ZS6L3) ** A se vedea nota de mai jos!**
+* **Oximetru cu impulsuri (20-25 EUR / USD) ([exemplu](https://www.amazon.de/gp/product/B07P3ZS6L3) **A se vedea nota de mai jos!**
    > ![](/images/pulse-oxi.png)
    >
    > Aparat mic care se atașează de deget și măsoară frecvența cardiacă (ușor de măsurat și în alte moduri) și saturația de oxigen din sânge (care este greu de măsurat în orice alt mod).
 
-* **Tensiometru / aparat de măsurat tensiunea arteriale** (20 EUR / USD sau mai mult) ([exemplu](https://www.amazon.de/gp/product/B07KY867ZH)) ** A se vedea nota de mai jos! **
+* **Tensiometru / aparat de măsurat tensiunea arteriale** (20 EUR / USD sau mai mult) ([exemplu](https://www.amazon.de/gp/product/B07KY867ZH)) **A se vedea nota de mai jos!**
    > ![](/images/blood-pressure.png)
    >
    > Există modalitați simple de a verifica dacă tensiunea arterială scade prea mult (consultă textul principal de pe acest site). Cu toate acestea, aparatul poate fi util să măsori acest lucru obiectiv, mai ales dacă dorești să vezi / să monitorizezi tendința tensiunii arteriale a pacientului. <br>
@@ -79,7 +79,6 @@ E foarte posibil că unii oameni să facă cumpărături din panică, iar unele 
    > Sunt, de asemenea, recomandate măștile respiratorii FFP2 sau FFP3. O mască obișnuită a feței (chirurgicală sau procedurală) este mai bună decât nimic dacă nu poți obține una respiratorie. Ține minte că măștile respiratorii vin în variante cu sau fără supapă. Supapa (adesea un dispozitiv de plastic rotund) lasă aerul expirat să nu fie filtrat. Acest lucru nu este o problemă in situații în care încerci să te protejezi când inhalezi, de exemplu, spray-uri toxice, și poate fi utilă pentru o persoană sănătoasă să se protejeze de o persoană bolnavă cunoscută, dar în niciun caz bolnavul nu trebuie să poarte o versiune cu o supapă.
 
 * **Pelerină de ploaie** (câțiva EUR / USD) ([exemplu](https://www.amazon.de/dp/B07DFDFFRX))
-
    > Cel mai bine este dacă găsești o pălărină cu mâneci lungi, rezistentă la apă.
 
 * **Mănuși** (mai puțin de un EUR / USD) ([exemplu](https://www.amazon.de/dp/B01LWJ80C7))
