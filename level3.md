@@ -37,7 +37,7 @@ Câteva măsuri folositoare includ:
 
 ### Jurnal de boală
 
-Așa cum am menționat în secțiunea anterioară, poate dorești să utilizezi acest [formular printabil](/images/covid-diary.pdf) sau să-ți faci propriul jurnal. Următoarele măsuri trebuie luate (de tine sau de pacient).
+Așa cum am menționat în secțiunea anterioară, poate dorești să utilizezi acest [formular printabil](/diary) sau să-ți faci propriul jurnal. Următoarele măsuri trebuie luate (de tine sau de pacient).
 
 În acest stadiu, observă și ai grijă în special la simptomele care ar putea sugera agravarea condiției. Citește următoarea secțiune pentru mai multe detalii. De exmplu, aceste simptome includ amețeli sau ritmul cardiac rapid (bea mai mult și mănâncă ceva dacă poți), respirația rapidă (ține capul ridicat în timp ce stai culcat sau înclină-l în jos în timp ce stai în picioare, pentru a respira mai ușor) și o nuanță albastră la vârfurile degetelor sau pe buze (cianoză - ia aer curat, încălzește-te și verifică oxigenarea sângelui, dacă este posibil). De asemenea, ia în considerare utilizarea tehnicilor de relaxare pentru a încetini o respirație rapidă sau o frecvență cardiacă ce poate fi parțial datorată anxietății: ascultă muzică liniștitoare, ia legătura cu un prieten pe cale digitală sau vezi dacă poți încetini respirația și reduce ritmul cardiac numărând pentru expirarea forțată, în timp ce inhalarea e blândă. (Unii oameni folosesc 4-7-8, iar alții preferă 5-2-5 pentru a încerca să încetinească propriul ritm de inhalare-menținere-expirare.)
 
