@@ -10,13 +10,13 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 
 * **Termometru pentru febră** (2-10 EUR / USD)([exemplu](https://www.amazon.de/gp/product/B001NYHXYS))
 
-    >![](/images/thermometer.png)
-    >
-    > Este foarte important; asigură-te ca termomentrul tău incă funcționează. Verifică bateria dacă e nevoie. Nu este o idee rea sa ai două termometre, în caz de nevoie. La 2-10 dolari pe bucată, pot fi un cadou minunat (dar, întrucât unele trebuie inserate pentru a obține o măsurare mai precisă, este posibil să nu fie tocmai un obiect pe care dorești să îl împrumuți cuiva.)
+   >![](/images/thermometer.png)
+   >
+   > Este foarte important; asigură-te ca termomentrul tău incă funcționează. Verifică bateria dacă e nevoie. Nu este o idee rea sa ai două termometre, în caz de nevoie. La 2-10 dolari pe bucată, pot fi un cadou minunat (dar, întrucât unele trebuie inserate pentru a obține o măsurare mai precisă, este posibil să nu fie tocmai un obiect pe care dorești să îl împrumuți cuiva.)
 
 * **Așternuturi de pat si cearșafuri suficiente, fețe de perne, prosoape**
    
-    > Sunt lucruri pe care toată lumea le are în casă, dar pentru a fi siguri: odată ce oamenii se îmbolnăvesc, va trebui să schimbi lenjeria de pat destul de des și este posibil să folosești și mai multe prosoape.
+   > Sunt lucruri pe care toată lumea le are în casă, dar pentru a fi siguri: odată ce oamenii se îmbolnăvesc, va trebui să schimbi lenjeria de pat destul de des și este posibil să folosești și mai multe prosoape.
    
 * **Produse de curățare, înălbitor**
 
