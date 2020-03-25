@@ -18,7 +18,7 @@ Dacă este posibil, urmează instrucțiunile autorităților. Asta include câte
 * În loc să iei transportul public, mergi pe bicicletă oriunde poți. Dacă trebuie să iei transportul în comun, păstrează din nou distanța față de ceilalți și îndepărtează-te de oricine pare bolnav.
 * În loc să mergi la restaurante, gătește și mănâncă acasă.
 * În loc să ți se livreze alimente sau să le livrezi unei alte persoane acasă cu contact direct, plănuiește în așa fel încât să fie lăsate la ușa de la intrare.
-* În loc să întâlnești prieteni la o cafea sau o băutură, faceți un video-chat sau coordonați-vă o plimbare până la magazinul alimentar, păstrându-vă [distanța sigură] (https://www.who.int/emergencies/diseases/novel-conavirus -2019 / sfaturi pentru public) de cel puțin 1,5 metri.
+* În loc să întâlnești prieteni la o cafea sau o băutură, faceți un video-chat sau coordonați-vă o plimbare până la magazinul alimentar, păstrându-vă [distanța sigură](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) de cel puțin 1,5 metri.
 * În loc să faci exerciții fizice în interior (de exemplu, la sală), ieși la plimbare sau aleargă dacă vremea o permite, păstrându-ți distanța de alte persoane.
 * Urmărește orice aviz suplimentar al autorităților guvernamentale / sănătății publice, inclusiv când ești sfătuit să rămâi în interior atunci când acest lucru devine necesar pentru localitatea în care te afli.
 
