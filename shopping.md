@@ -11,7 +11,7 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 * **Termometru pentru febră** (2-10 EUR / USD)([exemplu](https://www.amazon.de/gp/product/B001NYHXYS))
    > ![](/images/thermometer.png)
    >
-   > Este foarte important; asigură-te ca termomentrul tău incă funcționează. Verifică bateria dacă e nevoie. Nu este o idee rea sa ai două termometre, în caz de nevoie. La 2-10 dolari pe bucată, pot fi un cadou minunat (dar, întrucât unele trebuie inserate pentru a obține o măsurare mai precisă, este posibil să nu fie tocmai un obiect pe care dorești să-l împrumuți cuiva.)
+   > Este foarte important; asigură-te ca termomentrul tău încă funcționează. Verifică bateria dacă e nevoie. Nu este o idee rea sa ai două termometre, în caz de nevoie. La 2-10 dolari pe bucată, pot fi un cadou minunat (dar, întrucât unele trebuie inserate pentru a obține o măsurare mai precisă, este posibil să nu fie tocmai un obiect pe care dorești să-l împrumuți cuiva.)
 
 * **Așternuturi de pat și cearșafuri suficiente, fețe de pernă, prosoape**
    
@@ -44,7 +44,7 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
    > Persoanele bolnave au uneori accidente. Ne vei mulțumi.
 
 * **Inhalator cu abur** (25 EUR / USD sau mai mult) ([exemplu](https://www.amazon.de/gp/product/B07SNQH6CZ))
-   > ! [] (/images/steam.png)
+   > ![](/images/steam.png)
    >
    > Adesea sunt vândute sub formă de "saună pentru față" sau denumiri asemănătoare, sunt doar dispozitive care produc aburi care nu sunt prea fierbinți pentru a fi inhalați. Orice altă metodă care produce abur se poate folosi atât timp cât aburul nu e prea cald. Folosește apă demineralizată ([exemplu](https://www.amazon.de/gp/product/B07J5Y95MQ)), în special în locurile în care apa de la robinet este bogată în calciu.
    > ** Avertisment: ** Dispozitivele calde, umede, sunt mijloace excelente de răspândire a virusului. Utilizează-le doar pentru persoana bolnavă sau cel puțin curăță-le meticulos.
