@@ -1,28 +1,61 @@
-Acest site a fost creat ca urmare a pandemiei COVID-19, dar o mare parte din sfaturi pot fi aplicabile și în alte situații. O mare parte din ceea ce este discutat aici poate fi de bun simț pentru unii, dar am considerat că ar fi o idee bună să avem câteva liste și sfaturi pentru diferitele stadii ale bolii, acumulate într-un singur loc. În timp ce ne-am consultat cu asistenți medicali și medici cu privire la o mare parte din aceste sfaturi, cea mai mare parte a acestui text a fost scrisă de către persoane care nu au o instruire medicală, încercând să pună cap la cap ceea ce are sens în această nouă situație.
+Acest site a fost gândit ca o modalitate de a împărtăși cercetările incipiente în privința pandemiei COVID-19. Am încercat să strângem cât mai multe informații pentru noi și pentru prietenii noștri ca să ne dăm seama ce e de făcut când tot mai mulți oameni sunt pe cale să se îmbolnăvească. O mare parte din ceea ce este discutat aici poate fi de bun simț pentru unii, dar am considerat că ar fi o idee bună să avem câteva liste și informații pentru diferitele stadii ale bolii, strânse într-un singur loc. Ne-am consultat cu asistenți medicali și medici, dar cea mai mare parte a acestui site a fost creată de către persoane care nu au o instruire medicală, încercând să pună cap la cap ceea ce are sens în noua noastră normalitate.
+
+{{site.data.tags.disclaimer.begin}}
+
+## VĂ RUGĂM SĂ CITIȚI CU ATENȚIE
 
 Să clarificăm: **Ascultă AUTORITĂȚILE LOCALE DE SĂNĂTATE, PE DOCTORI ȘI ASISTENȚI** atunci când ai de ales între asta și ceva ce ai găsit pe internet.
 
-În timp ce am început să scriem pentru acest site din Berlin, Germania, în a doua săptămână a lunii martie 2020, multe informații despre virus erau încă neclare, dar numărul de infectați și morți a crescut constant, cel mai recent în Italia. Deși nu este acum - și nu este niciodată - un moment bun pentru a intra în panică, credem că acum este timpul să gândim și să ne pregătim.
+Informațiile de pe acest site sunt furnizate doar cu titlu informativ și nu sunt menite să înlocuiască sfaturile oferite de un medic sau de un profesionist calificat din domeniul sănătății. Pacienții nu trebuie să utilizeze informațiile furnizate aici pentru diagnosticarea unei stări, probleme sau boli. Pacienții trebuie să se consulte întotdeauna cu un medic sau cu un alt profesionist din domeniul sănătății pentru sfaturi medicale sau informații despre diagnostic și tratament.
+
+**ÎN CAZ DE URGENȚĂ, SUNAȚI LA NUMĂRUL DE URGENȚĂ LOCAL.**
+
+{{site.data.tags.disclaimer.end}}
+
+În timp ce am început să scriem pentru acest site din Berlin, Germania, în a doua săptămână a lunii martie 2020, multe informații despre virus erau încă neclare, dar numărul de infectați și decedați a crescut constant, cel mai recent în Italia. Fie că virusul a cauzat o criză în zona în care te afli sau nu: este timpul să gândim și să ne pregătim.
 
 ![](/images/virus.png)
 
-Acest ghid se bazează pe presupunerea că, în următoarele luni, mai multe persoane decât de obicei, fie se îmbolnăvesc, fie vor avea oameni bolnavi în viața lor. Vom presupune că medicii și spitalele vor fi foarte ocupate, dacă nu chiar supraîncărcate. Trebuie să ne confruntăm cu posibilitatea ca unele dintre persoanele care, în mod normal, ar avea nevoie de îngrijire medicală, vor fi îngrijite acasă. Sperăm că o parte din informațiile de aici îți vor oferi încredere în a face față acestei boli. Astfel îi vei ajuta pe medicii și asistenții care presupunem că vor fi destul de ocupați în săptămânile și lunile următoare. În același timp, sperăm să-ți oferim informații care te vor ajuta să realizezi când este timpul să primești ajutor medical profesionist. Ajutând un număr cât mai mare  de oameni să obțină acest echilibru poate face toată diferența în perioada următoare.
+Acest ghid se bazează pe presupunerea că, în următoarele luni, mai multe persoane decât de obicei, fie se îmbolnăvesc, fie vor avea oameni bolnavi în viața lor. Vom presupune că medicii și spitalele vor fi foarte ocupate, dacă nu chiar supraîncărcate. Trebuie să ne confruntăm cu posibilitatea ca unele dintre persoanele care, în mod normal, ar avea nevoie de îngrijire medicală, vor fi îngrijite acasă. Sperăm că o parte din informațiile de aici îți vor oferi încredere în a face față acestei boli. Astfel îi vei ajuta pe medicii și asistenții care presupunem că vor fi destul de ocupați în săptămânile și lunile următoare. În același timp, sperăm să-ți oferim informații care te vor ajuta să realizezi când este timpul să primești ajutor medical profesionist. Ajutând un număr cât mai mare  de oameni să obțină acest echilibru, poate face toată diferența în perioada următoare.
 
 [![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
 
-Acest ghid conține sfaturi generale care ar trebui să fie aplicabile oriunde în lume. Este posibil să adăugăm informații specifice anumitor țări sau regiuni, dar ar trebui să-ți menții ochii deschiși pentru informații mai specifice din alte surse credibile, apropiate de locul în care te afli.
+&nbsp;
+
+{{site.data.tags.breakout.begin}}
+
+### Ce nu este acest ghid...
+
+Încercăm să oferim o cantitate mare de sfaturi * generale * utile pentru a face față bolii COVID-19 în timpul diferitelor etape în care aceasta ar putea să-i afecteze pe cei din casa ta **Ceea ce nu putem face este să oferim informații actualizate care sunt specifice locului în care te afli** Vom încerca să-ți spunem când credem că trebuie să căuți informații locale actualizate în căsuțe de text, ca aceasta.
+
+Reține că orice sfat din surse oficiale pe care îl poți găsi poate fi deja învechit chiar și după câteva zile din momentul în care a fost comunicat, așa că încearcă întotdeauna să găsești cele mai recente recomandări și sfaturi. Consultă media locală și informațiile ** de încredere ** de pe internet. Autoritățile locale de sănătate știu situația din zona în care te afli și ar trebui să discute cu publicul prin intermediul mass-media.
+
+Acestea fiind spuse, vedem diferite niveluri de calitate în răspunsurile oficiale. Uneori, se va ajunge la incapacitatea de a furniza pentru fiecare în parte răspunsuri individualizate și ajutor deoarece liniile directe și centrele de testare pot fi supraîncărcate - ca exemplu. **Ajutorul poate fi indisponibil uneori**. În acest text vom continua doar să vă oferim cele mai bune informații pe care le-am găsit în cercetarea noastră. Asta nu înseamnă că am fi de părere că informațiile generale existente pe acest site ar putea fi mai bune decât ajutorul local de la profesioniști instruiți. Tratează capitolele avansate ale acestui site ca pe o ultimă soluție: mult mai bună decât nimic - cel mai bine însă este să primești ajutor de la profesioniștii din locul în care te afli, dacă poți.
+
+De asemenea, reține că **nu îndulcim lucrurile**. Acest site este scris de către și pentru adulți care pot înțelege consecințele situației noastre globale actuale. Nu există niciun motiv să intri în panică, dar situația este suficient de gravă cât să considerăm că toată lumea ar trebui să aibă acces la cele mai bune informații pe care le-am putea găsi.
+
+{{site.data.tags.breakout.end}}
 
 Unii dintre autorii acestui site nu sunt cunoscuți ca mari fani ai guvernului și ai autorității, dar în acest moment încrederea în autoritățile de sănătate publică este vitală. În cazul în care există discrepanțe, ai încredere în surse de renume, precum:
 * [Organizația Mondială a Sănătății](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
 * [Centre pentru controlul bolilor](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (SUA)
+* [Serviciul Național de Sănătate](https://www.nhs.uk/conditions/coronavirus-covid-19/) (UK)
 * [Institutul Robert Koch](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) (Germania)
-* [Centrul European pentru Prevenirea și Controlul Bolilor](https://www.ecdc.europa.eu/ro) (UE)
+* [Centrul European pentru Prevenirea și Controlul Bolilor](https://www.ecdc.europa.eu/en/novel-coronavirus-china) (EU)
+* Și autoritățile de sănătate publică din locul în care te afli.
+
+Pentru cei care vor mai multe informații, am conceput o listă cu [resurse adiționale](https://covid-at-home.info/resources). 
 
 ### Cunoaște faptele:
 
 * COVID-19 este real.
-* Este o boală cauzată de virusul SARS-CoV-2, provenit din natură, de la animale. Virusul a suferit o mutație și a început să infecteze gazde umane.
-* Boala se pare că este aproximativ de două ori mai infecțioasă și cauzează mult mai multe pneumonii, alte boli grave și decese decât virusul gripal sezonier (gripa). Este, de asemenea, mai gravă decât gripa, deoarece populația mondială până în prezent nu este imună la acest virus. Noile boli sunt mai periculoase, deoarece ratele infecției lor pot crește incredibil de rapid (având chiar o creștere exponențială). O astfel de transmitere rapidă a unei noi boli poate copleși rapid chiar și sistemele remarcabile de îngrijire a sănătății, ceea ce face imposibil accesul tuturor persoanelor care au nevoie de îngrijire, la servicii medicale - astfel virusul contribuie la o boală mai severă și chiar la moarte.
+* Este o boală cauzată de noul virus SARS-CoV-2, provenit din natură, de la animale. Virusul a suferit o mutație și a început să infecteze gazde umane.
+* COVID-19 este periculos.
+* Virusul care cauzează boala pare să se răspândească [mult mai rapid decat SARS](https://www.nature.com/articles/d41586-020-00660-x). 
+* Pare să cauzeze pneumonii în general , în timp ce majoritatea cazurilor de gripă sezonieră [nu](https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumonia/what-is-the-connection). COVID-19 este, de asemenea, asociat cu mult mai multe complicații care necesită îngrijire medicală, cum ar fi sindrom de detresă respiratorie acută (SDRA), evenimente cardiace (mai ales la persoanele cu boli cardiace existente), insuficiență respiratorie, șoc septic, leziuni hepatice și cedarea mai multor organe. Pare sa cauzeze [de peste 3X](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---3-march-2020) și posibil de [10x mai multe decese](https://www.reuters.com/video/watch/idOVC4M5QSF) decât gripa. 
+(Dar până când testarea devine mult mai răspândită, va fi imposibil de știut cu siguranță.)
+* Spre deosebire de gripă și de alte boli, în prezent nu există vaccinuri cunoscute sau tratamente anti-virale pentru COVID-19, susținute de dovezi științifice suficiente provenite din teste controlate după model dublu-orb, aleatoriu. (Deși poți fi sigur că cercetările sunt în desfășurare la nivel mondial!)
+* Este, de asemenea, mai gravă decât gripa, deoarece populația mondială până în prezent nu este imună la acest virus. Noile boli sunt mai periculoase, deoarece ratele infecției lor pot crește incredibil de rapid (având chiar o creștere exponențială). O astfel de transmitere rapidă a unei noi boli poate copleși rapid chiar și sistemele remarcabile de îngrijire a sănătății, ceea ce face imposibil accesul tuturor persoanelor care au nevoie de îngrijire la servicii medicale - astfel virusul contribuie la o boală mai severă și chiar la moarte.
 * Izolarea lui COVID-19 este cea mai bună șansă pe care o avem pentru a salva un număr mare de vieți. Izolarea necesită o cooperare pe scară largă și implementarea de măsuri precum testarea accesibilă și distanțarea socială (a se vedea nivelul 1 de mai jos).
 * Din aceste motive, este momentul să ne schimbăm modul de viață (deocamdată) pentru a face față amenințării reale pe care această pandemie o reprezintă pentru lumea noastră.
 
