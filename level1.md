@@ -1,41 +1,58 @@
 ## Nivelul 1 - Sănătatea
 
-### Nu te infecta
+### Nu te infecta - și nu-i infecta pe alții
 
-* (Sau nu-i infecta pe alții: tu poți fi asimptomatic / te poți simți sănătos, dar poți avea de fapt COVID-19 ... Cazurile asimptomatice sunt încă foarte infecțioase.) *
+* Te poți simți sănătos. Dar virusul se răspândește deja înainte ca tu să ai vreun simptom. Unii oameni pot să răspândească virusul fără să aibă vreodată simptome. Urmează instrucțiunile autoritaților din țara în care te afli. Asta include și regulile deja familiare de distanțare socială: 
 
-Dacă este posibil, urmează instrucțiunile autorităților. Asta include câteva dintre măsurile deja cunoscute pentru distanțare socială:
+### Stai acasă
 
-* Schimbă-ți salutul. În loc de o strângere de mână, îmbrățișare sau sărutare, încercați să vă faceți cu mâna sau să vă zâmbiți de la distanță.
-* Ochii, nasul și gura sunt căi de acces posibile pentru ca virusul să intre în corp. Spală-te pe mâini înainte de a-ți atinge fața. Nu-ți atinge fața când ești afară.
-* Spală-te puternic pe mâini cu apă și săpun cât mai des posibil, inclusiv imediat ce vii acasă și înainte de a mânca. Folosește săpun și apă, nu dezinfectant pentru mâini, atunci când este posibil: este mai [de încredere](https://www.nytimes.com/2020/03/13/health/soap-coronavirus-handwashing-germs.html).
-* Schimbă-ți hainele când ajungi acasă.
-* Sterilizează regulat butoanele, suprafețele mesei, tastaturile și alte locuri pe care oamenii le ating frecvent.
-* Folosește cotul în caz de tuse, nu tuși în mână și în niciun caz fără să-ți protejezi gura.
-* Lucrează de acasă dacă este posibil.
+* Lucrează și învață de acasă dacă este posibil.
 * Utilizează alternative la întâlniri față în față (de exemplu, apeluri video sau vocale) atunci când este posibil.
-* Evită aglomerația și călătoriile inutile. Dacă trebuie să mergi la cumpărături, fă-o atunci când magazinele sunt mai puțin aglomerate. Dacă trebuie să te afli într-o mulțime, încearcă să păstrezi distanța față de ceilalți și să te îndepărtezi de oricine pare să fie bolnav (care tușește sau strănută, de exemplu).
-* În loc să iei transportul public, mergi pe bicicletă oriunde poți. Dacă trebuie să iei transportul în comun, păstrează din nou distanța față de ceilalți și îndepărtează-te de oricine pare bolnav.
+* Evită aglomerația și călătoriile inutile. Dacă trebuie să mergi la cumpărături, fă-o atunci când magazinele sunt mai puțin aglomerate. Dacă trebuie să te afli într-o mulțime, încearcă să păstrezi distanța [de siguranță](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) de cel puțin 1.5m de ceilalți. Îndepărtează-te de oricine pare să fie bolnav (care tușește sau pare febril).
+
+#### Folosește igiena corespunzătoare
+* Schimbă-ți salutul. În loc de o strângere de mână, îmbrățișare, sau pupat pe obraz, încearcă să faci cu mâna sau să te înclini de la distanță. 
+* Ochii, nasul și gura sunt posibilele locuri prin care virusul poate intra în corp. Așa că spală-te pe mâini înainte să-ți atingi fața. Nu-ți atinge fața cât timp ești afară. 
+* Ai grijă cu igiena spălării mâinilor. 
+* Spală-ți mâinile minuțios timp de 20 de secunde cu apă și săpun de îndată ce ajungi acasă, înainte să prepari ceva de mâncare sau înainte de a mânca, și după ce folosești toaleta. 
+* Folosește apă și săpun, nu dezinfectant de mâini, atunci când este posibil: este mai de [încredere](https://www.theguardian.com/commentisfree/2020/mar/12/science-soap-kills-coronavirus-alcohol-based-disinfectants) pentru că poți acoperi fiecare părticică de piele de pe mână cu destulă apă și săpun ca să învingi virusul.
+* Uită-te la un video sau două despre [tehnici coreste de spălare a mâinilor](https://www.youtube.com/results?search_query=proper+handwashing+technique) ca să te asiguri că faci asta corect.
+* Folosește cremă hidratantă când simți nevoia: [Pastrează o piele sănătoasă](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2flifestyle%2fwellness%2fhand-washing-coronavirus-moisturizer-dry%2f2020%2f03%2f06%2fede43874-5fcb-11ea-b014-4fafa866bb81_story.html), face ca dezinfectarea să fie mai eficientă și reduce riscul infecțiilor bacteriene, pentru că pielea uscată și deteriorată este mai vulnerabilă la infecții.
+* Curăță regulat clanțele de la uși, întrerupătoarele de lumină, suprafețele meselor, tastaturile, telefoanele mobile și alte lucruri cu care oamenii intră frecvent în contact. Dacă obiectele sau suprafețele sunt murdare, mai întâi spală-le cu apă și săpun, îndepărtând orice urmă vizibilă de murdărie. Apoi folosește dezinfectant (de exemplu, soluția de curățat pe care o folosești de obicei în casă), înălbitor diluat cu apă sau soluție de soluție de peroxid de hidrogen). Dacă suprafețele sunt deja curate, dă doar cu dezinfectant. Dacă nu ești bolnav și nimeni din preajmă nu a fost încă bolnav, poți face curățenie săptămânal. Altfel, curăță în fiecare zi, dacă este posibil, suprafețele frecvent atinse. 
+* Folosește cotul în caz că tușești; nu tuși în mână și în niciun caz fără să-ți protejezi gura.
+
+#### Ai grijă cu mâncarea
 * În loc să mergi la restaurante, gătește și mănâncă acasă.
 * În loc să ți se livreze alimente sau să le livrezi unei alte persoane acasă cu contact direct, plănuiește în așa fel încât să fie lăsate la ușa de la intrare.
-* În loc să întâlnești prieteni la o cafea sau o băutură, faceți un video-chat sau coordonați-vă o plimbare până la magazinul alimentar, păstrându-vă [distanța sigură](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) de cel puțin 1,5 metri.
-* În loc să faci exerciții fizice în interior (de exemplu, la sală), ieși la plimbare sau aleargă dacă vremea o permite, păstrându-ți distanța de alte persoane.
-* Urmărește orice aviz suplimentar al autorităților guvernamentale / sănătății publice, inclusiv când ești sfătuit să rămâi în interior atunci când acest lucru devine necesar pentru localitatea în care te afli.
+* În loc să întâlnești prieteni la o cafea sau un prânz, faceți un video-chat sau coordonați-vă o plimbare până la magazinul alimentar, păstrând distanța sigură.
 
+#### Ai grijă când ieși din casă
+* [Poartă o mască](https://www.youtube.com/watch?time_continue=209&v=HhNo_IOPOtU&feature=emb_logo) atunci când ieși afară. Poate că ar fi bine să porți și mânuși de unică folosință, de exemplu, când mergi să-ți cumperi de mâncare sau medicamente, în magazine în care va trebui să atingi suprafețe pe care mulți alți oameni le-au atins înainte. Pentru mai multe informații cu privire la echipamente de protecție vezi [lista](https://covid-at-home.info/shopping). 
+* Spală-ți mâinile și schimbă-ți hainele când ajungi acasă. Dacă ai fost în preajma cuiva care părea bolnav spală-ți hainele la o temperatură de 60° C. 
+* În loc să accesezi transportul public, mergi pe jos sau ia bicicleta oriunde poți. 
+* Dacă totuși trebuie să folosești transportul public, încă o dată: menține distanța de siguranță față de ceilalți si îndepărtează-te de oricine pare bolnav.
+* În loc să faci exerciții fizice în casă, ieși la o plimbare, menținând distanța de siguranță. 
+
+{{site.data.tags.breakout.begin}}
+
+Aici vei avea nevoie de informații locale actualizate. Plimbările afară pot fi ilegale în zona în care te afli (pentru o vreme). Ai putea fi rugat sau obligat să faci alte lucruri care nu se găsesc în această listă cum ar fi [să ți se ia timperatura înainte să intri în magazinul alimentar](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says). Urmărește informațiile locale actualizate în cazul în care apar comflicte între acestea și textul de față. 
+
+{{site.data.tags.breakout.end}}
 
 ### Rămâi sănătos
 
 ![](/images/situps.png)
 
-În plus, poți face lucruri pentru a rămâne cât mai sănătos posibil:
+În plus, poți face și alte lucruri pentru a rămâne cât mai sănătos posibil:
 
-* Aerisește-ți frecvent camerele.
+*  **Îmbunătățește calitatea aerului** Evită să inhalezi fum, evită mucegaiul precum și alte surse de poluare a aerului în interior - toate acestea îți pot slăbi plămânii și spori vulnerabilitatea ta la infecții. Aerisește-ți camerele frecvent, în special [când gătești](https://www.theguardian.com/environment/2019/feb/17/cooking-sunday-roast-causes-indoor-pollution-worse-than-delhi).
 * Mănâncă cantități adecvate de alimente sănătoase, bogate în nutrienți. Include cel puțin niște carbohidrați (de exemplu, pâine, cartofi, paste, orez, etc). Vitaminele D („vitamina solară”) și C pot fi utile în special în prevenirea sau atenuarea efectelor infecțiilor respiratorii.
-* Bea suficiente lichide, mai ales apă.
+* Bea suficiente lichide, mai ales apă. Urina ta trebuie sa aibă o culoare foarte deschisă, niciodată galben închis. 
 * Fă exerciții fizice regulate. Dacă este recomandat sau este necesar să rămâi în interior, găsește modalități de a face mișcare acasă: dansează pe cântecele preferate cu prietenii prin videochat, participă la yoga online sau la alte clase de exerciții fizice sau încearcă exerciții simple folosind greutatea propriului corp, precum flotări, genuflexiuni, fandări, abdomene combinate cu exerciții aerobice simple, cum ar fi jumping jacks, hula hooping (daca dispuneți de un cerc hula hoop) și săritul pe loc.
-* Dacă fumezi, nu mai fuma.
+* Dacă fumezi, nu mai fuma. **Pentru mai multe detalii în privința asta, citește acest [articol](https://coronawiki.org/page/covid-19-the-role-of-smoking-cessation-during-respiratory-virus-epidemics) care spune:
+>Un articol care raportează consecințele bolii în cazul a 1.099 de cazuri confirmate în laborator de pacienți cu COVID-19 arată că 12.4% (17/137) dintre fumători au murit, au necesitat îngrijire la terapie intensivă sau ventilație mecanică, în comparație cu 4.7% (44/927) dintre nefumători. Procentul de fumători în rândul bărbaților din China este de aproximativ 48% și doar de 3% în cazul femeilor; aceste date sunt asociate cu rezultatele furnizate de raportul WHO-China Joint Mission despre Coronavirus din 2019 care raportează o rată de mortalitate mai mare în cazul bărbaților în compație cu cel al femeilor (4.7% vs 2.8%). 
 * Evită consumul excesiv de alcool și de diferite droguri, deoarece alcoolul și drogurile tind să suprime funcția imunitară.
-* Dacă dorești să faci mai multe după ce acoperi prima parte de elemente esențiale, atunci ia în considerare [opțiuni de suplimente nutritive](/complementary) pentru a îmbunătăți imunitatea, a preveni și a trata infecțiile respiratorii și / sau virale și altele asemănătoare. Există o serie de opțiuni posibile, dar reține că dovezile de până acum sunt specifice unor contexte diferite. O mulțime de vânzători de ulei de șarpe vor face mulți bani din panica oamenilor, fără a oferi un ajutor real. Nu le cade în plasă.
+* Dacă dorești să faci mai multe după ce acoperi prima parte de elemente esențiale, atunci ia în considerare [opțiuni de suplimente nutritive](/complementary) pentru a îmbunătăți imunitatea, a preveni și a trata infecțiile respiratorii și / sau virale și altele asemănătoare. Există o serie de opțiuni posibile, dar reține că dovezile de până acum sunt specifice unor contexte diferite, pentru că avem de-a face cu o boală nouă. O mulțime de vânzători de ulei de șarpe vor face mulți bani din panica oamenilor, fără a oferi un ajutor real. Nu le cade în plasă.
 
 #### Bunăstarea psihologică
 
