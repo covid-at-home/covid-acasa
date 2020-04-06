@@ -1,20 +1,29 @@
 ## Nivelul 3 - Țintuit la pat
 
-În ciuda tuturor măsurilor luate la nivelul 2, lucrurile se înrăutățesc. Nu înseamnă că ai făcut ceva greșit, deci poți continua. Diferența e că pacientul devine tot mai slab. El sau ea este adesea prea slăbit pentru a se ridica din pat și poate avea nevoie de încurajare suplimentară pentru a mânca și a bea.
+În ciuda tuturor măsurilor luate la nivelul 2, lucrurile se înrăutățesc. Nu înseamnă că ai făcut ceva greșit, deci poți continua. Diferența e că devii tot mai slăbit, și nu doar tușești, dar ai și o stare generală de rău, totul doare și vrei să stai în pat tot timpul. E ușor să uiți că trebuie să mănânci și să bei.
 
-### Dacă pacientul ești tu
+{{ site.data.tags.breakout.begin }}
 
-În situatia de față, începi să spui celorlalți din jurul tău că ești într-adevăr bolnav și trebuie să stai în pat. Vorbește cu cineva în care ai încredere despre cum să aibă grijă de tine. Cere-i acestei persoane sau acestor persoane să citească acest document. Dacă ai persoane în mediul tau care au avut deja COVID-19 (un lucru care va fi din ce în ce mai frecvent pe măsură ce timpul trece), acești oameni sunt în mod natural cei mai buni îngrijitori, deoarece, foarte probabil, vor avea imunitate împotriva COVID-19. În caz contrar, încearcă să judeci ce este cel mai înțelept în circumstanțele tale. În orice caz, nu aștepta să iei măsuri până în ultimul moment, pentru că, dacă boala progresează, respirația grea îți va afecta, inevitabil, capacitatea de a vorbi și de a gândi clar.
+Acum că devii din ce in ce mai bolnav, e timpul să anunți medicul de specialitate generală / medicul de îngrijire primară dacă nu ai făcut-o pâna acum. Medicul poate face vizite la domiciliu sau poate avea un protocol să te evalueze prin telefon sau video-chat. Ți-ar putea da sfaturi sau îndrumări suplimentare. Medicii își cunosc pacienții și pot adapta sfaturi de la caz la caz. Așadar, urmează orice sfat, chir dacă acesta contrazice oricare dintre informațiile generale oferite aici.
 
-![](/images/sick-in-bed.png)
+Întreabă medicul sau încercă să utilizezi surse locale de încredere pentru a vedea ce se poate aștepta de la persoanele cu simptome care se agravează acolo unde te aflii. Autoritățile de sănătate pot avea un site web, o aplicație sau un alt mecanism pentru a înregistra o agravare a simptomelor. Acest lucru ar putea fi important pentru a urmări pandemia, dar și pentru a afla cine are nevoie de îngrijiri suplimentare.
 
-### În orice caz
+Dacă nu ai un medic de asistență primară, va trebui să cauți surse locale actualizate despre ce ajutor îți este disponibil. Dacă toate liniile sunt ocupate - ceea ce se poate întâmpla cu siguranță în perioada maximă a acestei crize - nu intra în panică, ci mai să încearcă.
 
-* Stai în pat. În acest moment odihna este foarte importantă. Pacientul trebuie să doarmă cât mai mult. Cel puțin la început, pacienții vor putea totuși să se ridice din pat pentru o perioadă limitată de timp. Toaletă, un duș de clătire rapidă, cântărirea o dată pe zi (notează în [jurnal](/images/covid-diary.pdf)). Pune cearșafuri noi pe pat cât mai des și spală cearceafurile vechi la 60 de grade Celsius sau la o temperatură mai înaltă.
-* Ventilează camera cât mai des posibil.
-* Bea mai multă apă! (mai mult de 2 litri și mai puțin de 5 litri pe zi).
-* Încearcă să mânanci alimente bogate în vitamine, dar și suplimentele de vitamine sunt în regulă.
-* Inspiră mai des.
+{{ site.data.tags.breakout.end}}
+
+* **Drink more water!** More than 2 liters and less then 5 liters a day, or at least 8.5 cups. Remember your body needs more fluids than usual when you're sweating from a fever.
+* **Eat something**. Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
+* **Use those lungs**. Consultă nivelul 2 despre respirația și expirația adâncă, mișcându-ți brațele deasupra capului pentru a-ți ajuta pieptul să se extindă pe deplin și să îți exerciți capacitatea pulmonară, dacă este posibil, prin aruncarea unui balon sau folosirea unei alte jucării care necesită suflare în fiecare oră.
+
+### Acum că ești bolnav
+
+* **Odihnește-te**. În acest moment odihna este foarte importantă. Trebuie să dormi cât mai mult. Cel puțin la început, vei putea totuși să te ridici din pat pentru o perioadă limitată de timp. Toaletă, un duș de clătire rapidă, cântărirea o dată pe zi (notează în [jurnal](/images/covid-diary.pdf)). Pune cearșafuri noi pe pat cât mai des și spală cearceafurile vechi la 60 de grade Celsius (140° Farenheit) sau la o temperatură mai înaltă.
+* **Ia aer curat**. Ventilează camera cât mai des posibil.
+* **Bea mai multă apă!** Mai mult de 2 litri și mai puțin de 5 litri pe zi, sau cel puțin 8.5 căni pe zi. 
+Amintește-ți că corpul tău are nevoie de mai multe lichide decât de obicei atunci când transpiri din cauza febrei.
+* **Mânâncă** Încearcă să mânanci alimente bogate în vitamine, dar și suplimentele de vitamine sunt în regulă.
+* **Folosește-ți plămânii** 
 
 În acest moment, citește mai departe care sunt simptomele care indică nivelul 4. Scopul îngrijirii la nivelul 3 este să se monitorizeze îndeaproape pacientul, astfel încât să se surprindă din timp orice indicii că pacientul se îndreaptă spre nivelul 4. De exemplu: dacă pacientul nu este în măsură să bea cel puțin 2 litri de lichide pe zi, trebuie insistat. Deshidratarea este o afecțiune medicală și, fără minimul zilnic de lichide, treci rapid la nivelul 4.
 
