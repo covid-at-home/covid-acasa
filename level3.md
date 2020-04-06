@@ -45,27 +45,23 @@ Pe tot parcursul zilei, monitorizează starea de oboseală (dormi cât mai mult 
 
 {{ site.data.tags.breakout.begin }}
 
-Current guidance in many places is that COVID-19 patients who cannot take care of themselves (anymore) are treated elsewhere. Given that the patient's condition can worsen quickly, there are good reasons to be cared for by medically trained professionals who can keep an eye on you -- while (hopefully) having adequate protection and training to not get infected themselves. Letting the experts do it instead of staying home also protects your loved ones from infection. 
+În multe locuri, regulile actuale prevăd că pacienții cu COVID-19 care nu mai pot avea grijă de ei înșiși sunt tratați în altă parte. Având în vedere că starea pacientului se poate agrava rapid, este important să fie tratați de cadrele medicale de specialitate - în timp ce (sperăm) ei au o protecție și o pregătire adecvată pentru a nu se infecta. Lăsând experții să se ocupe de situație, în loc să rămână acasă, pacientul îi protejează și pe cei dragi de infecții.
 
-În multe locuri, orientările actuale sunt că pacienții cu COVID-19 care nu mai pot avea grijă de ei înșiși (nu mai sunt) tratați în altă parte. Având în vedere că starea pacientului se poate agrava rapid, există motive întemeiate de îngrijire de către profesioniștii pregătiți medical, care vă pot ține cu ochii - în timp ce (sperăm) să avem o protecție și o pregătire adecvată pentru a nu se infecta. Lăsând experții să o facă, în loc să rămână acasă, îi protejează și pe cei dragi de infecții.
-
-We are seeing this break down in places where there are a lot of cases, with some very ill patients deemed "not sick enough" to go to the hospital, and no other sorts of centralized quarantine facilities with medical staff (yet?) available. This text will continue assuming the COVID-19 patient needs to be cared for at home. This is not the optimal situation. If possible, you should consult with a doctor when you feel you need help before risking anyone becoming infected while they take care of you.
-
-Vedem această defalcare în locurile în care există o mulțime de cazuri, cu unii pacienți foarte bolnavi considerați „nu sunt suficient de bolnavi” pentru a merge la spital și nu există alte tipuri de facilități de carantină centralizate cu personal medical (încă?). Acest text va continua presupunând că pacientul COVID-19 trebuie îngrijit acasă. Aceasta nu este situația optimă. Dacă este posibil, trebuie să vă consultați cu un medic atunci când simțiți că aveți nevoie de ajutor înainte de a risca ca cineva să se infecteze în timp ce acestea au grijă de dumneavoastră.
+Vedem că această atitudine nu funcţionează în locurile în care există o mulțime de cazuri, cu unii pacienți foarte bolnavi considerați că „nu sunt suficient de bolnavi” pentru a merge la spital și nu există alte tipuri de facilități de carantină centralizate cu personal medical (încă?). Acest text va continua presupunând că pacientul COVID-19 trebuie îngrijit acasă. Aceasta nu este situația optimă. Dacă este posibil, trebuie să vă consultați cu un medic atunci când simțiți că aveți nevoie de ajutor înainte de a risca ca cineva să se infecteze în timp ce acestea au grijă de dumneavoastră.
 
 {{ site.data.tags.breakout.end }}
 
-Tell other people around you that you are really ill and are mostly in bed. Talk to someone you trust about how they may have to take care of you. Have this person or these people read this document. If you have people in your environment who have already had COVID-19 (something that will be increasingly common as time goes on), such people would naturally make the best caregivers as they presumably will be (at least partially) COVID-19-immune. Otherwise try to judge what is wisest in your circumstances. By all means do not wait with this until the very last moment, because if the disease progresses, you will get short of breath -- which inevitably will also affect your ability to talk and think clearly. Everyone at this level, especially patients who live alone, should really have someone checking on them regularly, because the deterioration in respiratory function can be very fast, especially in the second week. 
+Spune celorlalți din jurul tău că ești într-adevăr bolnav și trebuie să stai în pat. Vorbește cu cineva în care ai încredere despre cum să aibă grijă de tine. Cere-i acestei persoane sau acestor persoane să citească acest document. Dacă ai persoane în mediul tau care au avut deja COVID-19 (un lucru care va fi din ce în ce mai frecvent pe măsură ce timpul trece), acești oameni sunt în mod natural cei mai buni îngrijitori, deoarece, foarte probabil, vor avea imunitate împotriva COVID-19. În caz contrar, încearcă să judeci ce este cel mai înțelept în circumstanțele tale. În orice caz, nu aștepta să iei măsuri până în ultimul moment, pentru că, dacă boala progresează, respirația grea îți va afecta, inevitabil, capacitatea de a vorbi și de a gândi clar.
 
 [](/images/sick-in-bed.png)
 
 ### Others taking care of you
 
-If non-medical people are going to need to take care of you (or if you need to take care of someone who is ill), make sure adequate protection is used to the extent possible. At this point, patient and caregiver need to be closer together, so use all the protection you can have: raincoat, protective glasses / face shield, gloves. Train the proper procedures for putting these on and taking them off, going through that in your head over and over again.
+Dacă persoanele care nu au calificare medicală trebuie să aibă grijă de tine (sau dacă trebuie să ai grijă de cineva care este bolnav), asigură-te că este utilizată o protecție adecvată în măsura posibilului. În acest moment, pacientul și îngrijitorul trebuie să stea aproape unul de altul, așa că folosește toată protecția pe care o ai la îndemână: pelerina de ploaie, ochelarii de protecție / scut pentru față, mănuși. Antrenează procedurile corespunzătoare pentru a le pune și a le scoate, repetând pașii în minte.
 
-From now on in this text, we will assume that you're the caregiver. Read ahead for signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient urgently needs expert medical care. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without a daily minimum, you're quickly in Level 4.
+De acum înainte în acest text, vom presupune că ești îngrijitorul. Citește mai departe care sunt simptomele care indică nivelul 4. Scopul îngrijirii la nivelul 3 este să se monitorizeze îndeaproape pacientul, astfel încât să se surprindă din timp orice indicii că pacientul se îndreaptă spre nivelul 4. De exemplu: dacă pacientul nu este în măsură să bea cel puțin 2 litri de lichide pe zi, trebuie insistat (cu amabilitate). Deshidratarea este o afecțiune medicală și, fără minimul zilnic de lichide, treci rapid la nivelul 4.
 
-In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Don't be in contact any more than you have to, minimise the risk of becoming infected whereever possible. Make sure the illness diary is kept until all symptoms are gone, and quarantine areis kept up until the patient has been completely wellsymptom-free for a while.14 days. If you have been caring for the patient, yourself-isolate again. Your own two-week self-quarantine period now begins.
+În majoritatea cazurilor, însă, starea pacientului se va îmbunătăți după câteva zile sau cel mult o săptămână. Stai cu ea/el. Odată ce starea pacientului se îmbunătățește puțin, el/ea se va putea îngriji din nou. Asigură-te că jurnalul de boală și carantina sunt păstrate până când pacientul s-a refăcut complet de ceva timp. Dacă ai avut grijă de pacient, acum începe perioada de auto-carantină de două săptămâni.
 
 
 ### Munca de îngrijire
@@ -74,11 +70,12 @@ O mare parte din munca pe care o desfășori în acest stadiu este munca de îng
 
 Câteva măsuri folositoare includ:
 
-* Să ajungi la nivelul ochilor pacientului și la o distanță suficient de mare pentru confort, dar suficient de mică încât să nu fie nevoit să vorbească prea tare.
+* Să ajungi la nivelul ochilor pacientului și la o distanță suficient de mare pentru confort, dar suficient de mică încât să nu fie nevoit să vorbească prea tare. În același timp, încearcă să ții o anumită distanță între tine și pacient, atunci când este posibil, pentru a preveni infecția.
 * Simpla încurajare de a bea și a mânca. (De exemplu, "Bea, draga mea/dragul meu.")
-* Dacă pacientul nu bea și nu mănâncă adecvat, oferă alternative. (De exemplu, în cazul în care alimentele solide nu sunt potrivite, oferă ciorbă, supă cremă de legume sau soluție de electroliți. Dacă băuturile calde nu se potrivesc, oferă ceva rece sau invers.)
+* Dacă pacientul nu bea și nu mănâncă adecvat, oferă alternative. (De exemplu, în cazul în care alimentele solide nu sunt potrivite, oferă ciorbă, supă cremă de legume sau soluție de electroliți. Dacă băuturile calde nu se potrivesc, oferă ceva rece sau invers.) Dacă pacientul nu se poate hrăni singur, ai putea să-l hrănești cu lingurița?
 * Verifică dacă pacientului îi este suficient de cald la extremități (de exemplu, picioare reci?), și în timpul nopții.
-* Asigură-te că pacientul se va recuperara complet.
+* Setarea unui ventilator care să sufle aer pe fața pacientului poate relaxa pacienții care se simt că nu pot respira. A ajuta pacientul să respire aer proaspăt dintr-o fereastră deschisă, dacă este posibil, poate avea același efect.
+* Asigură-te că pacientul foarte posibil se va recuperara complet (ceea ce este adevărat). Oferă tehnici de relaxare (muzică liniștitoare, umor, contorizând respirațiile).
 * Dacă respirația este îngreunată, încearcă tehnici de respirație (de exemplu, buzele in formă de o, sau tehnici de respirație diafragmatică) și schimbări de poziție (de exemplu, aplecând pieptul puțin înainte sau sprijinind brațele și capul pe o masă și cu picioarele pe podea; dormind pe o parte cu o pernă între genunchi sau pe spate cu capul ridicat pe o pernă sau două).
 * Păstrarea jurnalului bolii (vezi mai jos).
 
@@ -87,7 +84,7 @@ Câteva măsuri folositoare includ:
 
 Așa cum am menționat în secțiunea anterioară, poate dorești să utilizezi acest [formular printabil](/diary) sau să-ți faci propriul jurnal. Următoarele măsuri trebuie luate (de tine sau de pacient).
 
-În acest stadiu, observă și ai grijă în special la simptomele care ar putea sugera agravarea condiției. Citește următoarea secțiune pentru mai multe detalii. De exmplu, aceste simptome includ amețeli sau ritmul cardiac rapid (bea mai mult și mănâncă ceva dacă poți), respirația rapidă (ține capul ridicat în timp ce stai culcat sau înclină-l în jos în timp ce stai în picioare, pentru a respira mai ușor) și o nuanță albastră la vârfurile degetelor sau pe buze (cianoză - ia aer curat, încălzește-te și verifică oxigenarea sângelui, dacă este posibil). De asemenea, ia în considerare utilizarea tehnicilor de relaxare pentru a încetini o respirație rapidă sau o frecvență cardiacă ce poate fi parțial datorată anxietății: ascultă muzică liniștitoare, ia legătura cu un prieten pe cale digitală sau vezi dacă poți încetini respirația și reduce ritmul cardiac numărând pentru expirarea forțată, în timp ce inhalarea e blândă. (Unii oameni folosesc 4-7-8, iar alții preferă 5-2-5 pentru a încerca să încetinească propriul ritm de inhalare-menținere-expirare.)
+În acest stadiu, măsoară frecvent semnele vitale, înregistrează-le în jurnalul bolii, observă și ai grijă în special la simptomele care ar putea sugera agravarea condiției. Citește următoarea secțiune pentru mai multe detalii. De exmplu, aceste simptome includ amețeli sau ritmul cardiac rapid (bea mai mult și mănâncă ceva dacă poți), respirația rapidă (ține capul ridicat în timp ce stai culcat sau înclină-l în jos în timp ce stai în picioare, pentru a respira mai ușor) și o nuanță albastră la vârfurile degetelor sau pe buze (cianoză - ia aer curat, încălzește-te și verifică oxigenarea sângelui, dacă este posibil). 
 
 Dacă crezi că starea pacientului s-ar putea agrava, jurnalul de boală se poate extinde pentru a include următoarele:
 - citiri de temperatură mai frecvente
@@ -96,4 +93,32 @@ Dacă crezi că starea pacientului s-ar putea agrava, jurnalul de boală se poat
 - stări de confuzie
 
 Dacă starea pacientului se înrăutățește, treci la secțiunea următoare.
+
+
+### Împachetează
+
+Dacă starea ta / a pacientului se deteriorează în măsura în care trebuie să mergi la spital, **nu vei avea timp sau nu vei avea chef să te gândești la ce să împachetezi**. Pregătește în prealabil o geantă mică cu fermoar / închidere fermă care conține:
+
+* O bucată de hârtie cu o imprimare clară / care poate fi citită ușor:
+  * Date de identificare: numele, data nașterii, adresa
+  * Numele, adresele și numerele de telefon ale persoanelor dragi și persoanele apropiate
+  * (opțional: codul pin a telefonului mobil al pacientului)
+  * Lista tuturor medicamentelor esențiale pe care le luați (medicament, timp, doză)
+  * O scurtă istorie medicală, listarea stărilor de sănătate cronică și numele medicului (medicilor)
+  
+* Aprovizionarea pentru o săptămână a medicamentelor dvs. esențiale, dacă este cazul
+* ID-ul emis de guvern sau o copie a acestuia
+* Cartea de identitate medicală, cardul de asigurare de sănătate, orice este aplicabil acolo unde vă aflați
+* Un set sau două de haine proaspete simple și compacte
+* Papuci de baie (cunoscute și sub numele de flip-flops)
+* Ochelari de rezervă, dacă este necesar
+* Periuță de dinți, pastă de dinți
+* Testamentul pacientului, dacă este cazul
+* Încărcător de telefon dacă aveți unul suplimentar
+* Pachet de baterii USB dacă aveți un set
+* Zilele anterioare ale jurnalului bolii pacientului
+
+Ar fi ideal să se poată citi și numele și data nașterii pe partea exterioară a geantei.
+
+Când a sosit timpul, nu uitați să puneți ochelarii, telefonul, încărcătorul și pagina de astăzi a jurnalului bolii în geantă înainte de a merge. Nu uitați că, probabil, nu vor fi permise vizite în spitale în timpul fazelor pandemice de vârf, iar pacienții COVID-19 (și alții) pot fi în spitale improvizate sau în spații de carantină cu personal medical. Am pus propriile dvs. medicamente esențiale pe bază de rețetă, deși acestea sunt furnizate în general de către spital atunci când sunteți în spital. Pur și simplu nu este întotdeauna clar unde veți fi preluat sau ce nivel de îngrijire vor putea să vă acorde, în perioadele de vârf pandemice în care sistemul de spital este probabil să fie copleșit.
 
