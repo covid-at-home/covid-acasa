@@ -8,7 +8,7 @@ Ceea ce vedem din păcate în anumite situații este că sistemul de sănătate 
 
 Dacă reușești să contactezi pe cineva telefonic, încearcă să rămâi liniștit și să ajuți medicul / spitalul să evalueze rapid situația.
 
-În cazurile în care ambulanțele sunt ocupate și simți că ai nevoie de una, va trebui să decizi dacă conduci tu până la camera de urgență sau dacă preferi să aștepți. Decide care e primul spital la care vrei să ajungi înainte de a pleca, fiind eventual însoțit de cineva cu acces la internet să te ajute cu navigarea, fie cu tine în mașină, fie la telefon. În orice caz, te rugăm să conduci în siguranț; ultimul lucru pe care ni-l dorim este ca pacientul să sufere un accident de mașină.
+În cazurile în care ambulanțele sunt ocupate și simți că ai nevoie de una, va trebui să decizi dacă conduci tu până la camera de urgență sau dacă preferi să aștepți. Decide care e primul spital la care vrei să ajungi înainte de a pleca și fi eventual însoțit de cineva cu acces la internet să te ajute cu navigarea, fie cu tine în mașină, fie la telefon. În orice caz, te rugăm să conduci în siguranț; ultimul lucru pe care ni-l dorim este ca pacientul să sufere un accident de mașină.
 
 &nbsp;
 
