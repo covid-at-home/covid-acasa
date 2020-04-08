@@ -1,5 +1,19 @@
 ## Lista de cumpărături
 
+Sfatul standard este să te aprovizionezi cu produsele esențiale pentru o perioadă de aproximativ 2-4 săptămâni, cum ar fi alimente și alte materiale de bază de uz casnic, care sunt necesare în situații de urgență cum e aceasta (o pandemie globală). Practic, dorești să ai provizii din ceea ce ai în mod normal nevoie, dar cu o emfază pe alimentele cu valabilitate mai îndelungate, care pot fi păstrate. De asemenea, vrei să vă gândești la anumite lucruri pe care, în mod normal, nu le ai la îndemână, și anume, alte consumabile (de exemplu, termometru pentru febră) și echipament de protecție personală (EPP; e. g., mască și mănuși).
+
+### Alimente
+
+În timp ce dieta ți se va schimba probabil datorită schimbărilor în disponibilitățile alimentare (mai puține drumuri pentru cumpărături de alimentare și opțiunea de livrare la domiciliu pentru limitarea contactului, fără restaurante), în majoritatea țărilor în acest moment te poți bucura în continuare de o dietă diversă și hrănitoare. Iată câteva sugestii și sfaturi pentru păstrarea unei alimentații sănătoase timp de 2-4 săptămâni, care îți sunt la îndemână. Consultă pagina principală pentru mai multe [sugestii și sfaturi] (/ mâncare) pentru a rămâne sănătos din punct de vedere al nutriției.
+   
+### Produse de uz casnic
+
+Toată lumea s-au gândit deja să se aprovizioneze cu hârtie igienică, ceea ce duce cu infamitate la penurie și chiar tulburări sociale (de la certuri în public la la crima organizată) în diverse locuri din întreaga lume. Nu fi acea persoană. Când vine vorba de produse despre care știi că este posibil să nu fie suficiente din cauza cumpărării de panică (cum ar fi hârtia igienică), cumpără puțin în fiecare săptămână. Împarte cu vecinii, dacă ei nu au. Lucrurile vor fi nebunești de-a lungul acestei crize din când în când, dar oamenii din întreaga lume folosesc această oportunitate pentru a-i întreba pe cei din jurul lor de ce au nevoie - acest fel de bunătate construiește puterea și rezistența de care avem nevoie cu toții ca să depășim împreună prin această situație. Și (spre deosebire de măști), nu există o penurie globală de hârtie igienică.
+
+Acestea fiind spuse, probabil că are sens să ai o copie de rezervă a obiectelor tale esențiale obișnuite. Asta înseamnă lucruri diferite pentru diferiți oameni, dar elementele esențiale includ detergentul de rufe, săpunul pentru vase, șamponul, balsamul, săpunul pentru mâini, hidratant, pasta de dinți, ață dentară, prosoape de hârtie și prezervative
+
+### Alte produse
+
 În afară de faptul că trebuie să te aprovizionezi cu produsele esențiale pentru o perioadă de aproximativ 2-4 săptămâni, cum ar fi alimente și alte materiale de uz casnic, iată câteva lucruri necesare și la îndemână, dacă vei avea grijă de cineva cu COVID-19. Niciunul din lucrurile de mai jos nu este foarte scump sau nu necesită instruire specială pentru a fi folosit.
 
 Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar asta nu înseamnă că este o recomandare de cumpărare și noi nu facem bani dacă dați clic pe niciunul din produsele de mai jos. Când sugerăm un produs, nu ne referim la nimic altceva decât la * „ceva de genul acesta.” * Utilizați orice altă cale de a cumpăra ceva similar online sau în magazine.
@@ -18,6 +32,9 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
    > Sunt lucruri pe care toată lumea le are în casă, dar pentru a fi siguri: odată ce oamenii se îmbolnăvesc, va trebui să schimbi lenjeria de pat destul de des și este posibil să folosești și mai multe prosoape.
    
 * **Produse de curățare, înălbitor**
+
+> Șervețele de hârtie de unică folosință și curățător de sticlă pulverizată sau orice alt tip de curățător care dizolvă uleiul (apă cu săpun pentru vase, curățător de duș, înălbitor diluat) ar trebui să omoare virusul dizolvând membrana lipidică (grăsime) și astfel să-l facă inactiv, conținând în același timp materiale de curățare contaminate în siguranță în geanta de gunoi. Iată o listă mai completă (https://www.consumerreports.org/cleaning/common-household-products-that-can-destroy-novel-coronavirus/).
+
 
 * **Paracetamol (cunoscut și sub numele de acetaminofen, Tylenol sau Panadol)**
 
