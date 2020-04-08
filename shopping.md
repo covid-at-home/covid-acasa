@@ -33,7 +33,7 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
    
 * **Produse de curățare, înălbitor**
 
-> Șervețele de hârtie de unică folosință și curățător de sticlă pulverizată sau orice alt tip de curățător care dizolvă uleiul (apă cu săpun pentru vase, curățător de duș, înălbitor diluat) ar trebui să omoare virusul dizolvând membrana lipidică (grăsime) și astfel să-l facă inactiv, conținând în același timp materiale de curățare contaminate în siguranță în geanta de gunoi. Iată o listă mai completă (https://www.consumerreports.org/cleaning/common-household-products-that-can-destroy-novel-coronavirus/).
+> Șervețele de hârtie de unică folosință și curățător de sticlă pulverizată sau orice alt tip de curățător care dizolvă uleiul (apă cu săpun pentru vase, curățător de duș, înălbitor diluat) ar trebui să omoare virusul dizolvând membrana lipidică (grăsime) și astfel să-l facă inactiv, conținând în același timp materiale de curățare contaminate în siguranță în geanta de gunoi. Iată o listă mai completă [list](https://www.consumerreports.org/cleaning/common-household-products-that-can-destroy-novel-coronavirus/).
 
 
 * **Paracetamol (cunoscut și sub numele de acetaminofen, Tylenol sau Panadol)**
