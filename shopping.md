@@ -8,9 +8,25 @@ Sfatul standard este să te aprovizionezi cu produsele esențiale pentru o perio
    
 ### Produse de uz casnic
 
-Toată lumea s-au gândit deja să se aprovizioneze cu hârtie igienică, ceea ce duce cu infamitate la penurie și chiar tulburări sociale (de la certuri în public la la crima organizată) în diverse locuri din întreaga lume. Nu fi acea persoană. Când vine vorba de produse despre care știi că este posibil să nu fie suficiente din cauza cumpărării de panică (cum ar fi hârtia igienică), cumpără puțin în fiecare săptămână. Împarte cu vecinii, dacă ei nu au. Lucrurile vor fi nebunești de-a lungul acestei crize din când în când, dar oamenii din întreaga lume folosesc această oportunitate pentru a-i întreba pe cei din jurul lor de ce au nevoie - acest fel de bunătate construiește puterea și rezistența de care avem nevoie cu toții ca să depășim împreună prin această situație. Și (spre deosebire de măști), nu există o penurie globală de hârtie igienică.
+Toată lumea s-a gândit deja să se aprovizioneze cu hârtie igienică, ceea ce duce cu infamitate la penurie și chiar tulburări sociale (de la certuri în public la la crima organizată) în diverse locuri din întreaga lume. Nu fi acea persoană. Când vine vorba de produse despre care știi că este posibil să nu fie suficiente din cauza cumpărării de panică (cum ar fi hârtia igienică), cumpără puțin în fiecare săptămână. Împarte cu vecinii, dacă ei nu au. Lucrurile vor fi nebunești de-a lungul acestei crize din când în când, dar oamenii din întreaga lume folosesc această oportunitate pentru a-i întreba pe cei din jurul lor de ce au nevoie - acest fel de bunătate construiește puterea și rezistența de care avem nevoie cu toții ca să depășim împreună prin această situație. Și (spre deosebire de măști), nu există o penurie globală de hârtie igienică.
 
-Acestea fiind spuse, probabil că are sens să ai o copie de rezervă a obiectelor tale esențiale obișnuite. Asta înseamnă lucruri diferite pentru diferiți oameni, dar elementele esențiale includ detergentul de rufe, săpunul pentru vase, șamponul, balsamul, săpunul pentru mâini, hidratant, pasta de dinți, ață dentară, prosoape de hârtie și prezervative
+Acestea fiind spuse, probabil că are sens să ai o copie de rezervă a obiectelor tale esențiale obișnuite. Asta înseamnă lucruri diferite pentru diferiți oameni, dar elementele esențiale includ:
+
+* Detergent de rufe. Poți cumpăra detergent lichid pentru a spăla lucrurile în chiuvetă sau cadă / duș dacă nu ai o mașină de spălat. La nevoie (sau pentru produse delicate precum lenjeria de corp), se pot folosi detergentul de vase sau săpunul de. Folosește ce ai la indemănă; nu este un moment bun pentru a merge la spălătorie.
+
+* Detergent de vase. Nu doar pentru spălat vasele și (la nevoie) rufele; De asemenea, funcționează ca un produs de curățare pentru toate scopurile, diluat în apă caldă, pentru majoritatea podelelor și suprafețelor.
+
+* Șampon, balsam, săpunul pentru mâini și corp.
+
+* Pastă de dinți, ață dentară, apă de gură, orice altceva aveți nevoie pentru o igienă orală bună. (Nu este un moment bun pentru a merge la stomatolog.)
+
+* Prosoape de hârtie, șervețele antiseptice, șervețele umede de baie, șervețele de hârtie.
+
+* Produse de curățare. Șervețele de hârtie de unică folosință și curățător de sticlă pulverizată sau orice alt tip de curățător care dizolvă uleiul (apă cu săpun pentru vase, curățător de duș, înălbitor diluat) ar trebui să omoare virusul dizolvând membrana lipidică (grăsime) și astfel să-l facă inactiv, conținând în același timp materiale de curățare contaminate în siguranță în geanta de gunoi. Iată o listă mai completă [list](https://www.consumerreports.org/cleaning/common-household-products-that-can-destroy-novel-coronavirus/).
+
+* Tampoanele, prezervativele, dischete demachiante, orice altceva aveți nevoie pentru a rămâne curat și în siguranță.
+
+* Saci de gunoi de unică folosință. Nu este un lucru bun pentru a rămâne fără a fi bolnav și va trebui să eliminați țesuturile în siguranță în cele din urmă!
 
 ### Alte produse
 
@@ -31,11 +47,6 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 
    > Sunt lucruri pe care toată lumea le are în casă, dar pentru a fi siguri: odată ce oamenii se îmbolnăvesc, va trebui să schimbi lenjeria de pat destul de des și este posibil să folosești și mai multe prosoape.
    
-* **Produse de curățare, înălbitor**
-
-> Șervețele de hârtie de unică folosință și curățător de sticlă pulverizată sau orice alt tip de curățător care dizolvă uleiul (apă cu săpun pentru vase, curățător de duș, înălbitor diluat) ar trebui să omoare virusul dizolvând membrana lipidică (grăsime) și astfel să-l facă inactiv, conținând în același timp materiale de curățare contaminate în siguranță în geanta de gunoi. Iată o listă mai completă [list](https://www.consumerreports.org/cleaning/common-household-products-that-can-destroy-novel-coronavirus/).
-
-
 * **Paracetamol (cunoscut și sub numele de acetaminofen, Tylenol sau Panadol)**
 
    > Suprimant de febră și calmant la alegere. Asigură-te că urmezi instrucțiunile de pe ambalaj și nu depășești doza maximă recomandată zilnic.
