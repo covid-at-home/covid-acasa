@@ -26,7 +26,7 @@ Acestea fiind spuse, probabil că are sens să ai o copie de rezervă a obiectel
 
 * Tampoanele, prezervativele, dischete demachiante, orice altceva aveți nevoie pentru a rămâne curat și în siguranță.
 
-* Saci de gunoi de unică folosință. Nu este un lucru bun pentru a rămâne fără a fi bolnav și va trebui să eliminați țesuturile în siguranță în cele din urmă!
+* Saci de gunoi de unică folosință. Nu e bine să rămâi fără când ești bolnav și va trebui să arunci șervețele în siguranță în cele din urmă!
 
 ### Alte produse
 
