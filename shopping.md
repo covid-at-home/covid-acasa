@@ -116,20 +116,27 @@ O mare parte din EPP sunt potrivite pentru toate dimensiunile (cum ar fi șepcil
 
 #### Cum să-l pui pe tine și să-l dai jos în siguranță
 
-Pentru a-l pune: Crează o zonă curată (în afară de hainele „murdare” / pentru îngrijirea pacientului / în afara hainelor de zi zu zi) înainte de a îmbrăca PPE. Spală-ți mai întâi mâinile, apoi pune-ți masca și ține-ți mâinile de pe mască în timp ce o porți. Apoi îmbracă halatul și orice alt echipament de protecție - păstrându-l „curat”. Acest lucru înseamnă, de exemplu, ruperea spătarului gâtului la spate, astfel încât să puți pune brațele în el, fără să-l iei peste cap (pentru a evita să te îmbraci halatul împotriva măștii). Păstrează întotdeauna o igienă bună a mâinilor în timp ce porți PPE.
+Pentru a-l pune: Crează o zonă curată (în afară de hainele „murdare” / pentru îngrijirea pacientului / în afara hainelor de zi zu zi) înainte de a îmbrăca EPP. Spală-ți mai întâi mâinile, apoi pune-ți masca și ține-ți mâinile de pe mască în timp ce o porți. Apoi îmbracă halatul și orice alt echipament de protecție - păstrându-l „curat”. Acest lucru înseamnă, de exemplu, ruperea spătarului gâtului la spate, astfel încât să puți pune brațele în el, fără să-l iei peste cap (pentru a evita să te îmbraci halatul împotriva măștii). Păstrează întotdeauna o igienă bună a mâinilor în timp ce porți EPP.
 
-Pentru a-l da jos: mai întâi scoate-ți mănușile și spală-ți mâinile. Apoi scoate-ți halatul și spală-te din nou pe mâini. Apoi îndepărtează orice PPE rămas și spală-te din nou pe mâini. Apoi dă-ți jos hainele „murdare” și spală-te din nou pe mâini. Apoi, pune-ți hainele „curate” și continuă spre o zonă pe care o știi că este „curată”.
+Pentru a-l da jos: mai întâi scoate-ți mănușile și spală-ți mâinile. Apoi scoate-ți halatul și spală-te din nou pe mâini. Apoi îndepărtează orice EPP rămas și spală-te din nou pe mâini. Apoi dă-ți jos hainele „murdare” și spală-te din nou pe mâini. Apoi, pune-ți hainele „curate” și continuă spre o zonă pe care o știi că este „curată”.
+
+Cel mai bun mod de a reutiliza EPP în timpul acestei pandemii este probabil să marchezi șapte măști sau seturi de EPP - una / unul pentru fiecare zi a săptămânii. Rotește-le după purtare pentru a sta într-un loc curat pentru o săptămână. Virusul ar trebui să fie mort după această perioadă de timp. În prezent, nu par să existe lipsuri de alte EPP, dar s-ar aplica aceeași strategie de decontaminare a rotației. În mod alternativ, dacă ai nevoie de masca / respirator decontaminate mai repede, pune-le în cuptorul la 70 ° Celsius (aproximativ 160 ° Farenheit) timp de 30 de minute. Pentru suprafețe dure, cum ar fi scuturile feței și ochelarii, soluțiile normale de dezinfectare precum Windex ar trebui să omoare virusul. Pentru suprafețe moi, cum ar fi măștile de bumbac, pulverizarea sau înmuierea cu alcool sau peroxid de hidrogen diluat ar trebui să facă truc. Totuși, pare probabil că utilizarea de căldură, substanțe chimice sau alte tehnici de decontaminare potențiale mai rapide va duce la uzura generală mai slabă a EIP decât rotirea unui set săptămânal în și într-un loc curat. Mai puțină uzură înseamnă o protecție mai bună a EIP.
 
 * **Mască medicală, de preferință N95** (câțiva EUR / USD)
    > ![](/images/mask.png)
    >
    > Sunt, de asemenea, recomandate măștile respiratorii FFP2 sau FFP3. O mască obișnuită a feței (chirurgicală sau procedurală) este mai bună decât nimic dacă nu poți obține una respiratorie. Ține minte că măștile respiratorii vin în variante cu sau fără supapă. Supapa (adesea un dispozitiv de plastic rotund) lasă nefiltrat aerul expirat. Acest lucru nu este o problemă in situații în care încerci să te protejezi când inhalezi, de exemplu, spray-uri toxice, și poate fi utilă pentru o persoană sănătoasă să se protejeze de o persoană bolnavă cunoscută, dar în niciun caz bolnavul nu trebuie să poarte o versiune cu supapă.
+   
+* **Mască de față, manuală (20 EUR / USD pentru material, verifică dacă ai nevoie de alte produse)
+   >! [] (/ images / mask-template.png)
+   >
+   > Poate că nu poți găsi o mască N95, FFP2, FFP3 sau medicină obișnuită pentru cumpărare în acest moment. Sperăm că această situație nu va dura, deoarece toată lumea va avea un EPP adecvat în curând. Dar cine știe? Doar ajută. Poți să îți faci în continuare propria mască folosind [șablonul nostru de confecționare a măștilor] (https://covid-at-home.info/facemask). Sau înfășură o eșarfă în jurul nasului și gurii, după cum este necesar. Ceva este mai bun decât nimic.
+
+* **Mănuși** (mai puțin de un EUR / USD) ([exemplu](https://www.amazon.de/dp/B01LWJ80C7))
+   > ![](/images/gloves.png) 
 
 * **Pelerină de ploaie** (câțiva EUR / USD) ([exemplu](https://www.amazon.de/dp/B07DFDFFRX))
    > Cel mai bine este dacă găsești o pălărină cu mâneci lungi, rezistentă la apă.
-
-* **Mănuși** (mai puțin de un EUR / USD) ([exemplu](https://www.amazon.de/dp/B01LWJ80C7))
-   > ![](/images/gloves.png)
 
 * **Protecția ochilor, ochelarii sau protecția feței** (câțiva EUR / USD) ([exemplu](https://www.amazon.de/dp/B002THV25Y))
    > ![](/images/glasses.png)
