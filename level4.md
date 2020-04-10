@@ -1,6 +1,6 @@
 ## Nivelul 4 - Specialiștii preiau cazul
 
-Pe măsură ce simptomele se agravează și starea pacientului se deteriorează, frecvența cu care se fac măsurătorile trebuie să crească. În acest moment, jurnalul trebuie să conțină temperatura, respirația și ritmul cardiac la fiecare câteva ore. Fii atent în special la agravarea rapidă a respirației, respirația rapidă și nivelul scăzut de oxigen din sânge, deoarece acestea pot fi semne ale dezvoltării sindromului de detresă respiratorie acuta (SDRA), care necesită îngrijiri medicale imediate.
+Pe măsură ce simptomele se agravează și starea pacientului se deteriorează, măsurătorile trebuie să se facă din ce în ce mai des. În acest moment, jurnalul trebuie să conțină temperatura, respirația și ritmul cardiac la fiecare câteva ore. Fii atent în special la dificultăți de respirație, respirația rapidă și nivelul scăzut de oxigen din sânge, deoarece acestea pot fi semne ale dezvoltării sindromului de detresă respiratorie acuta (SDRA), care necesită îngrijiri medicale imediate.
 
 Oricare dintre următoarele instanțe trebuie interpretate ca o urgență medicală:
 
@@ -18,7 +18,7 @@ Probabil cunoști pacientul, așa că ar trebui să poți evalua, fără niciun 
 
 Numără respirațiile pe minut ținând mâna suficient de aproape pentru a simți respirația pacientului, urmărind pieptul său și / sau urmărind abdomenul său, în timp ce te uiți la un ceas sau la un cronometru digital / telefon. Rata de respirație (RR) trebuie să fie cuprinsă între 12 și 20 de respirații pe minut.
 
-Îngrijirea imediată la domiciliu pentru probleme respiratorii poate include ventilația camerei pacientului și ridicarea acestuia, astfel încât să poată sta într-o poziție verticală, dar confortabilă. Este, de asemenea, o idee bună să ridici capul patului în timpul somnului, dacă e posibil, și există unele poziții de dormit care pot ușura respirația (vezi Nivelul 3, Îngrijirea).
+Îngrijirea imediată la domiciliu pentru probleme respiratorii poate include ventilația camerei pacientului, încearcă diferite tehnici de respirație și există unele poziții de dormit care pot ușura respirația (vezi Nivelul 3, Îngrijirea).
 
 ![](/images/dyspnoe.png)
 
@@ -26,7 +26,7 @@ Dacă tu sau pacientul întâmpinați dificultăți de respirație / respirație
 
 ### Saturație scăzută de oxigen
 
-Dacă ai un oximetru (a se vedea [pagina cumpărăturilor](/shopping)), orice saturație de oxigen mai mică de 95% poate indica o problemă respiratorie. Dacă în orice moment, ** buzele sau vârfurile degetelor devin albastre ** (sau chiar ușor albastre) (numită cianoză), cheamă o ambulanță! Dacă nivelul e sub 95%, aerisește camera pacientului și încălzește-l.
+Dacă ai un oximetru (a se vedea [pagina cumpărăturilor](/shopping)), orice saturație de oxigen mai mică de 95% poate indica o problemă respiratorie. Dacă în orice moment, ** buzele sau vârfurile degetelor devin albastre ** (sau chiar ușor albastre; numită cianoză), cheamă o ambulanță! Dacă nivelul e sub 95%, aerisește camera pacientului și încălzește-l, și ajută-l să se întindă pe burtă (cu pieptul pe podea, spatele în sus) dacă el sau ea poate
 
 ![](/images/cyanosis.png)
 
@@ -54,9 +54,8 @@ Dacă verifici în mod regulat temperatura, e bine să fii conștient că situa�
 
 ### Tuse cu sânge!
 
-Această situație e clară. Dacă observați că pacientul tușește sânge sau mucus pătat de sânge, solicită sfaturi medicale.
+Această situație e clară. Dacă observi că pacientul tușește sânge sau mucus cu sânge, solicită sfaturi medicale.
 
 ### Sună pentru ajutor
 
-Când apar oricare dintre simptomele de mai sus, lucrurile sunt grave! Dacă este posibil, acesta este punctul în care nu ar trebui să mai iei nicio decizie pe baza unui ghid de pe internet. Nu aștepta ca lucrurile să se înrăutățească. Apelează la un medic sau sună numărul de urgență și pune pacientul într-o lanță cât mai repede. Stai calm și raportează situația așa cum este. Treaba ta este terminată: ai păstrat un pacient în afara sistemului medical în timp ce el sau ea erau doar bolnavi. Acum este timpul ca specialiștii să se ocupe de caz. Datele pe care le-ai adunat ar trebui să convingă operatorul, 
-paramedicii / tehnicieninii medicali de urgență și medicii că nu ești panicat fără motiv și vor ajuta probabil pacientul să primească ajutorul de care are nevoie fără amânare.
+Când apar oricare dintre simptomele de mai sus, lucrurile sunt grave! Dacă este posibil, acesta este punctul în care nu ar trebui să mai iei nicio decizie pe baza unui ghid de pe internet. Nu aștepta ca lucrurile să se înrăutățească. Apelează la un medic sau sună numărul de urgență și pune pacientul într-o lanță cât mai repede. Stai calm și raportează situația așa cum este. Treaba ta este terminată: ai păstrat un pacient în afara sistemului medical în timp ce el sau ea erau doar bolnavi. Acum este timpul ca specialiștii să se ocupe de caz. Datele pe care le-ai adunat ar trebui să convingă operatorul, paramedicii / tehnicieninii medicali de urgență și medicii că nu ești panicat fără motiv și vor ajuta probabil pacientul să primească ajutorul de care are nevoie fără amânare.
