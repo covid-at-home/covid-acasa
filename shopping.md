@@ -49,7 +49,7 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
    
 * **Paracetamol (cunoscut și sub numele de acetaminofen, Tylenol sau Panadol)**
 
-   > Suprimant de febră și calmant la alegere. Asigură-te că urmezi instrucțiunile de pe ambalaj și nu depășești doza maximă recomandată zilnic.
+   > Suprimant de febră și calmant la alegere. Asigură-te că urmezi instrucțiunile de pe ambalaj și consumi în limitele dozei maxime recomandată zilnic.
 
 &nbsp;
 
@@ -69,15 +69,15 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 * **Incontinență / cearșafuri impermeabile** (20 EUR / USD sau mai mult) ([exemplu](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) sau [exemplu](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
    > ![](/images/sheet.png)
    >
-   > Persoanele bolnave au uneori accidente. Ne vei mulțumi.
+   > Persoanele bolnave au uneori accidente. Ne vei mulțumi. (De fapt ... Pune două cearșafuri impermeabile pe pat, dacă este încă destul de confortabil. Apoi, înlăturarea stratului superior în timpul nopții, dacă este necesar, va fi suficient.)
 
 * **Inhalator cu abur** (25 EUR / USD sau mai mult) ([exemplu](https://www.amazon.de/gp/product/B07SNQH6CZ))
    > ![](/images/steam.png)
    >
    > Adesea sunt vândute sub formă de "saună pentru față" sau denumiri asemănătoare, sunt doar dispozitive care produc aburi care nu sunt prea fierbinți pentru a fi inhalați. Orice altă metodă care produce abur se poate folosi atât timp cât aburul nu e prea cald. Folosește apă demineralizată ([exemplu](https://www.amazon.de/gp/product/B07J5Y95MQ)), în special în locurile în care apa de la robinet este bogată în calciu.
-   > ** Avertisment: ** Dispozitivele calde, umede, sunt mijloace excelente de răspândire a virusului. Utilizează-le doar pentru persoana bolnavă sau cel puțin curăță-le meticulos.
+   > ** Avertisment: ** Dispozitivele calde, umede, sunt mijloace excelente de răspândire a virusului. Utilizează-le doar pentru persoana bolnavă sau cel puțin curăță-le meticulos. (Nu este recomandabil să utilizezi în comun același lucru între persoanele bolnave, deoarece este posibil ca încărcătura virală a unei persoane poată afecta în continuare negativ cealaltă persoană.)
 
-* **Vitamine** (câțiva EUR / USD) ([exemplu](https://www.amazon.de/dp/B07S63PCZK))
+* **Vitamine** (în jur de 10 EUR / USD) ([exemplu](https://www.amazon.de/dp/B07S63PCZK))
    > ![](/images/multi-vitamin.png)
    >
    > Când pacientul nu prea mai mănâncă, dar încă bea, poți cumpăra multi-vitamine care se dizolvă în apă - câteva cutii. Încearcă să le obții pe cele care conțin aproximativ de 1-2 ori mai mult față de doza recomandată zilnic de vitamine și minerale - nu te arunca la doze uriașe de 1000%.
@@ -94,11 +94,18 @@ Dacă vrei să poți măsura tensiunea arterială și SpO2, atunci măcar famili
 
 Achiziționarea de EPP este mai complicată din mai multe motive.
 
-În primul rând, mai mult ca sigur, pentru tine este ceva nou. Probabil nu ești familiar cu ce tipuri de protecție sunt necesare în astfel de situații. Organizația Mondială a Sănătății are instrucțiuni foarte utile despre [când trebuie să porți o mască și cum să o folosești](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). Ar trebui să porți o mască numai dacă ești bolnav de COVID-19 - confirmat sau suspect (febră, tuse, dificultăți de respirație) și oricând te afli în aceeași cameră cu cineva bolnav de COVID-19, confirmat sau suspect. Nu pune mâinile pe mască în timp ce o porți și folosește recomandările de spălare corectă a mâinilor. Asigură-te că citești câteva sfaturi și urmărești câteva videoclipuri despre cum și când să folosești și să arunci în siguranță EPP, pentru a te asigura că funcționează cum trebuie și te protejează pe tine și pe alții. (Acest lucru este valabil mai ales dacă utilizezi o mască respiratorie și nu una simplă: ai grijă, este surprinzător de greu să te asiguri că piesa pentru față a măștii respiratorii are o potrivire adecvată.)
+În primul rând, mai mult ca sigur, pentru tine este ceva nou. Probabil nu ești familiar cu ce tipuri de protecție sunt necesare în astfel de situații. Este important să aflii ce tipuri de PPE ai nevoie în ce situații, cum să-l potrivești corect, astfel încât să funcționeze, cum să-l donezi și să-l elimini în siguranță și cum să-l dezinfectezi sau să îl arunci după utilizare.
 
-E foarte posibil că unii oameni să facă cumpărături din panică, iar unele companii au adaptat prețurile, ceea ce face ca echipamentele esențiale precum măștile să nu fie disponibile în anumite locuri, nici pentru medicii și asistenții care au cu adevărat nevoie de ele. Dacă pandemia este încă în stadiu incipient, guvernul tău poate oferi măști persoanelor care trăiesc cu / sau au grijă de pacienții cu COVID-19. Secțiunea de aici descrie produse pe care poți încerca să le obții dacă trebuie să ai grijă de alte persoane.
+În al doilea rând, sfaturile variază foarte mult în acest sens. În unele țări, în anumite puncte ale pandemiei, purtarea măștilor în public este sau a fost obligatorie. În alte țări, a fost puternic încurajată ca o normă socială, cu puține abateri. În altele, purtarea măștilor este obligatorie dacă aveți grijă de un pacient COVID-19. Și în alte țări, autoritățile de sănătate publică le-au spus oamenilor că purtarea măștilor nu îi va proteja. Protecția oferită de măști și alte PPE este imperfectă, dar importantă, în special pentru lucrătorii din domeniul sănătății și alte grupuri cu risc, cum ar fi persoanele imunosupresate, precum și pentru cei cu boli de inimă sau pulmonare.
 
-În primul rând: ** Ascultă anunțurile oficiale despre ceea ce * să nu * cumperi ** ca respectivele produse să nu devină indisponibile pentru medici și asistenți medicali care au mai mare nevoie de ele. Politicile și practicile generale cu privire la măști vor varia semnificativ în întreaga lume, în perioada următoare. Beneficiile purtării măștii afară sau în viața de zi cu zi, dacă ești sănătos, nu sunt susținute de dovezi științifice. Dacă ai acces la o mască, probabil că are sens să porți una dacă te simți puțin bolnav sau tușești și trebuie neapărat să ieși afară. De asemenea, dacă ai grijă de cineva care este bolnav, are sens să porți mască. Este chiar obligatoriu în protocoalele de îngrijire în carantină COVID în unele țări. Verifică în ce circumstanțe autoritățile vă vor oferi măști. Verifică anunțurile oficiale despre alte lucruri la care să te gândești atunci când vine vorba de izolarea sau răspândirea virusului.
+În al treilea rând, unii să fac cumpărături din panică, iar unele companii au adaptat prețurile, ceea ce face ca echipamentele esențiale precum măștile să nu fie disponibile în anumite locuri, nici pentru medicii și asistenții care au cu adevărat nevoie de ele. Dacă pandemia este încă în stadiu incipient, guvernul tău poate oferi măști persoanelor celor care trăiesc cu / sau au grijă de pacienții cu COVID-19. Secțiunea de aici descrie produse pe care poți încerca să le obții dacă trebuie să ai grijă de alte persoane. Secțiunea de aici descrie lucruri pe care ai putea încerca să le faci sau să le faci - dacă ești bolnav, trebuie să ai grijă de alte persoane bolnave sau care se află într-un grup cu risc. ** Ascultă anunțurile oficiale despre ceea ce * să nu * cumperi ** ca respectivele produse să nu devină indisponibile pentru medici și asistenți medicali care au mai mare nevoie de ele.
+
+
+Când să folosești PPE
+
+Organizația Mondială a Sănătății are instrucțiuni foarte utile despre [când trebuie să porți o mască și cum să o folosești](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks). Ar trebui să porți o mască numai dacă ești bolnav de COVID-19 - confirmat sau suspect (febră, tuse, dificultăți de respirație) și oricând te afli în aceeași cameră cu cineva bolnav de COVID-19, confirmat sau suspect. Nu pune mâinile pe mască în timp ce o porți și folosește recomandările de spălare corectă a mâinilor. Asigură-te că citești câteva sfaturi și urmărești câteva videoclipuri despre cum și când să folosești și să arunci în siguranță EPP, pentru a te asigura că funcționează cum trebuie și te protejează pe tine și pe alții. (Acest lucru este valabil mai ales dacă utilizezi o mască respiratorie și nu una simplă: ai grijă, este surprinzător de greu să te asiguri că piesa pentru față a măștii respiratorii are o potrivire adecvată.)
+
+
 
 * **Mască medicală, de preferință N95** (câțiva EUR / USD)
    > ![](/images/mask.png)
