@@ -113,6 +113,13 @@ Dacă nu faci altceva decât să porți o mască atunci când este cazul și să
 
 O mare parte din EPP sunt potrivite pentru toate dimensiunile (cum ar fi șepcile) sau vin pe dimensiuni, cum ar fi mici, medii și mari (cum ar fi mănuși și halate). Masca respiratorie e cea mai dificilă piesă din EPP. Fă-ți timp pentru a viziona câteva [videoclipuri despre cum să](https://www.youtube.com/results?search_query=how+to+fit+a+respirator+mask) potrivești corect una pe față cu degetele, acoperindu-ți strâns nasul și pomeții. Nu strânge podul. Potrivirea măștii respiratorii e deosebit de importantă pentru păstrarea particulelor potențial periculoase afară (în cazul ieșirii în public sau pentru a avea grijă de pacienți) sau înăuntru (în cazul în care ești bolnav sau purtător asimptomatic).
 
+
+#### Cum să-l pui pe tine și să-l dai jos în siguranță
+
+Pentru a-l pune: Crează o zonă curată (în afară de hainele „murdare” / pentru îngrijirea pacientului / în afara hainelor de zi zu zi) înainte de a îmbrăca PPE. Spală-ți mai întâi mâinile, apoi pune-ți masca și ține-ți mâinile de pe mască în timp ce o porți. Apoi îmbracă halatul și orice alt echipament de protecție - păstrându-l „curat”. Acest lucru înseamnă, de exemplu, ruperea spătarului gâtului la spate, astfel încât să puți pune brațele în el, fără să-l iei peste cap (pentru a evita să te îmbraci halatul împotriva măștii). Păstrează întotdeauna o igienă bună a mâinilor în timp ce porți PPE.
+
+Pentru a-l da jos: mai întâi scoate-ți mănușile și spală-ți mâinile. Apoi scoate-ți halatul și spală-te din nou pe mâini. Apoi îndepărtează orice PPE rămas și spală-te din nou pe mâini. Apoi dă-ți jos hainele „murdare” și spală-te din nou pe mâini. Apoi, pune-ți hainele „curate” și continuă spre o zonă pe care o știi că este „curată”.
+
 * **Mască medicală, de preferință N95** (câțiva EUR / USD)
    > ![](/images/mask.png)
    >
