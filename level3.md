@@ -14,7 +14,7 @@ Dacă nu ai un medic primar, va trebui să cauți surse locale actualizate despr
 
 ### Acum, că ești bolnav
 
-* **Odihnește-te**. În acest moment, odihna este foarte importantă. Trebuie să dormi cât mai mult. Cel puțin la început, vei putea totuși să te ridici din pat pentru o perioadă limitată de timp. Toaletă, un duș rapid, cântărirea o dată pe zi (notează în [jurnal](/images/covid-diary.pdf)). Pune cearșafuri noi pe pat cât mai des și spală cearșafurile vechi la 60 de grade Celsius sau la o temperatură mai înaltă.
+* **Odihnește-te**. În acest moment, odihna este foarte importantă. Trebuie să dormi cât mai mult. Cel puțin la început, vei putea totuși să te ridici din pat pentru o perioadă limitată de timp. Toaletă, un duș rapid, cântărirea o dată pe zi (notează în [jurnal](/assets/images/covid-diary.pdf)). Pune cearșafuri noi pe pat cât mai des și spală cearșafurile vechi la 60 de grade Celsius sau la o temperatură mai înaltă.
 * **Ia aer curat**. Aerisește camera cât mai des posibil.
 * **Bea mai multă apă!** Mai mult de 2 litri și mai puțin de 5 litri pe zi, sau cel puțin 8,5 căni pe zi. 
 Nu uita: corpul tău are nevoie de mai multe lichide decât de obicei atunci când transpiri din cauza febrei.
@@ -53,7 +53,7 @@ Observăm că acest lucru nu funcţionează în zonele în care există foarte m
 
 Spune celorlalți din jurul tău că ești într-adevăr bolnav și trebuie să stai în pat. Vorbește cu cineva în care ai încredere despre cum să aibă grijă de tine. Cere-i acestei persoane sau acestor persoane să citească acest document. Dacă ai persoane în mediul tau care au avut deja COVID-19 (un lucru care va fi din ce în ce mai frecvent pe măsură ce timpul trece), acești oameni sunt în mod natural cei mai buni îngrijitori, deoarece, foarte probabil, vor avea imunitate împotriva COVID-19. În caz contrar, încearcă să judeci ce este cel mai înțelept în circumstanțele tale. În orice caz, nu aștepta să iei măsuri până în ultimul moment, pentru că, dacă boala progresează, respirația grea îți va afecta, inevitabil, capacitatea de a vorbi și de a gândi clar. Toți cei care ajung în acest stadiu, în special pacienții care trăiesc singuri, ar trebui să aibă pe cineva care să-i verifice în mod regulat, deoarece deteriorarea funcției respiratorii poate fi foarte rapidă, mai ales în a doua săptămână.
 
-[](/images/sick-in-bed.png)
+[](/assets/images/sick-in-bed.png)
 
 ### Când au ceilalți grijă de tine
 

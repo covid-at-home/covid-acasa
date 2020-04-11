@@ -14,11 +14,11 @@ Informațiile de pe acest site sunt furnizate doar cu titlu informativ și nu su
 
 În timp ce am început să scriem pentru acest site din Berlin, Germania, în a doua săptămână a lunii martie 2020, multe informații despre virus erau încă neclare, dar numărul de infectați și decedați a crescut constant, cel mai recent în Italia. Fie că virusul a cauzat o criză în zona în care te afli sau nu: este timpul să gândim și să ne pregătim.
 
-![](/images/virus.png)
+![](/assets/images/virus.png)
 
 Acest ghid se bazează pe presupunerea că, în următoarele luni, mai multe persoane decât de obicei, fie se îmbolnăvesc, fie vor avea oameni bolnavi în viața lor. Vom presupune că medicii și spitalele vor fi foarte ocupate, dacă nu chiar supraîncărcate. Trebuie să ne confruntăm cu posibilitatea ca unele dintre persoanele care, în mod normal, ar avea nevoie de îngrijire medicală, vor fi îngrijite acasă. Sperăm că o parte din informațiile de aici îți vor oferi încredere în a face față acestei boli. Astfel îi vei ajuta pe medicii și asistenții care presupunem că vor fi destul de ocupați în săptămânile și lunile următoare. În același timp, sperăm să-ți oferim informații care te vor ajuta să realizezi când este timpul să primești ajutor medical profesionist. Ajutând un număr cât mai mare  de oameni să obțină acest echilibru, poate face toată diferența în perioada următoare.
 
-[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+[![](/assets/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
 
 &nbsp;
 

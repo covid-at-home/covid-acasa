@@ -41,7 +41,7 @@ Aici vei avea nevoie de informații locale actualizate. Plimbările afară pot f
 
 ### Rămâi sănătos
 
-![](/images/situps.png)
+![](/assets/images/situps.png)
 
 În plus, poți face și alte lucruri pentru a rămâne cât mai sănătos posibil:
 

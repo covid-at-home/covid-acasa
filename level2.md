@@ -1,6 +1,6 @@
 ## Nivelul 2 - Simptome
 
-![](/images/sneezing-emoji.png)
+![](/assets/images/sneezing-emoji.png)
 
 Vezi dacă suferi, mai nou, de oricare dintre cele mai frecvente prime simptome asociate cu COVID-19:
 
@@ -107,7 +107,7 @@ Apoi scrie orice simptome pe care le are pacientul. Dacă el sau ea are durere, 
 
 Paracetamolul (cunoscut și sub denumirea de acetaminofen) este o alegere bună pentru suprimarea febrei și a durerii. Păstrarea unui jurnal de boală te va ajuta, de asemenea, să urmărești cât de mult ai luat, când, pentru a te asigura că tratezi în mod adecvat febra fără a lua mai mult decât cantitatea recomandată într-o perioadă de 24 de ore.
 
-[![](/images/diary-small-slanted.png)](/diary)
+[![](/assets/images/diary-small-slanted.png)](/diary)
 
 #### Jurnal printabil
 

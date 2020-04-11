@@ -20,7 +20,7 @@ Numără respirațiile pe minut ținând mâna suficient de aproape pentru a sim
 
 Îngrijirea imediată la domiciliu pentru probleme respiratorii poate include ventilația camerei pacientului, încearcă diferite tehnici de respirație și există unele poziții de dormit care pot ușura respirația (vezi Nivelul 3, Îngrijirea).
 
-![](/images/dyspnoe.png)
+![](/assets/images/dyspnoe.png)
 
 Dacă tu sau pacientul întâmpinați dificultăți de respirație / respirație obosită, solicitați sfaturi medicale.
 
@@ -28,17 +28,17 @@ Dacă tu sau pacientul întâmpinați dificultăți de respirație / respirație
 
 Dacă ai un oximetru (a se vedea [pagina cumpărăturilor](/shopping)), orice saturație de oxigen mai mică de 95% poate indica o problemă respiratorie. Dacă în orice moment, ** buzele sau vârfurile degetelor devin albastre ** (sau chiar ușor albastre; numită cianoză), cheamă o ambulanță! Dacă nivelul e sub 95%, aerisește camera pacientului și încălzește-l, și ajută-l să se întindă pe burtă (cu pieptul pe podea, spatele în sus) dacă el sau ea poate
 
-![](/images/cyanosis.png)
+![](/assets/images/cyanosis.png)
 
 (De asemenea, sună un medic dacă degetele de la mână sau de la picioare sau buzele devin mai puțin albastre decât în imagine ...)
 
 Dacă pielea pacientului prezintă o aparență dantelată de culoare violetă (denumită și liveo reticularis) ca mai jos (și nu este normal pentru pacient), și acesta este un motiv pentru a solicita ajutor.
 
-![](/images/livedo-reticularis.png)
+![](/assets/images/livedo-reticularis.png)
 
 ### Tensiunea arterială foarte scăzută
 
-Presiunea arterială mai mică decât partea inferioară a intervalului normal (90 mmHg sistolică, 60 mmHg diastolică) este un motiv de îngrijorare. Amintește-ți că tensiunea arterială vine în două numere, presiunea sistolică și diastolică. Dacă ai un dispozitiv automat nesofisticat, ar trebui să indice ambele numere. Dacă ai un astfel de dispozitiv, notează presiunea sistolică pe [jurnalul de boli] (/images/covid-diary.pdf).
+Presiunea arterială mai mică decât partea inferioară a intervalului normal (90 mmHg sistolică, 60 mmHg diastolică) este un motiv de îngrijorare. Amintește-ți că tensiunea arterială vine în două numere, presiunea sistolică și diastolică. Dacă ai un dispozitiv automat nesofisticat, ar trebui să indice ambele numere. Dacă ai un astfel de dispozitiv, notează presiunea sistolică pe [jurnalul de boli] (/assets/images/covid-diary.pdf).
 
 Dacă nu ai un dispozitiv pentru măsurarea tensiunii arteriale sau ai probleme cu cititul valorilor, atunci încearcă să testezi în schimb timpul de reîncărcare capilară al pacientului. Verifică așezând degetele întinse pe o suprafață solidă. Folosește-ți degetul pentru a apăsa în jos pe una din unghiile lui/ei. Unghia ar trebui să își piardă culoarea. Verifică cât timp durează până când unghia revine din nou la culoarea normală. Ar trebui să dureze 1-2 secunde. Dacă durează mai mult asta poate indica tensiunea arterială scăzută. 
 

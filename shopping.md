@@ -39,7 +39,7 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 ### Absolut necesar
 
 * **Termometru pentru febră** (2-10 EUR / USD)([exemplu](https://www.amazon.de/gp/product/B001NYHXYS))
-   > ![](/images/thermometer.png)
+   > ![](/assets/images/thermometer.png)
    >
    > Este foarte important; asigură-te ca termomentrul tău încă funcționează. Verifică bateria dacă e nevoie. Nu este o idee rea sa ai două termometre, în caz de nevoie. La 2-10 dolari pe bucată, pot fi un cadou minunat (dar, întrucât unele trebuie inserate pentru a obține o măsurare mai precisă, este posibil să nu fie tocmai un obiect pe care dorești să-l împrumuți cuiva.)
 
@@ -56,29 +56,29 @@ Am inclus câteva exemple (în general pe versiunea germană a Amazonului), dar 
 ### Este bine să ai
 
 * **Oximetru cu impulsuri** (20-25 EUR / USD) ([exemplu](https://www.amazon.de/gp/product/B07P3ZS6L3) **A se vedea nota de mai jos!**
-   > ![](/images/pulse-oxi.png)
+   > ![](/assets/images/pulse-oxi.png)
    >
    > Aparat mic care se atașează de deget și măsoară frecvența cardiacă (ușor de măsurat și în alte moduri) și saturația de oxigen din sânge (care este greu de măsurat în orice alt mod).
 
 * **Tensiometru / aparat de măsurat tensiunea arterială** (20 EUR / USD sau mai mult) ([exemplu](https://www.amazon.de/gp/product/B07KY867ZH)) **A se vedea nota de mai jos!**
-   > ![](/images/blood-pressure.png)
+   > ![](/assets/images/blood-pressure.png)
    >
    > Există modalități simple de a verifica dacă tensiunea arterială scade prea mult (consultă textul principal de pe acest site). Cu toate acestea, aparatul poate fi util în măsurarea obiectivă a acestui lucru, mai ales dacă dorești să vezi / să monitorizezi tendința tensiunii arteriale a pacientului. <br>
    > ** Cu toate astea ... Ceea ce NU trebuie să faci: ** * Să cumperi un astfel de dispozitiv, să măsori presiunea arterială, să găsești pe Internet ce înseamnă un "interval normal" și să te panichezi dacă tensiunea arterială este mai mare sau inferioară decât acest interval. Mulți oameni au tensiunea arterială ridicată sau scăzută, iar stresul crește tensiunea arterială (și ritmul cardiac). Deși o tensiune arterială crescută pe o perioadă mai lungă de timp poate fi cu siguranță ceva care trebuie menționat medicului, NU ESTE O PROBLEMĂ PENTRU CARE SĂ MERGEȚI LA DOCTOR ÎN TIMPUL UNEI PANDEMII. "*
    
 * **Incontinență / cearșafuri impermeabile** (20 EUR / USD sau mai mult) ([exemplu](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) sau [exemplu](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
-   > ![](/images/sheet.png)
+   > ![](/assets/images/sheet.png)
    >
    > Persoanele bolnave au uneori accidente. Ne vei mulțumi. (De fapt ... Pune două cearșafuri impermeabile pe pat, dacă este încă destul de confortabil. Apoi, înlăturarea stratului superior în timpul nopții, dacă este necesar, va fi suficient.)
 
 * **Inhalator cu abur** (25 EUR / USD sau mai mult) ([exemplu](https://www.amazon.de/gp/product/B07SNQH6CZ))
-   > ![](/images/steam.png)
+   > ![](/assets/images/steam.png)
    >
    > Adesea sunt vândute sub formă de "saună pentru față" sau denumiri asemănătoare, sunt doar dispozitive care produc aburi care nu sunt prea fierbinți pentru a fi inhalați. Orice altă metodă care produce abur se poate folosi atât timp cât aburul nu e prea cald. Folosește apă demineralizată ([exemplu](https://www.amazon.de/gp/product/B07J5Y95MQ)), în special în locurile în care apa de la robinet este bogată în calciu.
    > ** Avertisment: ** Dispozitivele calde, umede, sunt mijloace excelente de răspândire a virusului. Utilizează-le doar pentru persoana bolnavă sau cel puțin curăță-le meticulos. (Nu este recomandabil să utilizezi în comun același lucru între persoanele bolnave, deoarece este posibil ca încărcătura virală a unei persoane poată afecta în continuare negativ cealaltă persoană.)
 
 * **Vitamine** (în jur de 10 EUR / USD) ([exemplu](https://www.amazon.de/dp/B07S63PCZK))
-   > ![](/images/multi-vitamin.png)
+   > ![](/assets/images/multi-vitamin.png)
    >
    > Când pacientul nu prea mai mănâncă, dar încă bea, poți cumpăra multi-vitamine care se dizolvă în apă - câteva cutii. Încearcă să le obții pe cele care conțin aproximativ de 1-2 ori mai mult față de doza recomandată zilnic de vitamine și minerale - nu te arunca la doze uriașe de 1000%.
 
@@ -123,7 +123,7 @@ Pentru a-l da jos: mai întâi scoate-ți mănușile și spală-ți mâinile. Ap
 Cel mai bun mod de a reutiliza EPP în timpul acestei pandemii este probabil să marchezi șapte măști sau seturi de EPP - una / unul pentru fiecare zi a săptămânii. Rotește-le după purtare pentru a sta într-un loc curat pentru o săptămână. Virusul ar trebui să fie mort după această perioadă de timp. În prezent, nu par să existe lipsuri de alte EPP, dar s-ar aplica aceeași strategie de decontaminare a rotației. În mod alternativ, dacă ai nevoie de masca / respirator decontaminate mai repede, pune-le în cuptorul la 70 ° Celsius (aproximativ 160 ° Farenheit) timp de 30 de minute. Pentru suprafețe dure, cum ar fi scuturile feței și ochelarii, soluțiile normale de dezinfectare precum Windex ar trebui să omoare virusul. Pentru suprafețe moi, cum ar fi măștile de bumbac, pulverizarea sau înmuierea cu alcool sau peroxid de hidrogen diluat ar trebui să facă truc. Totuși, pare probabil că utilizarea de căldură, substanțe chimice sau alte tehnici de decontaminare potențiale mai rapide va duce la uzura generală mai slabă a EIP decât rotirea unui set săptămânal în și într-un loc curat. Mai puțină uzură înseamnă o protecție mai bună a EIP.
 
 * **Mască medicală, de preferință N95** (câțiva EUR / USD)
-   > ![](/images/mask.png)
+   > ![](/assets/images/mask.png)
    >
    > Sunt, de asemenea, recomandate măștile respiratorii FFP2 sau FFP3. O mască obișnuită a feței (chirurgicală sau procedurală) este mai bună decât nimic dacă nu poți obține una respiratorie. Ține minte că măștile respiratorii vin în variante cu sau fără supapă. Supapa (adesea un dispozitiv de plastic rotund) lasă nefiltrat aerul expirat. Acest lucru nu este o problemă in situații în care încerci să te protejezi când inhalezi, de exemplu, spray-uri toxice, și poate fi utilă pentru o persoană sănătoasă să se protejeze de o persoană bolnavă cunoscută, dar în niciun caz bolnavul nu trebuie să poarte o versiune cu supapă.
    
@@ -133,10 +133,10 @@ Cel mai bun mod de a reutiliza EPP în timpul acestei pandemii este probabil să
    > Poate că nu poți găsi o mască N95, FFP2, FFP3 sau medicină obișnuită pentru cumpărare în acest moment. Sperăm că această situație nu va dura, deoarece toată lumea va avea un EPP adecvat în curând. Dar cine știe? Doar ajută. Poți să îți faci în continuare propria mască folosind [șablonul nostru de confecționare a măștilor] (https://covid-at-home.info/facemask). Sau înfășură o eșarfă în jurul nasului și gurii, după cum este necesar. Ceva este mai bun decât nimic.
 
 * **Mănuși** (mai puțin de un EUR / USD) ([exemplu](https://www.amazon.de/dp/B01LWJ80C7))
-   > ![](/images/gloves.png) 
+   > ![](/assets/images/gloves.png) 
 
 * **Pelerină de ploaie** (câțiva EUR / USD) ([exemplu](https://www.amazon.de/dp/B07DFDFFRX))
    > Cel mai bine este dacă găsești o pălărină cu mâneci lungi, rezistentă la apă.
 
 * **Protecția ochilor, ochelarii sau protecția feței** (câțiva EUR / USD) ([exemplu](https://www.amazon.de/dp/B002THV25Y))
-   > ![](/images/glasses.png)
+   > ![](/assets/images/glasses.png)
