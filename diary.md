@@ -1,8 +1,8 @@
 ## COVID-19 jurnal
 
-Am creat un exemplu despre cum ar putea arăta o pagină din jurnalul tău COVID. Seamănă foarte mult cu informațiile medicale înregistrate în spital pentru pacienții internați. Poate părea un pic complicat, dar îți permite să urmărești starea de sănătate a pacientului și apoi (dacă trebuie să vezi un medic sau să mergi la spital) să transmiți toate aceste date într-un format cu care medicii sunt familiarizați. Pur și simplu printează câte o pagină pentru fiecare zi în care pacientul este bolnav. Pentru că nu vrei să ai surpriza că ai rămas fără hârtie sau tuș pentru imprimantă, printează în avans 20-30 de exemplare. Nu te panica dacă nu ai tot echipamentul pentru a face toate aceste măsurători. (deși este destul de ieftin și e o idee bună să-l ai oricum în casă, vezi [pagina cumpărături](/cumpărături).
+Am creat un exemplu despre cum ar putea arăta o pagină din jurnalul tău COVID. Seamănă foarte mult cu informațiile medicale înregistrate în spital pentru pacienții internați. Poate părea un pic complicat, dar îți permite să urmărești starea de sănătate a pacientului și apoi (dacă trebuie să vezi un medic sau să mergi la spital) să transmiți toate aceste date într-un format cu care medicii sunt familiarizați. Pur și simplu printează câte o pagină pentru fiecare zi în care pacientul este bolnav. Pentru că nu vrei să ai surpriza că ai rămas fără hârtie sau tuș pentru imprimantă, printează în avans 20-30 de exemplare. Nu te panica dacă nu ai tot echipamentul pentru a face toate aceste măsurători. (deși este destul de ieftin și e o idee bună să-l ai oricum în casă, vezi [pagina cumpărături](/shopping).
 
-<a href="/assets/images/covid-diary.pdf"> <img style = "border: 2px negru solid; drop-shadow (16px 16px 10px negru)" src = "/ images / covid-diary.png"> < / a>
+<a href="/assets/images/covid-diary.pdf"> <img style="border: 2px black solid; drop-shadow(16px 16px 10px black)" src="/assets/images/covid-diary.png"></a>
 
 (fă clic pe imagine pentru a imprima PDF-ul)
 
